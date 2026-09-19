@@ -9,7 +9,7 @@
 ## 下载与使用
 
 - [版本下载](https://github.com/Manfredss/fxn5c-tpf2/releases)：游戏包及可编辑源文件包，以实际附件为准。
-- 创意工坊条目：正在准备，发布成功后补充链接。
+- [创意工坊条目](https://steamcommunity.com/sharedfiles/filedetails/?id=3804171278)：已上传；首次上传后暂处于隐藏／Steam 自动内容检查阶段，可见性以工坊页面为准。
 - 游戏使用目录：`source/fxn5c_v24_source/staging/codex_fxn5c_1`。也可直接使用游戏发布 ZIP。
 - 请先备份存档，不要同时启用同一模组的本地版和工坊版。
 
