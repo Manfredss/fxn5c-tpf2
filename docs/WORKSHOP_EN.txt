@@ -1,0 +1,25 @@
+[h1]China Railway FXN5C Diesel Locomotive[/h1]
+China Railway blue and Jinwen Railway liveries, ten numbered variants for Transport Fever 2.
+
+[h2]Contents[/h2]
+China Railway: 0051, 0066 (Shanghai); 0096, 0102 (Nanjing East); 0057, 0081 (Hangzhou); 0035, 0115 (Xuzhou).
+Jinwen Railway: 7005, 7006. Two purchase groups, I/II end markings, multiple LODs and directional lighting.
+
+[h2]In-game configuration[/h2]
+Power: 3530 kW. Tractive effort: 580 kN. Top speed: 120 km/h. Weight: 150 t.
+Available in all years by default; optionally keep model years (CR: 2024, Jinwen: 2025). Depot markings and dates are project configurations, not certified real-world histories.
+
+[h2]Version and limitations[/h2]
+v0.24 refines the roof profile, paint boundaries, equipment, front markings and Jinwen front stripes, with directional red/moon-white lamps. This is a reference-based reconstruction, not factory CAD. Linkage rods still use deforming skinning rather than exact rigid joints. Extreme curves and hidden structures need further refinement. Static resources have been checked; systematic in-game validation is still pending. Project renders are not game screenshots. Per-number leading inner-lamp colors are custom configurations, not claims about real wiring.
+
+[h2]Editable models and community refinement[/h2]
+[url=https://github.com/Manfredss/fxn5c-tpf2]Source files, issues and contribution guide[/url]
+Editable Blender scenes, static FBXs and generation/checking scripts are provided. The incremental build has historical baseline dependencies; read the build guide first.
+
+[h2]License[/h2]
+Original models, textures and asset data: CC BY-NC-SA 4.0 (attribution, noncommercial, share alike). You may modify and share noncommercial adaptations under that license without asking each time. Credit the project, link the license and describe your changes.
+Original program logic: MIT (commercial code use permitted, not commercial model use). Third-party railway marks, font designs and reference materials are excluded from these grants. See the repository license scope and notices.
+
+[h2]Credits and feedback[/h2]
+Project initiator/reviewer: Manfredss / [ihtw] DisguiseMyse1f. AI-assisted procedural modeling and scripting were used. Thanks to reference contributors; Dreamrail illustrations informed structural reconstruction. Original reference images are not distributed. This is not an official manufacturer, railway-operator or Dreamrail release.
+Back up saves and avoid enabling duplicate local/Workshop copies. Please report version, number, reproduction steps and screenshots. Improvements to bogies, linkages, paint and testing are welcome!

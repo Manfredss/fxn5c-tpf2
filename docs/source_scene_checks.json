@@ -1,0 +1,74 @@
+{
+  "status": "PASS",
+  "public_copy_only": true,
+  "packed_image_paths_rebased": true,
+  "geometry_unchanged": true,
+  "scenes": [
+    {
+      "baseline": "fxn5c_v24_source",
+      "file": "fxn5c_source.blend",
+      "objects": 2511,
+      "external_fonts": 0,
+      "absolute_image_paths": 0,
+      "unpacked_images": 0,
+      "libraries": 0,
+      "texts": 0,
+      "mesh_transform_hash": "14da91e575a1b9c0230891b59c63e29748ead14d432c0cc090c2e27c97589749"
+    },
+    {
+      "baseline": "fxn5c_v24_source",
+      "file": "fxn5c_jinwen_source.blend",
+      "objects": 2503,
+      "external_fonts": 0,
+      "absolute_image_paths": 0,
+      "unpacked_images": 0,
+      "libraries": 0,
+      "texts": 0,
+      "mesh_transform_hash": "e38baa2d0215ad2ae015e8a71dc6b150e7ba0d3d0c5b847995ecdae90458394e"
+    },
+    {
+      "baseline": "fxn5c_v22_source",
+      "file": "fxn5c_source.blend",
+      "objects": 2505,
+      "external_fonts": 0,
+      "absolute_image_paths": 0,
+      "unpacked_images": 0,
+      "libraries": 0,
+      "texts": 0,
+      "mesh_transform_hash": "3fe99a7fe7c31e91a9f04394adff014f5307c900c5489a0441d1b6fce57eada2"
+    },
+    {
+      "baseline": "fxn5c_v22_source",
+      "file": "fxn5c_jinwen_source.blend",
+      "objects": 2493,
+      "external_fonts": 0,
+      "absolute_image_paths": 0,
+      "unpacked_images": 0,
+      "libraries": 0,
+      "texts": 0,
+      "mesh_transform_hash": "18a18392fb4e706841b2f8d7380d2bb6a99217a59abbfaba70e0f0b63ce071f8"
+    },
+    {
+      "baseline": "fxn5c_v23_source",
+      "file": "fxn5c_source.blend",
+      "objects": 2509,
+      "external_fonts": 0,
+      "absolute_image_paths": 0,
+      "unpacked_images": 0,
+      "libraries": 0,
+      "texts": 0,
+      "mesh_transform_hash": "ddcd987653ed203f4a5eab0aa5decaae1217724ba756a21eebe3f0c44677bdec"
+    },
+    {
+      "baseline": "fxn5c_v23_source",
+      "file": "fxn5c_jinwen_source.blend",
+      "objects": 2501,
+      "external_fonts": 0,
+      "absolute_image_paths": 0,
+      "unpacked_images": 0,
+      "libraries": 0,
+      "texts": 0,
+      "mesh_transform_hash": "f41a89445c7b8aa4a01eb039ddbda3e6e187d243aac99ea6e26e26f3e4102bbf"
+    }
+  ]
+}

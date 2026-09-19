@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.blend1
+*.blend2
+runtime/
+*.log
+.DS_Store
+Thumbs.db
+workshop_fileid.txt
+source/fxn5c_v22_source/
+source/fxn5c_v23_source/
+*.zip

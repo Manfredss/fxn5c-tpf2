@@ -1,0 +1,2476 @@
+{
+  "status": "PASS",
+  "scope": "Publication packaging only, not new geometry or engine testing",
+  "languages": [
+    "en",
+    "zh_CN"
+  ],
+  "native_files_unchanged": 614,
+  "preview": {
+    "width": 1024,
+    "height": 1024,
+    "bytes": 104118
+  },
+  "native_files": [
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/black.mtl",
+      "sha256": "4319aa8ee4611c9c752cf559e6562ace50cffa1ec746972ddd01883f96fc293b"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/blue.mtl",
+      "sha256": "46c87424d876134e93f4c494d47338c3970eb09f95cbd4570733d528ec2ac66e"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/cab_floor.mtl",
+      "sha256": "184ccfa30e6c4f81913fc2bbcd12fb736edb526632cf5dee29db7528284c2dde"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/cab_lining.mtl",
+      "sha256": "8f495bbf47f7eac327c472a00249349386ac46f712cc8872e798f13b421fe68c"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/cast_steel.mtl",
+      "sha256": "74b6778b7d2669540af8d318a9726a4a5afa9aae4393781027fce415842342d1"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/cast_steel_skin19.mtl",
+      "sha256": "bed282c51146d29efbf24c5f802cca124895c858bf05e34a09ebed3a824d2df5"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/console.mtl",
+      "sha256": "9f30c9790332b7e37d18579b02ddc1426fd688ba283ae5dce5fdf1f9dacb59c5"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/coupler_steel.mtl",
+      "sha256": "ef0ef1ed566b6a7c2c1096b89c456b71b41037eb0c84b2f5474303aefb79b8ee"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/dark.mtl",
+      "sha256": "a1b9781922c49df9ed7eb7f88ae7d904cb629487a327c48d06c4d4352d413567"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/exhaust_steel.mtl",
+      "sha256": "92c84a9f38685784afda8c9b758416cababcfc51108e01dafc6216b520952276"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/glass_transparent.mtl",
+      "sha256": "df802ab00fa0d1182224d02a638d72d7aba065cb0a37bae0a95a5a17e9a22dea"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/graphite.mtl",
+      "sha256": "e3dcb4fc5dd9b6798e5d571931e0febc7fa0967a7b3a4c465594113d05e65352"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/grille_black.mtl",
+      "sha256": "62272194f397f567c986cb2d4ae6e659fc65e37a73cc47d8cf8105f0781f76bc"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/jw_blue.mtl",
+      "sha256": "9109b2430d4648e076cd6207a1650193c5588267e6318f6adb24aeade8e0fd4b"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/jw_frame.mtl",
+      "sha256": "878cef4d07e0713a9ee569dc0a4d7f982e090ad35d59f30b9a035d1dc87532d0"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/jw_red.mtl",
+      "sha256": "a7402f0d32caa03baa2fb0ea71cc53ff70b8f3c291689e706da4b390fbe0229a"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/jw_roof.mtl",
+      "sha256": "19b8bb8fb4a7f8499fcd30e3ce8c2896f8dd08e6ba916d9719b3fb96a20455b6"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/jw_spring.mtl",
+      "sha256": "974ae6bc2f1c12ac7f2844b60a4ca6017e7e5ba4bad6763c0a23fade974cfe5f"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/jw_spring_skin19.mtl",
+      "sha256": "922268150e61135b82819c51b4d5a167087b581820e6880750c141ec2d5d6dbd"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/jw_white.mtl",
+      "sha256": "dc8068cfc9d8d21fb3053024dddb2821a13dc6e67f8bf4e96bb70d5443518b9d"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/lamp_glass.mtl",
+      "sha256": "434bb60f28e084546521356c9f3199ff85446c71ebdd65609bafc7fb0d053d4e"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/lamp_moon_v24.mtl",
+      "sha256": "46d8a94b6734f9416d38cf261d7aa11c2d226696315825fa88131d41fe1cea6a"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/lamp_red.mtl",
+      "sha256": "d59fdde7b02e5ab4b4ca2006fc6bcf9fa89810a0b5a33880ca80468c45360ee6"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/lamp_white.mtl",
+      "sha256": "ddf6e90831ad35c0b0b2f8ebdd2cd63852ab5431364614d207f6eec3c38b73ef"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/light_blue.mtl",
+      "sha256": "f2068fdbd35dcc07c4e77aa7a8e41da647b3190f65670d98dde6b82cf908fd01"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/metal.mtl",
+      "sha256": "e989015a4c104954de46014955f4c312f6eedd1abc7ad66feedfa380802b6278"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/ochre.mtl",
+      "sha256": "2713d17266a650b985c63f60d65ce17466ad8da858a5f921ee1c732570dde4fc"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/red_paint.mtl",
+      "sha256": "5eee096e530bce0451a51145440cbf2e05b1cdb561e774a0e24b30af9c9213d8"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/roof.mtl",
+      "sha256": "4c9c11f2c8dfa56372c985d0572594fdcee5657f3b660bfcbeeb5d4564e6c478"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/screen.mtl",
+      "sha256": "6c98436110763978eec3c50734df999d75aad2682718b7c021d5288b8517eb7e"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/screen_mark.mtl",
+      "sha256": "5418eeb49ddeb23e9a145dc105353aa3066a708d868b8694169643cb82674853"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/seat_fabric.mtl",
+      "sha256": "ef370d781a0a339c3dc20ff42af2b0d502446910d87d65d73c2896346300c4c4"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/spring_steel.mtl",
+      "sha256": "6b51a7b78598476d99018d774b10f8a45df43eac34438723acd6e541feb2bdbb"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/wheel_steel.mtl",
+      "sha256": "a8a9ed7f966b65e59c325a926e9b01fa4afccd50b7d4cbbf5f1111ba7ba9fa5f"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/white.mtl",
+      "sha256": "dbed3b3f6ea9bc8eefa7c832359bd80a2853ebd6ffd2897db8de3085c3eef7b2"
+    },
+    {
+      "file": "res/models/material/vehicle/train/fxn5c/yellow.mtl",
+      "sha256": "d09b0dfe981a6184a9d21bdc44e3bdf407297de58b0b8306b559d4274bfc7fbd"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/body_lod0.msh",
+      "sha256": "2c0cfa0cbcf3eff4d4c9edb8ac6148483f43a6c75990378cb9331503fdb8953f"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/body_lod0.msh.blob",
+      "sha256": "24e0f18537791c1e941f9428d076cfd2a99b4849796360b81096fe82c0ef242a"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/body_lod1.msh",
+      "sha256": "f6933c2f8ad361bd19cc4dc9afcf53a0be16d3cfede62e4700be7f10f1692a10"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/body_lod1.msh.blob",
+      "sha256": "e7d12dd986bb6d89a24ae8373de5a865e0226f4e68331e80a748664bf6cc5a30"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/body_lod2.msh",
+      "sha256": "19364bdd8be6c7a73e60b90b1efbc0c00319afaf54099b8638b5aa1faaa4d2c9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/body_lod2.msh.blob",
+      "sha256": "46441001cf5158442079fab351e79789ebe2a0f7dfe3ac9012432e6c739e0163"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/bogie_frame_b1_lod0.msh",
+      "sha256": "1dfcfaa20a20900f94c28355342cb2beefe7e795bcbe43952967a844162ffa43"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/bogie_frame_b1_lod0.msh.blob",
+      "sha256": "889ab01ecce86a935983d835aec9f2cbfb8453b9d6527bd9f440573764b42883"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/bogie_frame_b1_lod1.msh",
+      "sha256": "f67e12683a81400de0d9c26fc7143c209c26c56b5810a96dabcfd38a80263dff"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/bogie_frame_b1_lod1.msh.blob",
+      "sha256": "2141e6c4bd72d1e7fff046b263ab940bd0c03b1462e41260ee24f62c33514448"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/bogie_frame_b1_lod2.msh",
+      "sha256": "1f711411d28b3f4d64fe7b4046328b8c806880c6c28148586145a6750d48c692"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/bogie_frame_b1_lod2.msh.blob",
+      "sha256": "60a3067587c34549b3524141cd202ed791ebe3ace92e8acfcd01ad2d3cbda0c2"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/bogie_frame_b2_lod0.msh",
+      "sha256": "1dfcfaa20a20900f94c28355342cb2beefe7e795bcbe43952967a844162ffa43"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/bogie_frame_b2_lod0.msh.blob",
+      "sha256": "1912fbc2acff045554480d1ee851e590a6a06680a029df37ae084c9fadf45bf9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/bogie_frame_b2_lod1.msh",
+      "sha256": "f67e12683a81400de0d9c26fc7143c209c26c56b5810a96dabcfd38a80263dff"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/bogie_frame_b2_lod1.msh.blob",
+      "sha256": "2d1b7ec19f1449e57f894239eead2b62915fa71835fcc27220db05932736d2c5"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/bogie_frame_b2_lod2.msh",
+      "sha256": "1f711411d28b3f4d64fe7b4046328b8c806880c6c28148586145a6750d48c692"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/bogie_frame_b2_lod2.msh.blob",
+      "sha256": "60a3067587c34549b3524141cd202ed791ebe3ace92e8acfcd01ad2d3cbda0c2"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/cab_interior_lod0.msh",
+      "sha256": "9c52ec3050fb1b473080760c9ac15f3d7654396d7d9a690bc5411e082253d76a"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/cab_interior_lod0.msh.blob",
+      "sha256": "6f7c3cf3d4ee344d1cb4de9d88e2458d88aed7ad4b6532b3030fe5852af84567"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/cab_interior_lod1.msh",
+      "sha256": "ceac295200d53e07044c17e478d13e7c532c604d9220ac3ca5d16e287127415b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/cab_interior_lod1.msh.blob",
+      "sha256": "1577000f9308786b75a7e8c1311a741c33ed2c09187304d5362aee24eb55984c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b1_sm_lod0.msh",
+      "sha256": "0c7c4efcf52755aaf050d62027f4f1750b23a9b11b84048656cea18d58d908c1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b1_sm_lod0.msh.blob",
+      "sha256": "9b7a463adf5cb97443faf059835347ef956f43340f1d352f91d8f16d3276e1d8"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b1_sm_lod1.msh",
+      "sha256": "03f4e9a5b27f8e903069cc7f56ee38cb9da6af64b79190a5719bf57b5de9a97b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b1_sm_lod1.msh.blob",
+      "sha256": "4ddac542a5b441f83f1fbf2e5d2fb2ab06969573514ba43acfc03ae7f155ee50"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b1_sp_lod0.msh",
+      "sha256": "0c7c4efcf52755aaf050d62027f4f1750b23a9b11b84048656cea18d58d908c1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b1_sp_lod0.msh.blob",
+      "sha256": "058df3fde5a01b0ec565d0f90c8c69c180c352133ab18ff16a792d4dc15b07f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b1_sp_lod1.msh",
+      "sha256": "03f4e9a5b27f8e903069cc7f56ee38cb9da6af64b79190a5719bf57b5de9a97b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b1_sp_lod1.msh.blob",
+      "sha256": "699791040fd880caa89aa500bab8cbf4cdfe219f12c2fe2f655b3b883ef75f8c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b2_sm_lod0.msh",
+      "sha256": "0c7c4efcf52755aaf050d62027f4f1750b23a9b11b84048656cea18d58d908c1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b2_sm_lod0.msh.blob",
+      "sha256": "745e3a160ca984347ad36fc1a23e53d6ac71864ac50b882beade32c5b14a5c8f"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b2_sm_lod1.msh",
+      "sha256": "03f4e9a5b27f8e903069cc7f56ee38cb9da6af64b79190a5719bf57b5de9a97b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b2_sm_lod1.msh.blob",
+      "sha256": "8b5bfd708a53dadf24a1e33c15e1dc073ea33ef0999a36b8bef1ef740608c054"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b2_sp_lod0.msh",
+      "sha256": "0c7c4efcf52755aaf050d62027f4f1750b23a9b11b84048656cea18d58d908c1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b2_sp_lod0.msh.blob",
+      "sha256": "61e9c78d6b42c6ed831b6052e124443a268eff0e099fa41d898a9f013da7d8f8"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b2_sp_lod1.msh",
+      "sha256": "03f4e9a5b27f8e903069cc7f56ee38cb9da6af64b79190a5719bf57b5de9a97b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_arm_B_b2_sp_lod1.msh.blob",
+      "sha256": "030964c88fe946024340cb996cad8e4e72f7880b9b6e13087ab18f16d20d1dca"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b1_sm_lod0.msh",
+      "sha256": "e63d48aff23dda474ecabb237a24877e3b284939286751c697c0a3748574238f"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b1_sm_lod0.msh.blob",
+      "sha256": "8545d9b47bb2c30269387b9012b94fff1b34fa46ef37d73dfdd2156f3b4c529a"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b1_sm_lod1.msh",
+      "sha256": "833825103d3dcfcf17f12ec5ac65ee307addc57c079631cbfae7b9e800e77c14"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b1_sm_lod1.msh.blob",
+      "sha256": "541bd8f8ff4d2bba9079fe354c2f7574ace91a6b65a2124fcc5e1e11865492d1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b1_sp_lod0.msh",
+      "sha256": "2790d23fe66525e5434410aa58a978a9de2ad52c735d031c74fcf62a881eb48c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b1_sp_lod0.msh.blob",
+      "sha256": "9e5ac1aed55f6c256040e035b79e532c61c2771a10dd4c3b0ca961b2ab9ed560"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b1_sp_lod1.msh",
+      "sha256": "f345634333f8c242c712c3f610ef877e6750fcbed321360db4bf7fde2b9534a1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b1_sp_lod1.msh.blob",
+      "sha256": "e976e4f82e1eec73bf392ea7e831e556520e492c66fdb0c5d53f181253fc2d86"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b2_sm_lod0.msh",
+      "sha256": "e63d48aff23dda474ecabb237a24877e3b284939286751c697c0a3748574238f"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b2_sm_lod0.msh.blob",
+      "sha256": "f1fe591bf7cf148b49df8eb67c5e7c0ba412fe0f7c0b414679aac0473bc7fd9e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b2_sm_lod1.msh",
+      "sha256": "833825103d3dcfcf17f12ec5ac65ee307addc57c079631cbfae7b9e800e77c14"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b2_sm_lod1.msh.blob",
+      "sha256": "2151b6a3ce6a25f0bbd260afad5e9cb51fcc3e460419a950fe0a985159f06a0c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b2_sp_lod0.msh",
+      "sha256": "2790d23fe66525e5434410aa58a978a9de2ad52c735d031c74fcf62a881eb48c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b2_sp_lod0.msh.blob",
+      "sha256": "aa6127f5f5692633d71e08b591cb24e6d9413064a4acb33b2e7cc1420c26700b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b2_sp_lod1.msh",
+      "sha256": "f345634333f8c242c712c3f610ef877e6750fcbed321360db4bf7fde2b9534a1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/conn17_body_A_b2_sp_lod1.msh.blob",
+      "sha256": "fae06935af4da30fabe51008999b4a01af64b6a14928e710e01f9d0ab90098b7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/connection_rods_lod0.msh",
+      "sha256": "e495561216c985ec470b3aab959d945d5936c95085aa545519ea0436458ab269"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/connection_rods_lod0.msh.blob",
+      "sha256": "80340026aae0bce2f39e4607a49d18f08d4f07807d9eb4649e4c2d9fb177d4a2"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/connection_rods_lod1.msh",
+      "sha256": "7568dc93b6fa737ada9acbb54100062d64c093de9880b3315d3dabc8bafc30e9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/connection_rods_lod1.msh.blob",
+      "sha256": "4e8cd690802be48cca89ce5342bce28edbb001ae4bbaa085a38d8eee3b32a475"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_00_lod0.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_00_lod0.msh.blob",
+      "sha256": "3f17fcfcfd1638056a898102766a0f25c069de03a8ccb4b1866e6f29f5d4441e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_00_lod1.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_00_lod1.msh.blob",
+      "sha256": "3f17fcfcfd1638056a898102766a0f25c069de03a8ccb4b1866e6f29f5d4441e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_01_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_01_lod0.msh.blob",
+      "sha256": "be380ea62516076e4e34a2ac2f3777e88c2d52a90a2aa2b1df690bf9071f45d7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_01_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_01_lod1.msh.blob",
+      "sha256": "d5685beccd2a1b282d3658dbd68ed041c3fa4a7f98e0578f9013c3359483aa68"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_02_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_02_lod0.msh.blob",
+      "sha256": "336963b1f2adaf656a059adc9b64cf9832913b470222e805fb776397f2edbad2"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_02_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_02_lod1.msh.blob",
+      "sha256": "30be0bce2291306e53ad5febeeddc3e21fd937b31c79214dc3bbafaacea7a099"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_03_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_03_lod0.msh.blob",
+      "sha256": "e1dfe721be03cdbb0cad6f93ce6a782eb776c2761b367d26ede2acc14cc996f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_03_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_03_lod1.msh.blob",
+      "sha256": "e1dfe721be03cdbb0cad6f93ce6a782eb776c2761b367d26ede2acc14cc996f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_04_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_04_lod0.msh.blob",
+      "sha256": "00a6e89d28ab5a38f44e00565f3e9ccf3b705af8caf97ed8ee5cabc07f518e45"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_04_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_04_lod1.msh.blob",
+      "sha256": "00a6e89d28ab5a38f44e00565f3e9ccf3b705af8caf97ed8ee5cabc07f518e45"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_05_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_05_lod0.msh.blob",
+      "sha256": "c17a96acfaea4c96980a937a988a04a5c5249db32cdf2f58728b972a04b2b8df"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_05_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_05_lod1.msh.blob",
+      "sha256": "c17a96acfaea4c96980a937a988a04a5c5249db32cdf2f58728b972a04b2b8df"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_06_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_06_lod0.msh.blob",
+      "sha256": "dcd4ed04cad0780ab8dfe7c5ce09ab0595baaecc3625c41cc01ba00acb06ebea"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_06_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_06_lod1.msh.blob",
+      "sha256": "dcd4ed04cad0780ab8dfe7c5ce09ab0595baaecc3625c41cc01ba00acb06ebea"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_07_lod0.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_07_lod0.msh.blob",
+      "sha256": "128fede5ff64df388f7e884472674a6b7f84f815a9bad3873e71992c8c9d5d50"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_07_lod1.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_07_lod1.msh.blob",
+      "sha256": "128fede5ff64df388f7e884472674a6b7f84f815a9bad3873e71992c8c9d5d50"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_08_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_08_lod0.msh.blob",
+      "sha256": "73d98f81bc3352501ec5c19cdfd2ad2985324254332f88cd08eb647a248632ec"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_08_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_08_lod1.msh.blob",
+      "sha256": "1790c0eb331c20116a3ff9c718ed43489137b36a76debceca4c3413f24b8298d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_09_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_09_lod0.msh.blob",
+      "sha256": "5bc6ee9e7b738adde6437a7fb5e9da7f08fa1b0b9a21285451947b6762625245"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_09_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_09_lod1.msh.blob",
+      "sha256": "397a0b2af53a22e2a510b8f6b28d0cb2b0f37d2839538e65ce6cdfa26ff7e37a"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_10_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_10_lod0.msh.blob",
+      "sha256": "0603d706bfd8669430ecbb8a5e19b73387eb50cb6ca746298d82340fb490f43e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_10_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_10_lod1.msh.blob",
+      "sha256": "0603d706bfd8669430ecbb8a5e19b73387eb50cb6ca746298d82340fb490f43e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_11_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_11_lod0.msh.blob",
+      "sha256": "89cca074dbad06414a70deb8aa24875043e1ed2fd2a14f7d76d5776663d934a9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_11_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_11_lod1.msh.blob",
+      "sha256": "89cca074dbad06414a70deb8aa24875043e1ed2fd2a14f7d76d5776663d934a9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_12_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_12_lod0.msh.blob",
+      "sha256": "dda28a9ded9743adeb28b613ec04a4a8151fa7648e17f3d3d6ef588c464604d5"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_12_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_12_lod1.msh.blob",
+      "sha256": "dda28a9ded9743adeb28b613ec04a4a8151fa7648e17f3d3d6ef588c464604d5"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_13_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_13_lod0.msh.blob",
+      "sha256": "b4724f230bc0e6408f6b20537a90d93dd6ae814097d9c8dfceec400250cf6f2d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_13_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_13_lod1.msh.blob",
+      "sha256": "b4724f230bc0e6408f6b20537a90d93dd6ae814097d9c8dfceec400250cf6f2d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_14_lod0.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_14_lod0.msh.blob",
+      "sha256": "d320337b452110a6fc34ca0c01ef2f206c7d8f0f9e8956bc896ca03067bb54c7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_14_lod1.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_14_lod1.msh.blob",
+      "sha256": "d320337b452110a6fc34ca0c01ef2f206c7d8f0f9e8956bc896ca03067bb54c7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_15_lod0.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_15_lod0.msh.blob",
+      "sha256": "0f838faacb555a674e7244acf9e36be31f947506dc8f7224df9388ad690045f4"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_15_lod1.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_15_lod1.msh.blob",
+      "sha256": "0f838faacb555a674e7244acf9e36be31f947506dc8f7224df9388ad690045f4"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_16_lod0.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_16_lod0.msh.blob",
+      "sha256": "b2ced09fde349aa6f28c67c759409d873b48891c5b1319f31f01d09d5da7f892"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_16_lod1.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_16_lod1.msh.blob",
+      "sha256": "b2ced09fde349aa6f28c67c759409d873b48891c5b1319f31f01d09d5da7f892"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_17_lod0.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_17_lod0.msh.blob",
+      "sha256": "0bef56ad9bb9955bb30f30e16223fd4d99a2ba40f7515d7b95306a009d784f0f"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_17_lod1.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_17_lod1.msh.blob",
+      "sha256": "0bef56ad9bb9955bb30f30e16223fd4d99a2ba40f7515d7b95306a009d784f0f"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_18_lod0.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_18_lod0.msh.blob",
+      "sha256": "8d4271d61dc3f9f4ce290a1086121df0cfb38b1805d480aef86f8d8085c35205"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_18_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_18_lod1.msh.blob",
+      "sha256": "8d4271d61dc3f9f4ce290a1086121df0cfb38b1805d480aef86f8d8085c35205"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_19_lod0.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_19_lod0.msh.blob",
+      "sha256": "3329ee4525d53b129e6f4c39e8257acdc5e4fbad1d81c2392f719dc09bd72a52"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_19_lod1.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_19_lod1.msh.blob",
+      "sha256": "3329ee4525d53b129e6f4c39e8257acdc5e4fbad1d81c2392f719dc09bd72a52"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_20_lod0.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_20_lod0.msh.blob",
+      "sha256": "beecd902c6b785dd50d19f864375e2c56f93053cb365e55534faba8a1788d517"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_20_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_20_lod1.msh.blob",
+      "sha256": "beecd902c6b785dd50d19f864375e2c56f93053cb365e55534faba8a1788d517"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_21_lod0.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_21_lod0.msh.blob",
+      "sha256": "2637ae4e73e379d6ebd23ddaa277dadc0733951cf6f8cb2d56cefa1ed967e532"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_21_lod1.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_21_lod1.msh.blob",
+      "sha256": "2637ae4e73e379d6ebd23ddaa277dadc0733951cf6f8cb2d56cefa1ed967e532"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_22_lod0.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_22_lod0.msh.blob",
+      "sha256": "e38add22315703b6b5ba0d1d704b34b8f68fab7c8c4d37ca9359d599858dca49"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_22_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_22_lod1.msh.blob",
+      "sha256": "e38add22315703b6b5ba0d1d704b34b8f68fab7c8c4d37ca9359d599858dca49"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_23_lod0.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_23_lod0.msh.blob",
+      "sha256": "ae272b412419f14863d748004a9d3b905766bbb183d89089fc1a4e61c024216d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_23_lod1.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_23_lod1.msh.blob",
+      "sha256": "ae272b412419f14863d748004a9d3b905766bbb183d89089fc1a4e61c024216d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_24_lod0.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_24_lod0.msh.blob",
+      "sha256": "6dd68c8c3288493f884448db91ecb38c87af5627ba03255159bf16991ff0ccc7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_24_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_24_lod1.msh.blob",
+      "sha256": "6dd68c8c3288493f884448db91ecb38c87af5627ba03255159bf16991ff0ccc7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_25_lod0.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_25_lod0.msh.blob",
+      "sha256": "6e5e794f198c62ec63b087fa9d1ca4ed6336a7301254a761b37844e23948800b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_25_lod1.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/glazing_25_lod1.msh.blob",
+      "sha256": "6e5e794f198c62ec63b087fa9d1ca4ed6336a7301254a761b37844e23948800b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/headlights_bwd_lod0.msh",
+      "sha256": "d7daf416b63c8deeca7fa4ac0c303367607602e8f9371fce4eb6ccef0870bc19"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/headlights_bwd_lod0.msh.blob",
+      "sha256": "b302fc22b60f465c7655673b5f9322e6da03f36f0e7b5a8c940dfada483ba89c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/headlights_bwd_lod1.msh",
+      "sha256": "d7daf416b63c8deeca7fa4ac0c303367607602e8f9371fce4eb6ccef0870bc19"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/headlights_bwd_lod1.msh.blob",
+      "sha256": "b302fc22b60f465c7655673b5f9322e6da03f36f0e7b5a8c940dfada483ba89c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/headlights_fwd_lod0.msh",
+      "sha256": "d7daf416b63c8deeca7fa4ac0c303367607602e8f9371fce4eb6ccef0870bc19"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/headlights_fwd_lod0.msh.blob",
+      "sha256": "268230d3b9f55f904405330df2f97286c88537efebc11552928b5d1994095f35"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/headlights_fwd_lod1.msh",
+      "sha256": "d7daf416b63c8deeca7fa4ac0c303367607602e8f9371fce4eb6ccef0870bc19"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/headlights_fwd_lod1.msh.blob",
+      "sha256": "268230d3b9f55f904405330df2f97286c88537efebc11552928b5d1994095f35"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/light24_bwd_lod0.msh",
+      "sha256": "5fa027019db13a15525915d1d8850d294160f93588ca24d9908d7d4309816ea8"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/light24_bwd_lod0.msh.blob",
+      "sha256": "17386f803d620a161dbb56f50fc8eb3fbed7d20b9c884800045268e4dbf0e679"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/light24_bwd_lod1.msh",
+      "sha256": "52f77cd2fd2f74724e74edb86492aa9e338045696784389b0ed3f3e0ef46f332"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/light24_bwd_lod1.msh.blob",
+      "sha256": "20ecf46bb15d28a6275613485b8de65da8290e71ae8a9f03a5446d9562f1807f"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/light24_fwd_lod0.msh",
+      "sha256": "5fa027019db13a15525915d1d8850d294160f93588ca24d9908d7d4309816ea8"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/light24_fwd_lod0.msh.blob",
+      "sha256": "b1f56468f486a6edc9e3d493bd0d5ef5f32263dcfe18700b5c89ae249d6f4615"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/light24_fwd_lod1.msh",
+      "sha256": "52f77cd2fd2f74724e74edb86492aa9e338045696784389b0ed3f3e0ef46f332"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/light24_fwd_lod1.msh.blob",
+      "sha256": "a60379486f6f680ff139b5616fe7d8d7c9de8e46a571a2464ffcd60aa1a19eb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0035_lod0.msh",
+      "sha256": "283d4c4513a46aae3924b3c8396f084264d0cda61332a9f98530bc63a9f68f99"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0035_lod0.msh.blob",
+      "sha256": "d9580d4ee85003ec3071b5c3d6de12734b54dab69ad4843277e3bddfd9f5e74d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0035_lod1.msh",
+      "sha256": "b15df6884314521a0f126cede9f2df1397eb7414033818367cfd003866dce149"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0035_lod1.msh.blob",
+      "sha256": "c14eb98f0bdca9d683626118539a29241a7ac12096b4506fb4b9159682fa7e14"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0051_lod0.msh",
+      "sha256": "0d534b551601ecb6913eb52fc19f01753f8a7f97fd4ba703b2bdae1612f61798"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0051_lod0.msh.blob",
+      "sha256": "9263538d03bf5d06f7059594c2dc2aa985e37ed1077646cc1374eeab0dd09bd3"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0051_lod1.msh",
+      "sha256": "026fe55a74ba796aa9089f278c66f611ccf41c32cbdef650ef7928e7bdd5c8df"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0051_lod1.msh.blob",
+      "sha256": "1e4964f844569afb362ad75f44be603919e34d092f2439178af95c26185f1bdc"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0057_lod0.msh",
+      "sha256": "b319f53c23d535fe309c263d9017f0bb774bd4446dc46d664cd7faab2ef6892e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0057_lod0.msh.blob",
+      "sha256": "79e067602a7cd67e632687a894b192135ddec252ba8ca344c352f2f5b62b1855"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0057_lod1.msh",
+      "sha256": "458e341ebb79974f9308fe1c04e4f0b3ee3945d8d8942ac7aa715ca8e048caae"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0057_lod1.msh.blob",
+      "sha256": "9b30d7fd621353df58ef3537041ec0141e6e652c7f1465e61c9fbbdb9a4c4961"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0066_lod0.msh",
+      "sha256": "8bb4509a6e631e20851ca892de7177c836996b55e532afe4a116bf5bb6b3ba5b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0066_lod0.msh.blob",
+      "sha256": "e490b4f739ccdf68939e4046c3029b4b1e3179570336ea8ba3d10e1df3b65326"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0066_lod1.msh",
+      "sha256": "409f173084af9c5ae11ad3db27d4bc78a311c8f90f4428019f2e3e0db4c8f46e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0066_lod1.msh.blob",
+      "sha256": "f42bbcc32743e17ffacee290b987e7155b239086e09ca71fba1bcea5cdc77499"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0081_lod0.msh",
+      "sha256": "fe0c1101cf51fd422f605f26c96bfb2565af34374c928c3ab58b3911bb652536"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0081_lod0.msh.blob",
+      "sha256": "bfdc720f21afafea1122b904548e1e521fe04d57936dd3dc4ee113342f77794e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0081_lod1.msh",
+      "sha256": "88348850633a383f4647ab8e165a24e805bfae9603708d8e0dc9d7b1315b9e98"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0081_lod1.msh.blob",
+      "sha256": "8a20bf7d63943b8a658fa2435f2afa15508396066d293cb0834c3028c08348d6"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0096_lod0.msh",
+      "sha256": "09943ff5973d02757078ff9f73f6a08fcaba7f32783c986cfed2640f7d7af5c1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0096_lod0.msh.blob",
+      "sha256": "00f33a39a8aa2dc64473c900359f498892c018b0336efb8c860218fb6ba8e9f0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0096_lod1.msh",
+      "sha256": "4134166d3decf2c0e5194dc1dcc273f0928aa89039c3ad526093db656063047d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0096_lod1.msh.blob",
+      "sha256": "37bbc09167183863ac3ebe9d57148718037c6a4141b00438a31d719374a7dddb"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0102_lod0.msh",
+      "sha256": "e17ebfbe49ef9ac11f75cbba1848d4ebce8d74ec205243db218117f54c4dceb6"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0102_lod0.msh.blob",
+      "sha256": "195bc2d00779009e4ff8eed901850cb99438389f74475b200b8282f32fe5730b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0102_lod1.msh",
+      "sha256": "b51a72e854d90146df696c412f91d5099da2fbc2f0a3d75dad30e4cf5d77a715"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0102_lod1.msh.blob",
+      "sha256": "98978aad85d94c988682d3063688b7faf8c8d198775d4df5d86ee67ae88bf474"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0115_lod0.msh",
+      "sha256": "2bbe9b342f917b3984d6839fe29156af891c2948a6deeab01788056f1074271c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0115_lod0.msh.blob",
+      "sha256": "3f46470649fa6c83ea9aa09a2f5574289157742a16e1fb1e9fffbd6999353747"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0115_lod1.msh",
+      "sha256": "1f138f8a0ffd199611602c69715ae0164018cd5a724cadb6721ff9691d447dbe"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/signage_0115_lod1.msh.blob",
+      "sha256": "e7fa7c3d7eb49a42400794500a75e266973cf5d3b9ee631bd7b6d6cb97978b38"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/taillights_bwd_lod0.msh",
+      "sha256": "b31ddd5878b4986422ba5a1a30f78465980c8b9dbbb240ade1e0681117f7fcd9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/taillights_bwd_lod0.msh.blob",
+      "sha256": "fc4199774e64ec76090c8be3e37ccd3d08a36dc517954c973dda62117d63767e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/taillights_bwd_lod1.msh",
+      "sha256": "b31ddd5878b4986422ba5a1a30f78465980c8b9dbbb240ade1e0681117f7fcd9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/taillights_bwd_lod1.msh.blob",
+      "sha256": "fc4199774e64ec76090c8be3e37ccd3d08a36dc517954c973dda62117d63767e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/taillights_fwd_lod0.msh",
+      "sha256": "b31ddd5878b4986422ba5a1a30f78465980c8b9dbbb240ade1e0681117f7fcd9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/taillights_fwd_lod0.msh.blob",
+      "sha256": "af0db17e5344523056a6c7c1e337b1eb0eb077d40a589f8121d8edfd4eb0a07c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/taillights_fwd_lod1.msh",
+      "sha256": "b31ddd5878b4986422ba5a1a30f78465980c8b9dbbb240ade1e0681117f7fcd9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/taillights_fwd_lod1.msh.blob",
+      "sha256": "af0db17e5344523056a6c7c1e337b1eb0eb077d40a589f8121d8edfd4eb0a07c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/wheelset_lod0.msh",
+      "sha256": "0746baf87f954f4779a84d0e807fd7ccfa8c0624fa1aece721756e4e5906177b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/wheelset_lod0.msh.blob",
+      "sha256": "cd0a744d130b3d195660b99addd726d6ade7b89b5c91034e942594b8d5799ff7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/wheelset_lod1.msh",
+      "sha256": "1f1430837c561b163369134a4af5811b84eba398297ea4f36f8da545e0d9a85a"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/wheelset_lod1.msh.blob",
+      "sha256": "3a7707efa980bb444226797e9a405109b3bb8a71c0f1c269554208e790503fcc"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/wheelset_lod2.msh",
+      "sha256": "b94f3b5aa9673f60a7fe8cb18d4de96b77409e9327031749a7a533ef96c90402"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c/wheelset_lod2.msh.blob",
+      "sha256": "1aca30d7e841ef0cd15a4ae5bffd33478ddc2e01c8fff95649f592173f81bed0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/body_lod0.msh",
+      "sha256": "e6970308b210ccb0fc13c4d169afbd11059a7b72b09006b81f442e54934bfc47"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/body_lod0.msh.blob",
+      "sha256": "da05acbc05614bb85bd65e63ae16d361666b28134f748498c8c70ad82fb78964"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/body_lod1.msh",
+      "sha256": "f7424c72b52176e73ba5c869b31e5ce6ab93aba63c1fe601378ba5a3f9871f7c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/body_lod1.msh.blob",
+      "sha256": "7c37847885e5be0329401691892c0d61f301af5cbc5718256150e63efbc10670"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/body_lod2.msh",
+      "sha256": "1fd634c86603691067b804e17fbe7870c58d2fa8c91c798d6a05bfc18d888a5a"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/body_lod2.msh.blob",
+      "sha256": "2ebf8ab1d0b5ee89939b1ae0e20c77a612cda3acfd1049b8cfe29434ab7d90e7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/bogie_frame_b1_lod0.msh",
+      "sha256": "c93a08cc584d7ee74a192c941e2befb0684399e3b7b4c214644ff66eddafe46d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/bogie_frame_b1_lod0.msh.blob",
+      "sha256": "7a8fcbce614b32ea4054296c7b6aee7f3c90dfd4c71e431909e6fbce0c18540b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/bogie_frame_b1_lod1.msh",
+      "sha256": "cebfc8c1269db7bb0272934b598f69969ce479c3696ce6f4cc0439319cb41a08"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/bogie_frame_b1_lod1.msh.blob",
+      "sha256": "0537291f1206d2c04218990177e82129bb384dbb0a96bad4242ed0fe9205e9b8"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/bogie_frame_b1_lod2.msh",
+      "sha256": "1f711411d28b3f4d64fe7b4046328b8c806880c6c28148586145a6750d48c692"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/bogie_frame_b1_lod2.msh.blob",
+      "sha256": "60a3067587c34549b3524141cd202ed791ebe3ace92e8acfcd01ad2d3cbda0c2"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/bogie_frame_b2_lod0.msh",
+      "sha256": "c93a08cc584d7ee74a192c941e2befb0684399e3b7b4c214644ff66eddafe46d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/bogie_frame_b2_lod0.msh.blob",
+      "sha256": "3265dd36bc6d6341874d176864f937bddb295b862e5fa83e826d75e4ab42e4af"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/bogie_frame_b2_lod1.msh",
+      "sha256": "cebfc8c1269db7bb0272934b598f69969ce479c3696ce6f4cc0439319cb41a08"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/bogie_frame_b2_lod1.msh.blob",
+      "sha256": "45e5289dde0c85f807583df0ca030212cae6e1dbd35115b18fcaa963c1230aa8"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/bogie_frame_b2_lod2.msh",
+      "sha256": "1f711411d28b3f4d64fe7b4046328b8c806880c6c28148586145a6750d48c692"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/bogie_frame_b2_lod2.msh.blob",
+      "sha256": "60a3067587c34549b3524141cd202ed791ebe3ace92e8acfcd01ad2d3cbda0c2"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/cab_interior_lod0.msh",
+      "sha256": "9c52ec3050fb1b473080760c9ac15f3d7654396d7d9a690bc5411e082253d76a"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/cab_interior_lod0.msh.blob",
+      "sha256": "6f7c3cf3d4ee344d1cb4de9d88e2458d88aed7ad4b6532b3030fe5852af84567"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/cab_interior_lod1.msh",
+      "sha256": "ceac295200d53e07044c17e478d13e7c532c604d9220ac3ca5d16e287127415b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/cab_interior_lod1.msh.blob",
+      "sha256": "1577000f9308786b75a7e8c1311a741c33ed2c09187304d5362aee24eb55984c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b1_sm_lod0.msh",
+      "sha256": "738096779dbf1d8ee3b65c76d2c090da4e206088d68807a1c8a33f83988a9ab4"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b1_sm_lod0.msh.blob",
+      "sha256": "9b7a463adf5cb97443faf059835347ef956f43340f1d352f91d8f16d3276e1d8"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b1_sm_lod1.msh",
+      "sha256": "cd99c0e7961450a852ae9cce34bcd1ec2155eedb81230e9d43670eb5ca6850d2"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b1_sm_lod1.msh.blob",
+      "sha256": "4ddac542a5b441f83f1fbf2e5d2fb2ab06969573514ba43acfc03ae7f155ee50"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b1_sp_lod0.msh",
+      "sha256": "738096779dbf1d8ee3b65c76d2c090da4e206088d68807a1c8a33f83988a9ab4"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b1_sp_lod0.msh.blob",
+      "sha256": "058df3fde5a01b0ec565d0f90c8c69c180c352133ab18ff16a792d4dc15b07f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b1_sp_lod1.msh",
+      "sha256": "cd99c0e7961450a852ae9cce34bcd1ec2155eedb81230e9d43670eb5ca6850d2"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b1_sp_lod1.msh.blob",
+      "sha256": "699791040fd880caa89aa500bab8cbf4cdfe219f12c2fe2f655b3b883ef75f8c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b2_sm_lod0.msh",
+      "sha256": "738096779dbf1d8ee3b65c76d2c090da4e206088d68807a1c8a33f83988a9ab4"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b2_sm_lod0.msh.blob",
+      "sha256": "745e3a160ca984347ad36fc1a23e53d6ac71864ac50b882beade32c5b14a5c8f"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b2_sm_lod1.msh",
+      "sha256": "cd99c0e7961450a852ae9cce34bcd1ec2155eedb81230e9d43670eb5ca6850d2"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b2_sm_lod1.msh.blob",
+      "sha256": "8b5bfd708a53dadf24a1e33c15e1dc073ea33ef0999a36b8bef1ef740608c054"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b2_sp_lod0.msh",
+      "sha256": "738096779dbf1d8ee3b65c76d2c090da4e206088d68807a1c8a33f83988a9ab4"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b2_sp_lod0.msh.blob",
+      "sha256": "61e9c78d6b42c6ed831b6052e124443a268eff0e099fa41d898a9f013da7d8f8"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b2_sp_lod1.msh",
+      "sha256": "cd99c0e7961450a852ae9cce34bcd1ec2155eedb81230e9d43670eb5ca6850d2"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_arm_B_b2_sp_lod1.msh.blob",
+      "sha256": "030964c88fe946024340cb996cad8e4e72f7880b9b6e13087ab18f16d20d1dca"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b1_sm_lod0.msh",
+      "sha256": "b3017902ae02b60ae390e2a959a56ecf44ed266410317d95653fde453363c306"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b1_sm_lod0.msh.blob",
+      "sha256": "8d7646fc92edd844fdcfbf0447a22deb10d8e26757d1e771dff6f5fd83d7a3d4"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b1_sm_lod1.msh",
+      "sha256": "4a7964ce024e5b08774ccd0dbd5db2625f95115a151cf5c537478e7f551a304d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b1_sm_lod1.msh.blob",
+      "sha256": "a11b7f3f099082536c296c53db87b3d3a20bbda757bb24b66a1d56aeba948e61"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b1_sp_lod0.msh",
+      "sha256": "753880eaf0722a861322e87d1262de43dcdd9b75b4f7d150e6599119411d1377"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b1_sp_lod0.msh.blob",
+      "sha256": "42b7bf5c0378b44969b44ce0e8331dc10c59974579ffff89038d6ccf82f6a81d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b1_sp_lod1.msh",
+      "sha256": "6021797b858a288914033d0d2a47377806cc0f157fb9de406acf2e9262ee8676"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b1_sp_lod1.msh.blob",
+      "sha256": "54a20c0daba6d0c050389fee67ce1cf732f95edc7fac9c3a565782c7e08a7b0a"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b2_sm_lod0.msh",
+      "sha256": "b3017902ae02b60ae390e2a959a56ecf44ed266410317d95653fde453363c306"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b2_sm_lod0.msh.blob",
+      "sha256": "2ad0293738fb71c2b60d7291d9910541615b369302a6923dbf922bf25a9bf88b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b2_sm_lod1.msh",
+      "sha256": "4a7964ce024e5b08774ccd0dbd5db2625f95115a151cf5c537478e7f551a304d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b2_sm_lod1.msh.blob",
+      "sha256": "8853b25561849e6462fc9c6dc38679c06423c63e833f366b37557f15d620c77c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b2_sp_lod0.msh",
+      "sha256": "753880eaf0722a861322e87d1262de43dcdd9b75b4f7d150e6599119411d1377"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b2_sp_lod0.msh.blob",
+      "sha256": "fca950f84243c1e85f539f1eda3a40f61495b308a6b365d43ee7f3f3ed4b608b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b2_sp_lod1.msh",
+      "sha256": "6021797b858a288914033d0d2a47377806cc0f157fb9de406acf2e9262ee8676"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/conn17_body_A_b2_sp_lod1.msh.blob",
+      "sha256": "cc0380cdfb08b2141536bd32ff92cc283871f039d55b0e2a15faab6a8eb9d53e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/connection_rods_lod0.msh",
+      "sha256": "e495561216c985ec470b3aab959d945d5936c95085aa545519ea0436458ab269"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/connection_rods_lod0.msh.blob",
+      "sha256": "80340026aae0bce2f39e4607a49d18f08d4f07807d9eb4649e4c2d9fb177d4a2"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/connection_rods_lod1.msh",
+      "sha256": "7568dc93b6fa737ada9acbb54100062d64c093de9880b3315d3dabc8bafc30e9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/connection_rods_lod1.msh.blob",
+      "sha256": "4e8cd690802be48cca89ce5342bce28edbb001ae4bbaa085a38d8eee3b32a475"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_00_lod0.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_00_lod0.msh.blob",
+      "sha256": "3f17fcfcfd1638056a898102766a0f25c069de03a8ccb4b1866e6f29f5d4441e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_00_lod1.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_00_lod1.msh.blob",
+      "sha256": "3f17fcfcfd1638056a898102766a0f25c069de03a8ccb4b1866e6f29f5d4441e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_01_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_01_lod0.msh.blob",
+      "sha256": "be380ea62516076e4e34a2ac2f3777e88c2d52a90a2aa2b1df690bf9071f45d7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_01_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_01_lod1.msh.blob",
+      "sha256": "d5685beccd2a1b282d3658dbd68ed041c3fa4a7f98e0578f9013c3359483aa68"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_02_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_02_lod0.msh.blob",
+      "sha256": "336963b1f2adaf656a059adc9b64cf9832913b470222e805fb776397f2edbad2"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_02_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_02_lod1.msh.blob",
+      "sha256": "30be0bce2291306e53ad5febeeddc3e21fd937b31c79214dc3bbafaacea7a099"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_03_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_03_lod0.msh.blob",
+      "sha256": "e1dfe721be03cdbb0cad6f93ce6a782eb776c2761b367d26ede2acc14cc996f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_03_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_03_lod1.msh.blob",
+      "sha256": "e1dfe721be03cdbb0cad6f93ce6a782eb776c2761b367d26ede2acc14cc996f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_04_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_04_lod0.msh.blob",
+      "sha256": "00a6e89d28ab5a38f44e00565f3e9ccf3b705af8caf97ed8ee5cabc07f518e45"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_04_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_04_lod1.msh.blob",
+      "sha256": "00a6e89d28ab5a38f44e00565f3e9ccf3b705af8caf97ed8ee5cabc07f518e45"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_05_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_05_lod0.msh.blob",
+      "sha256": "c17a96acfaea4c96980a937a988a04a5c5249db32cdf2f58728b972a04b2b8df"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_05_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_05_lod1.msh.blob",
+      "sha256": "c17a96acfaea4c96980a937a988a04a5c5249db32cdf2f58728b972a04b2b8df"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_06_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_06_lod0.msh.blob",
+      "sha256": "dcd4ed04cad0780ab8dfe7c5ce09ab0595baaecc3625c41cc01ba00acb06ebea"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_06_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_06_lod1.msh.blob",
+      "sha256": "dcd4ed04cad0780ab8dfe7c5ce09ab0595baaecc3625c41cc01ba00acb06ebea"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_07_lod0.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_07_lod0.msh.blob",
+      "sha256": "128fede5ff64df388f7e884472674a6b7f84f815a9bad3873e71992c8c9d5d50"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_07_lod1.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_07_lod1.msh.blob",
+      "sha256": "128fede5ff64df388f7e884472674a6b7f84f815a9bad3873e71992c8c9d5d50"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_08_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_08_lod0.msh.blob",
+      "sha256": "73d98f81bc3352501ec5c19cdfd2ad2985324254332f88cd08eb647a248632ec"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_08_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_08_lod1.msh.blob",
+      "sha256": "1790c0eb331c20116a3ff9c718ed43489137b36a76debceca4c3413f24b8298d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_09_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_09_lod0.msh.blob",
+      "sha256": "5bc6ee9e7b738adde6437a7fb5e9da7f08fa1b0b9a21285451947b6762625245"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_09_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_09_lod1.msh.blob",
+      "sha256": "397a0b2af53a22e2a510b8f6b28d0cb2b0f37d2839538e65ce6cdfa26ff7e37a"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_10_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_10_lod0.msh.blob",
+      "sha256": "0603d706bfd8669430ecbb8a5e19b73387eb50cb6ca746298d82340fb490f43e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_10_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_10_lod1.msh.blob",
+      "sha256": "0603d706bfd8669430ecbb8a5e19b73387eb50cb6ca746298d82340fb490f43e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_11_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_11_lod0.msh.blob",
+      "sha256": "89cca074dbad06414a70deb8aa24875043e1ed2fd2a14f7d76d5776663d934a9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_11_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_11_lod1.msh.blob",
+      "sha256": "89cca074dbad06414a70deb8aa24875043e1ed2fd2a14f7d76d5776663d934a9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_12_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_12_lod0.msh.blob",
+      "sha256": "dda28a9ded9743adeb28b613ec04a4a8151fa7648e17f3d3d6ef588c464604d5"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_12_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_12_lod1.msh.blob",
+      "sha256": "dda28a9ded9743adeb28b613ec04a4a8151fa7648e17f3d3d6ef588c464604d5"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_13_lod0.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_13_lod0.msh.blob",
+      "sha256": "b4724f230bc0e6408f6b20537a90d93dd6ae814097d9c8dfceec400250cf6f2d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_13_lod1.msh",
+      "sha256": "aee896b5019f5c6539f654075f16c9b22fb97d99d7ce1530240b64b103b33fb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_13_lod1.msh.blob",
+      "sha256": "b4724f230bc0e6408f6b20537a90d93dd6ae814097d9c8dfceec400250cf6f2d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_14_lod0.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_14_lod0.msh.blob",
+      "sha256": "d320337b452110a6fc34ca0c01ef2f206c7d8f0f9e8956bc896ca03067bb54c7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_14_lod1.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_14_lod1.msh.blob",
+      "sha256": "d320337b452110a6fc34ca0c01ef2f206c7d8f0f9e8956bc896ca03067bb54c7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_15_lod0.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_15_lod0.msh.blob",
+      "sha256": "0f838faacb555a674e7244acf9e36be31f947506dc8f7224df9388ad690045f4"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_15_lod1.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_15_lod1.msh.blob",
+      "sha256": "0f838faacb555a674e7244acf9e36be31f947506dc8f7224df9388ad690045f4"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_16_lod0.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_16_lod0.msh.blob",
+      "sha256": "b2ced09fde349aa6f28c67c759409d873b48891c5b1319f31f01d09d5da7f892"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_16_lod1.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_16_lod1.msh.blob",
+      "sha256": "b2ced09fde349aa6f28c67c759409d873b48891c5b1319f31f01d09d5da7f892"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_17_lod0.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_17_lod0.msh.blob",
+      "sha256": "0bef56ad9bb9955bb30f30e16223fd4d99a2ba40f7515d7b95306a009d784f0f"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_17_lod1.msh",
+      "sha256": "6dcf80aa520efa5b9eb819b3299847841c1124ba678fb9a1718dcd3a3b25a1f7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_17_lod1.msh.blob",
+      "sha256": "0bef56ad9bb9955bb30f30e16223fd4d99a2ba40f7515d7b95306a009d784f0f"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_18_lod0.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_18_lod0.msh.blob",
+      "sha256": "8d4271d61dc3f9f4ce290a1086121df0cfb38b1805d480aef86f8d8085c35205"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_18_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_18_lod1.msh.blob",
+      "sha256": "8d4271d61dc3f9f4ce290a1086121df0cfb38b1805d480aef86f8d8085c35205"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_19_lod0.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_19_lod0.msh.blob",
+      "sha256": "3329ee4525d53b129e6f4c39e8257acdc5e4fbad1d81c2392f719dc09bd72a52"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_19_lod1.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_19_lod1.msh.blob",
+      "sha256": "3329ee4525d53b129e6f4c39e8257acdc5e4fbad1d81c2392f719dc09bd72a52"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_20_lod0.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_20_lod0.msh.blob",
+      "sha256": "beecd902c6b785dd50d19f864375e2c56f93053cb365e55534faba8a1788d517"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_20_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_20_lod1.msh.blob",
+      "sha256": "beecd902c6b785dd50d19f864375e2c56f93053cb365e55534faba8a1788d517"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_21_lod0.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_21_lod0.msh.blob",
+      "sha256": "2637ae4e73e379d6ebd23ddaa277dadc0733951cf6f8cb2d56cefa1ed967e532"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_21_lod1.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_21_lod1.msh.blob",
+      "sha256": "2637ae4e73e379d6ebd23ddaa277dadc0733951cf6f8cb2d56cefa1ed967e532"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_22_lod0.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_22_lod0.msh.blob",
+      "sha256": "e38add22315703b6b5ba0d1d704b34b8f68fab7c8c4d37ca9359d599858dca49"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_22_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_22_lod1.msh.blob",
+      "sha256": "e38add22315703b6b5ba0d1d704b34b8f68fab7c8c4d37ca9359d599858dca49"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_23_lod0.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_23_lod0.msh.blob",
+      "sha256": "ae272b412419f14863d748004a9d3b905766bbb183d89089fc1a4e61c024216d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_23_lod1.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_23_lod1.msh.blob",
+      "sha256": "ae272b412419f14863d748004a9d3b905766bbb183d89089fc1a4e61c024216d"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_24_lod0.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_24_lod0.msh.blob",
+      "sha256": "6dd68c8c3288493f884448db91ecb38c87af5627ba03255159bf16991ff0ccc7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_24_lod1.msh",
+      "sha256": "715884d923edeea3ebd6c26f4fcd654aa5714260a96ccb4d87a218ad6154a6a0"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_24_lod1.msh.blob",
+      "sha256": "6dd68c8c3288493f884448db91ecb38c87af5627ba03255159bf16991ff0ccc7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_25_lod0.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_25_lod0.msh.blob",
+      "sha256": "6e5e794f198c62ec63b087fa9d1ca4ed6336a7301254a761b37844e23948800b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_25_lod1.msh",
+      "sha256": "68096ce26043eca1e37e772284ae1933785517b703eea54939044f2c5572f981"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/glazing_25_lod1.msh.blob",
+      "sha256": "6e5e794f198c62ec63b087fa9d1ca4ed6336a7301254a761b37844e23948800b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/headlights_bwd_lod0.msh",
+      "sha256": "d7daf416b63c8deeca7fa4ac0c303367607602e8f9371fce4eb6ccef0870bc19"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/headlights_bwd_lod0.msh.blob",
+      "sha256": "b302fc22b60f465c7655673b5f9322e6da03f36f0e7b5a8c940dfada483ba89c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/headlights_bwd_lod1.msh",
+      "sha256": "d7daf416b63c8deeca7fa4ac0c303367607602e8f9371fce4eb6ccef0870bc19"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/headlights_bwd_lod1.msh.blob",
+      "sha256": "b302fc22b60f465c7655673b5f9322e6da03f36f0e7b5a8c940dfada483ba89c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/headlights_fwd_lod0.msh",
+      "sha256": "d7daf416b63c8deeca7fa4ac0c303367607602e8f9371fce4eb6ccef0870bc19"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/headlights_fwd_lod0.msh.blob",
+      "sha256": "268230d3b9f55f904405330df2f97286c88537efebc11552928b5d1994095f35"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/headlights_fwd_lod1.msh",
+      "sha256": "d7daf416b63c8deeca7fa4ac0c303367607602e8f9371fce4eb6ccef0870bc19"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/headlights_fwd_lod1.msh.blob",
+      "sha256": "268230d3b9f55f904405330df2f97286c88537efebc11552928b5d1994095f35"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/light24_bwd_lod0.msh",
+      "sha256": "5fa027019db13a15525915d1d8850d294160f93588ca24d9908d7d4309816ea8"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/light24_bwd_lod0.msh.blob",
+      "sha256": "17386f803d620a161dbb56f50fc8eb3fbed7d20b9c884800045268e4dbf0e679"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/light24_bwd_lod1.msh",
+      "sha256": "52f77cd2fd2f74724e74edb86492aa9e338045696784389b0ed3f3e0ef46f332"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/light24_bwd_lod1.msh.blob",
+      "sha256": "20ecf46bb15d28a6275613485b8de65da8290e71ae8a9f03a5446d9562f1807f"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/light24_fwd_lod0.msh",
+      "sha256": "5fa027019db13a15525915d1d8850d294160f93588ca24d9908d7d4309816ea8"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/light24_fwd_lod0.msh.blob",
+      "sha256": "b1f56468f486a6edc9e3d493bd0d5ef5f32263dcfe18700b5c89ae249d6f4615"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/light24_fwd_lod1.msh",
+      "sha256": "52f77cd2fd2f74724e74edb86492aa9e338045696784389b0ed3f3e0ef46f332"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/light24_fwd_lod1.msh.blob",
+      "sha256": "a60379486f6f680ff139b5616fe7d8d7c9de8e46a571a2464ffcd60aa1a19eb1"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/signage_7005_lod0.msh",
+      "sha256": "cf8d90e56af8fa9380e2bc9ea3dd2c4378e4ab9d45030956bcba482db799f490"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/signage_7005_lod0.msh.blob",
+      "sha256": "513886c780526d9a4adbf6aaf82235d3753bd44635c72d4d10c55f8d0f092524"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/signage_7005_lod1.msh",
+      "sha256": "c1b9849f86f20e63c67225e5c85e821834d7b202653ab032e08ad1aee7e95738"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/signage_7005_lod1.msh.blob",
+      "sha256": "a346128e3605648fdb820ec69c24ab1665939ed5316773cad95be3512a7a7875"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/signage_7006_lod0.msh",
+      "sha256": "f09fb8492abe5c5f4737fdcbffa7e7acbea3833423e08851b13aef7dec482378"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/signage_7006_lod0.msh.blob",
+      "sha256": "d6ab47f02121efcb27268ad13ccff0a168ad67c651c1b7f96099d852556fccef"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/signage_7006_lod1.msh",
+      "sha256": "af4e25c0c56673d2dfe242e1500633ca43a972a237b081f26f2be3fa177b197e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/signage_7006_lod1.msh.blob",
+      "sha256": "a1c27adbc999a411e58388c97304587b931f4be7cb31e6e07bab8ce990da5533"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/taillights_bwd_lod0.msh",
+      "sha256": "b31ddd5878b4986422ba5a1a30f78465980c8b9dbbb240ade1e0681117f7fcd9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/taillights_bwd_lod0.msh.blob",
+      "sha256": "fc4199774e64ec76090c8be3e37ccd3d08a36dc517954c973dda62117d63767e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/taillights_bwd_lod1.msh",
+      "sha256": "b31ddd5878b4986422ba5a1a30f78465980c8b9dbbb240ade1e0681117f7fcd9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/taillights_bwd_lod1.msh.blob",
+      "sha256": "fc4199774e64ec76090c8be3e37ccd3d08a36dc517954c973dda62117d63767e"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/taillights_fwd_lod0.msh",
+      "sha256": "b31ddd5878b4986422ba5a1a30f78465980c8b9dbbb240ade1e0681117f7fcd9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/taillights_fwd_lod0.msh.blob",
+      "sha256": "af0db17e5344523056a6c7c1e337b1eb0eb077d40a589f8121d8edfd4eb0a07c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/taillights_fwd_lod1.msh",
+      "sha256": "b31ddd5878b4986422ba5a1a30f78465980c8b9dbbb240ade1e0681117f7fcd9"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/taillights_fwd_lod1.msh.blob",
+      "sha256": "af0db17e5344523056a6c7c1e337b1eb0eb077d40a589f8121d8edfd4eb0a07c"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/wheelset_lod0.msh",
+      "sha256": "0746baf87f954f4779a84d0e807fd7ccfa8c0624fa1aece721756e4e5906177b"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/wheelset_lod0.msh.blob",
+      "sha256": "cd0a744d130b3d195660b99addd726d6ade7b89b5c91034e942594b8d5799ff7"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/wheelset_lod1.msh",
+      "sha256": "1f1430837c561b163369134a4af5811b84eba398297ea4f36f8da545e0d9a85a"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/wheelset_lod1.msh.blob",
+      "sha256": "3a7707efa980bb444226797e9a405109b3bb8a71c0f1c269554208e790503fcc"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/wheelset_lod2.msh",
+      "sha256": "b94f3b5aa9673f60a7fe8cb18d4de96b77409e9327031749a7a533ef96c90402"
+    },
+    {
+      "file": "res/models/mesh/vehicle/train/fxn5c_jinwen/wheelset_lod2.msh.blob",
+      "sha256": "1aca30d7e841ef0cd15a4ae5bffd33478ddc2e01c8fff95649f592173f81bed0"
+    },
+    {
+      "file": "res/models/model/vehicle/train/fxn5c.mdl",
+      "sha256": "d8feddf38af81e70294203670a2de9b45a7cde965dd74fb4ab9f9d1fef535aef"
+    },
+    {
+      "file": "res/models/model/vehicle/train/fxn5c_0035.mdl",
+      "sha256": "75b23a6bd423b137e7ea27bfd09297c5b1bea5e8c3f9489f3e0fd672ad9b30ad"
+    },
+    {
+      "file": "res/models/model/vehicle/train/fxn5c_0057.mdl",
+      "sha256": "d72bf03a91215b4db59f6307d402d60309487e5f88b86588338d5357b9fc2812"
+    },
+    {
+      "file": "res/models/model/vehicle/train/fxn5c_0066.mdl",
+      "sha256": "fc0927784eb24862df5cb89d379eed06f6ee6ec83327f792f8ca44491e1e5a9c"
+    },
+    {
+      "file": "res/models/model/vehicle/train/fxn5c_0081.mdl",
+      "sha256": "9cc534d8845f536629f67564be729e26019d12f9b20404d51714ef4a9fd9e258"
+    },
+    {
+      "file": "res/models/model/vehicle/train/fxn5c_0096.mdl",
+      "sha256": "2292e0db3ae61f3e49832a4ee6c1dbd0569513d460f48b2219ce7e53d38b7384"
+    },
+    {
+      "file": "res/models/model/vehicle/train/fxn5c_0102.mdl",
+      "sha256": "b3e4d68ad23f694c329a3ac98273439d043f9f43aa5c84eee46fb67a457f09a3"
+    },
+    {
+      "file": "res/models/model/vehicle/train/fxn5c_0115.mdl",
+      "sha256": "3d8c0e1af6800eb2ee9e3497b1df96d78cad1544a404bf9ba3307e4471deb464"
+    },
+    {
+      "file": "res/models/model/vehicle/train/fxn5c_jinwen.mdl",
+      "sha256": "8d3e83551b1fe6e3090b2e8a6329e883a51bdce3a30b6a0417589e18f6e301b2"
+    },
+    {
+      "file": "res/models/model/vehicle/train/fxn5c_jinwen_7005.mdl",
+      "sha256": "f0a4d99f28801e1469c3347b858cf7755760e83bbb86ea42b2d5a8ab94d51e74"
+    },
+    {
+      "file": "res/models/model/vehicle/train/fxn5c_menu_cr.mdl",
+      "sha256": "0f0d973ebd5121d9dee3fb4ca7edda1ab74f49378cbf7ca3ed219f8ff33e5d7c"
+    },
+    {
+      "file": "res/models/model/vehicle/train/fxn5c_menu_jinwen.mdl",
+      "sha256": "b0a28470fd6ede47ee75579a74b4be7fdeb9f887cbceefd08a55c47d58fd85d7"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/black_mga.tga",
+      "sha256": "c0bf2ab71d724940fae228ad336c58c860272352ba87a12fe2317497dd05ade4"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/black_normal.tga",
+      "sha256": "c3d1dbe7abea1c1d698fd4009324cda37fe8567400cbf7562878d80bd4811e78"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/black_surface.tga",
+      "sha256": "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/blue_mga.tga",
+      "sha256": "007ec7cce31bb22070bc56be029af3ddce0a4a45effe36072a3c6ce83c48e944"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/blue_normal.tga",
+      "sha256": "7fab453fc02394f8ca5edba70ee2dc1124fad2a9f99c033a4c0c828b87ba2ef5"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/blue_surface.tga",
+      "sha256": "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/cab_floor_mga.tga",
+      "sha256": "972a1527d4b260777e7ba4a6064b2e0fd9d3690f30abee6bc922cb099083c1c0"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/cab_floor_normal.tga",
+      "sha256": "5bcf9599569b88040c25f1d4a0dca2ff21c6a2c345729be42ca61a21a8380cb1"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/cab_floor_surface.tga",
+      "sha256": "8208de0cafa8403ff1dbe690038e25ce46f76ad5c39da74e110cd1eee37de260"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/cab_lining_mga.tga",
+      "sha256": "5c49a58f1f319d8f6489870d87eb85a5d0ae6b406a0cf2645da4b5d6c7824662"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/cab_lining_normal.tga",
+      "sha256": "961ea6e6c3748b6fab519df6ad23d2b587e64697de9cce7718f4e04f9bf0db32"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/cab_lining_surface.tga",
+      "sha256": "ef7b162b42e9c6d4c3d2ad717d5ae4efe3aaf1a0ef5fa40a2a0fa24c4d5c388c"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/cast_steel_mga.tga",
+      "sha256": "c1ae547799110069962ab6c4e4436785a8ed587f9a1689d11df64be907ddcc7b"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/cast_steel_normal.tga",
+      "sha256": "0132ec85112fd6b2bff634e542a2129ac455fbae0b7bfc455fae21b9ca84c1d3"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/cast_steel_surface.tga",
+      "sha256": "8eeae929441d230a42ae2b2ce8ec1a5e0f909c4062da139b20d1b7dfa1b2a508"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/console_mga.tga",
+      "sha256": "c72d5ef1c5e046bbd45ce131d697838ba57a59aee004cca16833cad9b0e51e85"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/console_normal.tga",
+      "sha256": "6b22c7645cd18658166652aa443237ac98605afc9bcd236ea1347e18c6f7700f"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/console_surface.tga",
+      "sha256": "0fd9dade5333c7dce20d93bcf259047b1372eb9d946c00fd0f5d84caee133717"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/coupler_steel_mga.tga",
+      "sha256": "80bf7427a4a5d35d88b7524b94ae40da65c2a71e75791ea4a6889f911d3b2b94"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/coupler_steel_normal.tga",
+      "sha256": "a58543f5b81d691db81c57c16db3573c5fba1db21b1ee3a41f04ec76f5b6d72f"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/coupler_steel_surface.tga",
+      "sha256": "cc55476ee907e394f4bfa0d846600a804b23f765a93ce6e6934899b05a113f41"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/dark_mga.tga",
+      "sha256": "0e617abe392cf33025d3465fd886db7ba4a8dd47bd09fdd980bb93ab516b88ee"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/dark_normal.tga",
+      "sha256": "5d1dfcab3eacdd2b53e792563dcad31628a0aae2efe91636175d35c836ed1de2"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/dark_surface.tga",
+      "sha256": "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/exhaust_steel_mga.tga",
+      "sha256": "055217cca984ed8a9fd0caa6e1ffbec9aa5085f17f109974a5c5b31fe272115e"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/exhaust_steel_normal.tga",
+      "sha256": "03ae63b68fb01278bc38515ad13f58bbcd158c62c11c8d8b8d90a9e62bf02047"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/exhaust_steel_surface.tga",
+      "sha256": "8c30adf565e154786c686dfdc31faabda542ac48d1489a44e01d55ad42af0407"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/glass_transparent.tga",
+      "sha256": "4346177978bfb0d3172e2c36c522f6acab7541d72f707faec9c3df48400ca6f3"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/glass_transparent_mga.tga",
+      "sha256": "7b4189d238021f2e9a0b401582abeb4f4c8b42a586a2adf61d7f376f2bd26ac5"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/graphite_mga.tga",
+      "sha256": "0913bc6722c4bec0ba784489bdac7b91dc83ba704f8b814b1b626c7d5165b155"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/graphite_normal.tga",
+      "sha256": "3b3f6b7668ce8c7636edab39dd0068976c50483a1f8ba3a51f066ee873dfe528"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/graphite_surface.tga",
+      "sha256": "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/grille_black_mga.tga",
+      "sha256": "b2f197d87d45abf00cf80be5b3f0ade95a8277771cda871b7c7de70e31bc7e37"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/grille_black_normal.tga",
+      "sha256": "06b2d3d8d4de0339c51455133359fb0e584e4b0fa88844ddfc46f57f114f7005"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/grille_black_surface.tga",
+      "sha256": "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_blue_mga.tga",
+      "sha256": "583c8aee3d585a83234217596e3671ad6cd034c1789c51c3bcf859dab8f8bdad"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_blue_normal.tga",
+      "sha256": "d3999f1757e539d561d7f4b2fd4f90ee62ff02e26128f78b3709578879ddaaa0"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_blue_surface.tga",
+      "sha256": "a34fe667dc7ff95a1a611aacbe5468c0bff42e34d0f8a2162ac2412d5c6824b6"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_frame_mga.tga",
+      "sha256": "762df1d53da85949c31ed906827da3e87b2638b557bb554230fdd5a754210a27"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_frame_normal.tga",
+      "sha256": "22f5f781c41c406a08cdd4734cfa8aa897829c2f25fd2cfb11098963a09c3368"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_frame_surface.tga",
+      "sha256": "b16aa5dc36f12f3d17717c1d1921a8ab5c3bf5b7770badc4559fc0acb4a03553"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_red_mga.tga",
+      "sha256": "62699ef7cdb2d45efae733f525b2ccb0402cf9503b5b45daf0466d68c3110148"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_red_normal.tga",
+      "sha256": "1c9eb20f3b207867cf39a10323f602376b2b365ed1be7c27310e03ed8751d8cc"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_red_surface.tga",
+      "sha256": "f06231ac05502f95c882969121240af731371e4477c336ef5ecfeea6a9bb1a48"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_roof_mga.tga",
+      "sha256": "071b663b86c29188c6bd15db6fbc3a35f16a690f7cbd5ecfcdebef488ae74e21"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_roof_normal.tga",
+      "sha256": "1dce9fdbf92ddc0b72269a035b5348e3d66f8d8fc92355a41f7426bc9ed40ab1"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_roof_surface.tga",
+      "sha256": "b8fc26987a73f1579ab50853e0f5bd5ea70e51b197201856882c0797c09dc195"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_spring_mga.tga",
+      "sha256": "fd0e5cfc4ed61c9cf3b02b2f5aad39732c1f674432d9803eec660fea5350510f"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_spring_normal.tga",
+      "sha256": "3edcb60899844e5fa3cadb758998d866f49b34b6d435520f15a5c0ee67ba8e9c"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_spring_surface.tga",
+      "sha256": "0f8da57d52d03306669f3ff6ac07f2a6a9bc0ca085f9bc919a8a8057d82f3167"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_white_mga.tga",
+      "sha256": "d48e738c0ac20d67dbfcc6c90124e6c87abbe91ed020f9652edfcce6ebd6868b"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_white_normal.tga",
+      "sha256": "f821be37848e49bec49752cf842d091350c50cbe926dc86e2448613e255eeb96"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/jw_white_surface.tga",
+      "sha256": "f77540c258cd19b00969bc59c0ea99592fbc993dc600e25b210663354b277ffc"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/lamp_glass.tga",
+      "sha256": "c7abd84e0cab5afae1aba9ee51975ed0590c5f6f6d7a5982e02629da84a59a1b"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/lamp_glass_mga.tga",
+      "sha256": "24f9fd6238a055d183914ad26eabafc7d078eb73ac6999344541e3353d9d5bf5"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/lamp_moon_v24.tga",
+      "sha256": "43dac1a52c73c175f5232fd6cb3ae178bdc68a3221c67037b602e8d118a84273"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/lamp_red.tga",
+      "sha256": "74ef9cd09f9308d520002491a7ab4fa83d989520f6dc0b11374ff87bb3d3fbe8"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/lamp_white.tga",
+      "sha256": "d48d73f4ba22e6c06883f3826142049b1a3ed493d8217b7a7031aa46074b2a68"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/light_blue_mga.tga",
+      "sha256": "e4febc5c3d7f24d2f7d84da8a5f960d4393ac8c09f5f19f46c98d7aa9989cd4d"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/light_blue_normal.tga",
+      "sha256": "5db9bbf592e9c03b401c13849ce6edd265102a4491615a22fca7999680445c2c"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/light_blue_surface.tga",
+      "sha256": "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/metal_mga.tga",
+      "sha256": "971f8a0640b78f7f32eb693534ab79430bd4b5edef12d866a304dee59c41a0b8"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/metal_normal.tga",
+      "sha256": "362db9f332ddccf08d7f0d97ca5baa85ec8ec542528bf21fcb42ca30cc67678a"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/metal_surface.tga",
+      "sha256": "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/ochre_mga.tga",
+      "sha256": "f05ef3628a9a711d3ff6687c5afe155e425672308e7e684cf16d58ace0c01a3b"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/ochre_normal.tga",
+      "sha256": "c1e8f2f84e7a1ef812e89cc45fd442b28c6faa8fe5ee650a1be74347fbfa3fd9"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/ochre_surface.tga",
+      "sha256": "4b4ffb51ec35cbaa9f5b34824cd295d6deecfa4d4af2a71b5381de39caa6bfe1"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/red_paint_mga.tga",
+      "sha256": "c0dcd35cd7ede55e8fbc693c787d12655dac2c45f7080062b859f45c1dcb978c"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/red_paint_normal.tga",
+      "sha256": "c717eeda2011864405dd5892ef520db826936b05f5e7517cc172a6f33c8e83b6"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/red_paint_surface.tga",
+      "sha256": "d613e79b8509f37aae094d0cc616619d8d605b8336f18f7a77691b7d4c92d4b7"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/roof_mga.tga",
+      "sha256": "a3ef3c15d410aeb6cc7275351a1a2af11f709e07c149595b2f568ea6ce78ea23"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/roof_normal.tga",
+      "sha256": "055d07d946257a7c297d834b4bb794fb7e3bfdaa8ed027279ce8b6870b9abeef"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/roof_surface.tga",
+      "sha256": "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/screen_mark_mga.tga",
+      "sha256": "4dd8e8dddeda493b0a3a0b43eba518484eb3a801956ff5b1eb73e5bf479a918f"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/screen_mark_normal.tga",
+      "sha256": "e5e54f9fafed42e602dafcad96f45d1c67d0e2c7904788c701137efe4763252d"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/screen_mark_surface.tga",
+      "sha256": "5db23f24dc3408b2692fa747af59b0b7162466c4a1a7a8e3481287bea01eea55"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/screen_mga.tga",
+      "sha256": "292fa7b05947f06953ed66df5eabd74d6dcd745c344203b366b1e57c89bf8bbe"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/screen_normal.tga",
+      "sha256": "2b22f82ce17ca9026bb018559514d34720fb4cb7938cd0a00dc4150921ece6ff"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/screen_surface.tga",
+      "sha256": "fb0acdc0a860f9f1156d8ebdecdb3e3e79c6750e7d8b6f40ab7ef8d1a03e034e"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/seat_fabric_mga.tga",
+      "sha256": "62b7e1d7fc4bc4a49b6ff971ef1afd9aa1688fb511a71e47f35b2719799577aa"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/seat_fabric_normal.tga",
+      "sha256": "68989e2066f0bf61c9c7ffd5e7e20bf974fd375f02634d3fc9439ddf04d0014d"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/seat_fabric_surface.tga",
+      "sha256": "1cf5a56c7bc14bded6557a0122cb61dabd1cc6bb7d8f777ad0fd769ffb64cf48"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/spring_steel_mga.tga",
+      "sha256": "a459d66792067adef6eeadfc757d5a294cf9a5dab8d00ee967d80760f68c1fa5"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/spring_steel_normal.tga",
+      "sha256": "aea3d78b25b6e8058bcda5dbdee9f403ab2dc1e2121d949ae48ee883d98dc9c4"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/spring_steel_surface.tga",
+      "sha256": "cc8cdab6ae479f7165b6bc88f6b74983b480ca2696e68d87d9852ed03eafc006"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/wheel_steel_mga.tga",
+      "sha256": "3f4d81f81ae0f5af27a175161ed527c74a5a6e19bbd86c049ed74b68e919e753"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/wheel_steel_normal.tga",
+      "sha256": "77f02999012e21c0f3f0caf8cb6f95dc80f5133a83721163aeaa6bf20e6783e8"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/wheel_steel_surface.tga",
+      "sha256": "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/white_mga.tga",
+      "sha256": "aac89f261b80a118db8d98c577b9dd502d63fc8ee8bd976c031312eebed5efe5"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/white_normal.tga",
+      "sha256": "9a2dd207907a7bff47b8caaf3d0e279cf42f238927c84f64a6ff40eec8d8e244"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/white_surface.tga",
+      "sha256": "7228ba466e91dc52779649ea944a5a98669311d2c86cbc57c099a54cbb366f39"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/yellow_mga.tga",
+      "sha256": "684a1b4482f470bfffaa71e186e08ef2ab55100e224ac4ca1d028f9568f29b06"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/yellow_normal.tga",
+      "sha256": "9274b13244f359e1b853a22fffd18e17c1e8ad77655e3a43e5eb3890602e06e5"
+    },
+    {
+      "file": "res/textures/models/vehicle/train/fxn5c/yellow_surface.tga",
+      "sha256": "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c.tga",
+      "sha256": "9a569034c50a365c11f130ba6a1a8ede5c126843cf4b292da10d05ed32cac883"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c@2x.tga",
+      "sha256": "fd54cc75c035082fdfe8764c54d2a8a0c20a0f229f8e9b56a3635e890e9311f5"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_0035.tga",
+      "sha256": "2e9f53d706dc1f995fd1190667859b6c467e3f7bddba0a0a1c8cebd3db4b4e76"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_0035@2x.tga",
+      "sha256": "10702292568b4bdcfebe98d6afb5a6707f31f7d34e769aaad30a2b6cf1bdc522"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_0057.tga",
+      "sha256": "bb4700c87426ee1745e53fd70697f295117463b028adc9b9f3d964bc210f74d0"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_0057@2x.tga",
+      "sha256": "1c09f40cedee60cdb6b68e009c764abe985865ae2e78c581164c37b813cfe67e"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_0066.tga",
+      "sha256": "587a7b33df49cd7c40dd652c044648dc61bdec06910bfe3e8e816a667af632a1"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_0066@2x.tga",
+      "sha256": "a8c7e02a1f9783b1dbabbdf6600a09f4361d183fcb9261e111b1a77a4769c332"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_0081.tga",
+      "sha256": "6a09675381395d4582f3f6e420325cdef4f4f173330d6331e102c285440696de"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_0081@2x.tga",
+      "sha256": "14639a3525067480fe103a4a5999f3dd38d9f5af2c871439212f1e35fe69ba7c"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_0096.tga",
+      "sha256": "1342038c9cf7cd5dd50ba74940483cc514a639f664fcd675e9c38533ab3ee07e"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_0096@2x.tga",
+      "sha256": "956a705f9e18c258859fbf2adafd93e823d5ec20895a94a21ee4ff7093f360cb"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_0102.tga",
+      "sha256": "7d4e49801b42760cf5ff8107be860c1c40702436b5e11aed29ddc85888dbf398"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_0102@2x.tga",
+      "sha256": "703e8942e8567ad6855310baaa3922bf3b5a82e86b604d4e2108efd28b16f490"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_0115.tga",
+      "sha256": "c06f73f00aaa7d3f09ae324166b910b71ab20fb9c5c60dff65b398c914c57476"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_0115@2x.tga",
+      "sha256": "b8d920e3de53103e179aa72ecd70ea85c92fb7389785d994c5ab40d442c44a15"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_jinwen.tga",
+      "sha256": "9ff6fd9306b24a8a7a48fcca9078abfe58650590c6a4a0c68f917841d393155e"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_jinwen@2x.tga",
+      "sha256": "869cfc2a34f05933e008b897634160a6afc4143ab17fe1672adbeda15e2b77a3"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_jinwen_7005.tga",
+      "sha256": "213954af287eb01d5832eb95d1d7b0dd41638c02a99fd67b08b09e51cf3f2d51"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_jinwen_7005@2x.tga",
+      "sha256": "4acf8613d841187399ea63beaa883c70e77df3b86ac29be70ec11d58ba57d7a4"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_menu_cr.tga",
+      "sha256": "9a569034c50a365c11f130ba6a1a8ede5c126843cf4b292da10d05ed32cac883"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_menu_cr@2x.tga",
+      "sha256": "fd54cc75c035082fdfe8764c54d2a8a0c20a0f229f8e9b56a3635e890e9311f5"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_menu_jinwen.tga",
+      "sha256": "9ff6fd9306b24a8a7a48fcca9078abfe58650590c6a4a0c68f917841d393155e"
+    },
+    {
+      "file": "res/textures/ui/models_20/vehicle/train/fxn5c_menu_jinwen@2x.tga",
+      "sha256": "869cfc2a34f05933e008b897634160a6afc4143ab17fe1672adbeda15e2b77a3"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c.tga",
+      "sha256": "09c0d31ace6ac4fa743d74f697cc8b190f0e808c345d50f82c34c2c94540ec5b"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c@2x.tga",
+      "sha256": "6f892af7b77e8d6abe2763fba2f8cfedfa5d25636c229436f4cfed64ace1038b"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_0035.tga",
+      "sha256": "7903d82082cb4c93fa9034083fd74aa2f531c00cb9e5b62e10329b72c9e2b473"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_0035@2x.tga",
+      "sha256": "f87525e77e8a9f29c34238416b09800b3838e6da67abb7b144a79809ee14a173"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_0057.tga",
+      "sha256": "59699e5aa35696b7deafb22bfb48b6add1c0b3e46309403deea15ed881ebecd3"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_0057@2x.tga",
+      "sha256": "0c5062989e24c32d16dde4807faeff2004ab8954fbe04e86e3a374e4c8fc1ee1"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_0066.tga",
+      "sha256": "eb8044553a13471f1f51597f0e6ae0b63acbde2c7a6b8454393c943d92127b15"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_0066@2x.tga",
+      "sha256": "e264b0b6010772f250a2ad25a8850057378effca8aec1c3e91e2535c7e74b81a"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_0081.tga",
+      "sha256": "2e04e4c5cbcbae428555ac2d455849b02ee138c318009185f9801993a8779fe8"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_0081@2x.tga",
+      "sha256": "a37bd47331bb3b3191f74630689eea2cd497c9bd5db86905b482aacb1486bd3d"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_0096.tga",
+      "sha256": "672e3532093461e3f5f909f6d460e3b9d9192799b8967a548c16f0025941b9fb"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_0096@2x.tga",
+      "sha256": "ab990b8de7b9e66d3676269f0cccffd2f764b67f7bf3f1498820815405da92a6"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_0102.tga",
+      "sha256": "16de861edbec3ebfd5f4ba584e059c8e8437b2bb4bd8992e1affeb2bc705ffe2"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_0102@2x.tga",
+      "sha256": "e32fc85ee507dc065fabcf6ab72a870197facba5d7da8d6c43d91154b5c371f8"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_0115.tga",
+      "sha256": "0a04b8c437b43da8aa42865529954a4e7965e5975626e12532e9048c0e9df9da"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_0115@2x.tga",
+      "sha256": "7257711e06e88f5221351677d18db8ccd12f7a56997454fa3dbf0862a417cbf2"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_jinwen.tga",
+      "sha256": "49afbb358614755213c5c24e4be09dcb313ad3db7a1daf82290ca8c7c62c8eef"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_jinwen@2x.tga",
+      "sha256": "2e55290aa45bae7f5f77751ed055cc657eccd5e4a51f72901a3ecf58d929d94e"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_jinwen_7005.tga",
+      "sha256": "d296b52a20e7eaaf0c97ede129a93568d8ea36daf7f3f164e15328ba2fa49a7a"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_jinwen_7005@2x.tga",
+      "sha256": "896bba0ba230c43136b4edc7caa59e069341d061e1438d651cddb2d437ecac24"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_menu_cr.tga",
+      "sha256": "09c0d31ace6ac4fa743d74f697cc8b190f0e808c345d50f82c34c2c94540ec5b"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_menu_cr@2x.tga",
+      "sha256": "6f892af7b77e8d6abe2763fba2f8cfedfa5d25636c229436f4cfed64ace1038b"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_menu_jinwen.tga",
+      "sha256": "49afbb358614755213c5c24e4be09dcb313ad3db7a1daf82290ca8c7c62c8eef"
+    },
+    {
+      "file": "res/textures/ui/models_small/vehicle/train/fxn5c_menu_jinwen@2x.tga",
+      "sha256": "2e55290aa45bae7f5f77751ed055cc657eccd5e4a51f72901a3ecf58d929d94e"
+    }
+  ],
+  "font_binaries_included": false,
+  "private_text_path_matches": 0,
+  "systematic_game_test": false,
+  "clean_build_certified": false
+}

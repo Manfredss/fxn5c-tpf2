@@ -1,0 +1,41 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "file": "fbx_import/vehicle-train-fxn5c/fxn5c_lod0.fbx",
+      "path_properties_rebased": 115,
+      "all_other_properties_preserved": true,
+      "normalized_tree_sha256": "fbc6f29b527f46cbf4ddc3956ca0b3a3b71fea4c08a86405d60c36afedac1c95"
+    },
+    {
+      "file": "fbx_import/vehicle-train-fxn5c/fxn5c_lod1.fbx",
+      "path_properties_rebased": 110,
+      "all_other_properties_preserved": true,
+      "normalized_tree_sha256": "cc2a622f4e9862a34090285b4adf58923d6f892da3b253a2481718442730b751"
+    },
+    {
+      "file": "fbx_import/vehicle-train-fxn5c/fxn5c_lod2.fbx",
+      "path_properties_rebased": 35,
+      "all_other_properties_preserved": true,
+      "normalized_tree_sha256": "21cdf2affb169ed4ea061d49e6476b9e7ebe70d98c6d7259e2231e730496436e"
+    },
+    {
+      "file": "fbx_import/vehicle-train-fxn5c-jinwen/fxn5c_lod0.fbx",
+      "path_properties_rebased": 125,
+      "all_other_properties_preserved": true,
+      "normalized_tree_sha256": "79eb9b27ae45f2bde585aa00c2f3ff07b7058338572a1871cd88fbe51a5fd56a"
+    },
+    {
+      "file": "fbx_import/vehicle-train-fxn5c-jinwen/fxn5c_lod1.fbx",
+      "path_properties_rebased": 120,
+      "all_other_properties_preserved": true,
+      "normalized_tree_sha256": "ac2479f4816edadcb40df9d09dbb01d07ac8e00b1e08fff31e3b880041a57e65"
+    },
+    {
+      "file": "fbx_import/vehicle-train-fxn5c-jinwen/fxn5c_lod2.fbx",
+      "path_properties_rebased": 30,
+      "all_other_properties_preserved": true,
+      "normalized_tree_sha256": "a3c1889c39c9797884e0002f776bf6009cc5b1a559908372a8a101d13352561b"
+    }
+  ]
+}
