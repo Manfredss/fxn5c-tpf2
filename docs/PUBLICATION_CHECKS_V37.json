@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "candidate_game_sha256": "b50c9f6ff96238bb2c11c9fd1e452a7effdcc9378a735930329d3eef7668ae04",
+  "native_resources_unchanged": 1152,
+  "description_updated": true,
+  "game_tested": false,
+  "assets": [
+    {
+      "file": "FXN5C_TPF2_v0.37.zip",
+      "bytes": 52532997,
+      "sha256": "e8624dbb049bf884ace13a268615c10263b91a0c0968adba0add61bb6a36e4c4"
+    },
+    {
+      "file": "FXN5C_SourceKit_v0.37.zip",
+      "bytes": 182976257,
+      "sha256": "7a72e0f90cd1d28981ab7c816976a6cf34bab4ff935c328d7ad6cd0b62b70771"
+    }
+  ]
+}

@@ -10,11 +10,11 @@ Power: 3530 kW. Tractive effort: 580 kN. Top speed: 120 km/h. Weight: 150 t.
 Available in all years by default; optionally keep model years (CR: 2024, Jinwen: 2025). Depot markings and dates are project configurations, not certified real-world histories.
 
 [h2]Version and limitations[/h2]
-v0.24 refines the roof profile, paint boundaries, equipment, front markings and Jinwen front stripes, with directional red/moon-white lamps. This is a reference-based reconstruction, not factory CAD. Linkage rods still use deforming skinning rather than exact rigid joints. Extreme curves and hidden structures need further refinement. Static resources have been checked; systematic in-game validation is still pending. Project renders are not game screenshots. Per-number leading inner-lamp colors are custom configurations, not claims about real wiring.
+v0.37 refines roof sections/equipment, both-side radiator layouts and paint continuity, and closes unintended see-through gaps with internal duct surfaces. Fans rotate. Large louvers stay open at 55 degrees in all display modes. Small roof louvers use a top-to-bottom 0.8-second wave, 40-degree maximum opening and 9 larger blades per window at near LOD. These are display settings, not thermal simulation. This is a reference-based reconstruction, not factory CAD. Linkage rods still use deforming skinning rather than exact rigid joints. Extreme curves and hidden structures need further refinement. Native resources, animation transforms and clearance have passed offline checks; systematic in-game validation is still pending. Project renders are not game screenshots. Per-number leading inner-lamp colors are custom configurations, not claims about real wiring.
 
 [h2]Editable models and community refinement[/h2]
 [url=https://github.com/Manfredss/fxn5c-tpf2]Source files, issues and contribution guide[/url]
-Editable Blender scenes, static FBXs and generation/checking scripts are provided. The incremental build has historical baseline dependencies; read the build guide first.
+Editable Blender scenes and generation/checking scripts are provided. The v0.37 SourceKit includes the required v0.36 baseline. No new FBX export is included; historical FBXs represent v0.24 only. The incremental build has historical baseline dependencies; read the build guide first.
 
 [h2]License[/h2]
 Original models, textures and asset data: CC BY-NC-SA 4.0 (attribution, noncommercial, share alike). You may modify and share noncommercial adaptations under that license without asking each time. Credit the project, link the license and describe your changes.
@@ -23,3 +23,5 @@ Original program logic: MIT (commercial code use permitted, not commercial model
 [h2]Credits and feedback[/h2]
 Project initiator/reviewer: Manfredss / [ihtw] DisguiseMyse1f. AI-assisted procedural modeling and scripting were used. Thanks to reference contributors; Dreamrail illustrations informed structural reconstruction. Original reference images are not distributed. This is not an official manufacturer, railway-operator or Dreamrail release.
 Back up saves and avoid enabling duplicate local/Workshop copies. Please report version, number, reproduction steps and screenshots. Improvements to bogies, linkages, paint and testing are welcome!
+
+[url=https://github.com/Manfredss/fxn5c-tpf2/releases/tag/v0.37]v0.37 release notes, previews and SourceKit[/url]

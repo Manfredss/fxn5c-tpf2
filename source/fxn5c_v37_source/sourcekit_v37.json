@@ -1,0 +1,1093 @@
+{
+  "status": "PASS",
+  "rows": [
+    {
+      "file": "fxn5c_source.blend",
+      "sha256": "69e36450e87574749a7a57f8386e0cf0938face7025c8e056395e5899b1d8893",
+      "relative_packed_images": 46,
+      "absolute_paths_repaired": 0,
+      "images": [
+        {
+          "name": "black_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/black_rough.tga",
+          "sha256": "13082271817514f2c10addccf7ecdb418b34f73b16f40d2261afa9190ca04379",
+          "packed": true
+        },
+        {
+          "name": "black_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/black_surface.tga",
+          "sha256": "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83",
+          "packed": true
+        },
+        {
+          "name": "blue_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/blue_rough.tga",
+          "sha256": "9693b2b33dfa12dc46508b945277355f2d4f8b4f5a51d3e066afa405c0359c20",
+          "packed": true
+        },
+        {
+          "name": "blue_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/blue_surface.tga",
+          "sha256": "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6",
+          "packed": true
+        },
+        {
+          "name": "cab_floor_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/cab_floor_rough.tga",
+          "sha256": "1b3a91f5c12c7b8db8ac678feb1bc6b9e7b39b55af0cfc62981bba19fcf4aa4b",
+          "packed": true
+        },
+        {
+          "name": "cab_floor_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/cab_floor_surface.tga",
+          "sha256": "8208de0cafa8403ff1dbe690038e25ce46f76ad5c39da74e110cd1eee37de260",
+          "packed": true
+        },
+        {
+          "name": "cab_lining_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/cab_lining_rough.tga",
+          "sha256": "f4ccf02be1958610ea4ea23bbcb365fa34c974bc9ecf14c7d496a6ceb661f320",
+          "packed": true
+        },
+        {
+          "name": "cab_lining_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/cab_lining_surface.tga",
+          "sha256": "ef7b162b42e9c6d4c3d2ad717d5ae4efe3aaf1a0ef5fa40a2a0fa24c4d5c388c",
+          "packed": true
+        },
+        {
+          "name": "cast_steel_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/cast_steel_rough.tga",
+          "sha256": "f1679f2267234850e9f8629b87755d4b613509c8d007ed5e72216c063bdb88c0",
+          "packed": true
+        },
+        {
+          "name": "cast_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/cast_steel_surface.tga",
+          "sha256": "8eeae929441d230a42ae2b2ce8ec1a5e0f909c4062da139b20d1b7dfa1b2a508",
+          "packed": true
+        },
+        {
+          "name": "console_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/console_rough.tga",
+          "sha256": "dd9ae6580833e067eff46022f750be4ff0e67c891a9b8889ef0745a46f6411b2",
+          "packed": true
+        },
+        {
+          "name": "console_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/console_surface.tga",
+          "sha256": "0fd9dade5333c7dce20d93bcf259047b1372eb9d946c00fd0f5d84caee133717",
+          "packed": true
+        },
+        {
+          "name": "coupler_steel_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/coupler_steel_rough.tga",
+          "sha256": "cac8afac849d7335dd4d5bd876389a518bf67b87297aac8ffbbb3e2ddbd99adf",
+          "packed": true
+        },
+        {
+          "name": "coupler_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/coupler_steel_surface.tga",
+          "sha256": "cc55476ee907e394f4bfa0d846600a804b23f765a93ce6e6934899b05a113f41",
+          "packed": true
+        },
+        {
+          "name": "dark_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/dark_rough.tga",
+          "sha256": "7c2b396aa0166bae8a7ed9bcf1857d74c9c3a7759db983c517b5777226839635",
+          "packed": true
+        },
+        {
+          "name": "dark_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/dark_surface.tga",
+          "sha256": "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796",
+          "packed": true
+        },
+        {
+          "name": "exhaust_steel_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/exhaust_steel_rough.tga",
+          "sha256": "0b502cae47afb9a3392ce826a3155532edfcc334149a513e039806eeab1ecd00",
+          "packed": true
+        },
+        {
+          "name": "exhaust_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/exhaust_steel_surface.tga",
+          "sha256": "8c30adf565e154786c686dfdc31faabda542ac48d1489a44e01d55ad42af0407",
+          "packed": true
+        },
+        {
+          "name": "graphite_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/graphite_rough.tga",
+          "sha256": "42c90655fab4edf52c6e039e90cad0f8cc7d282e05cdb11bb25483741f6c89d0",
+          "packed": true
+        },
+        {
+          "name": "graphite_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/graphite_surface.tga",
+          "sha256": "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3",
+          "packed": true
+        },
+        {
+          "name": "grille_black_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/grille_black_rough.tga",
+          "sha256": "c9bf31e7706c6dced48cf2f727aa2adf6fe2daf1787d6c603f980ea0ed27c6dc",
+          "packed": true
+        },
+        {
+          "name": "grille_black_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/grille_black_surface.tga",
+          "sha256": "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db",
+          "packed": true
+        },
+        {
+          "name": "light_blue_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/light_blue_rough.tga",
+          "sha256": "f2b223f939d82a6996c8aacbaa70ea3b1e00fb0b40d7d9eaf66d3f4d00f0b981",
+          "packed": true
+        },
+        {
+          "name": "light_blue_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/light_blue_surface.tga",
+          "sha256": "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a",
+          "packed": true
+        },
+        {
+          "name": "metal_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/metal_rough.tga",
+          "sha256": "efb5c04cf43a365786202c31099dbaf512d85a9ddcb36326715a01a66b251df3",
+          "packed": true
+        },
+        {
+          "name": "metal_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/metal_surface.tga",
+          "sha256": "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138",
+          "packed": true
+        },
+        {
+          "name": "ochre_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/ochre_rough.tga",
+          "sha256": "1f9b14a2bcb17b7889df2cb3634b3b337fd7c4a7b698f942e9da427997f1629e",
+          "packed": true
+        },
+        {
+          "name": "ochre_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/ochre_surface.tga",
+          "sha256": "4b4ffb51ec35cbaa9f5b34824cd295d6deecfa4d4af2a71b5381de39caa6bfe1",
+          "packed": true
+        },
+        {
+          "name": "red_paint_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/red_paint_rough.tga",
+          "sha256": "72feff47dacaf28bad4892d39ce2e8964dcd5ae31f30dc92a18ab0e8e518e03d",
+          "packed": true
+        },
+        {
+          "name": "red_paint_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/red_paint_surface.tga",
+          "sha256": "d613e79b8509f37aae094d0cc616619d8d605b8336f18f7a77691b7d4c92d4b7",
+          "packed": true
+        },
+        {
+          "name": "roof_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/roof_rough.tga",
+          "sha256": "5896b6ca359ba9566001c96346672d33f4e76d08ef833c3e724d9a659e28c5b1",
+          "packed": true
+        },
+        {
+          "name": "roof_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/roof_surface.tga",
+          "sha256": "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e",
+          "packed": true
+        },
+        {
+          "name": "screen_mark_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/screen_mark_rough.tga",
+          "sha256": "594fb1e29f924e4abcf702df0990b8407486df8fd46d096b09b9049ecb6bccbc",
+          "packed": true
+        },
+        {
+          "name": "screen_mark_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/screen_mark_surface.tga",
+          "sha256": "5db23f24dc3408b2692fa747af59b0b7162466c4a1a7a8e3481287bea01eea55",
+          "packed": true
+        },
+        {
+          "name": "screen_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/screen_rough.tga",
+          "sha256": "26504ab2aa13f56ad0a38cc0d8e7170ecd4dcd97b67ad7fa1d278de0d461b004",
+          "packed": true
+        },
+        {
+          "name": "screen_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/screen_surface.tga",
+          "sha256": "fb0acdc0a860f9f1156d8ebdecdb3e3e79c6750e7d8b6f40ab7ef8d1a03e034e",
+          "packed": true
+        },
+        {
+          "name": "seat_fabric_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/seat_fabric_rough.tga",
+          "sha256": "c94fa48a2333c7cfcedb6f01880d3b369919dbf070db3a13f41bb129e1ccc3ce",
+          "packed": true
+        },
+        {
+          "name": "seat_fabric_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/seat_fabric_surface.tga",
+          "sha256": "1cf5a56c7bc14bded6557a0122cb61dabd1cc6bb7d8f777ad0fd769ffb64cf48",
+          "packed": true
+        },
+        {
+          "name": "spring_steel_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/spring_steel_rough.tga",
+          "sha256": "dcbeb48931af697df483a6fcc8d98d6c3fe6893b8bfac74f007fd4a936a6e4af",
+          "packed": true
+        },
+        {
+          "name": "spring_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/spring_steel_surface.tga",
+          "sha256": "cc8cdab6ae479f7165b6bc88f6b74983b480ca2696e68d87d9852ed03eafc006",
+          "packed": true
+        },
+        {
+          "name": "wheel_steel_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/wheel_steel_rough.tga",
+          "sha256": "a4e1eb596ef179d79c8c988335f0c37f693b3b90f80514c252aabbd61dde9ef8",
+          "packed": true
+        },
+        {
+          "name": "wheel_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/wheel_steel_surface.tga",
+          "sha256": "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8",
+          "packed": true
+        },
+        {
+          "name": "white_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/white_rough.tga",
+          "sha256": "0fabb5d154ea38421b66a62b995892406593cffe951c78a5e62229ca15a661be",
+          "packed": true
+        },
+        {
+          "name": "white_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/white_surface.tga",
+          "sha256": "7228ba466e91dc52779649ea944a5a98669311d2c86cbc57c099a54cbb366f39",
+          "packed": true
+        },
+        {
+          "name": "yellow_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/yellow_rough.tga",
+          "sha256": "9cad2c1520a65fd4ee954a51ee550be6cdba03240703796734c1bb1161c5806c",
+          "packed": true
+        },
+        {
+          "name": "yellow_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/yellow_surface.tga",
+          "sha256": "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1",
+          "packed": true
+        }
+      ]
+    },
+    {
+      "file": "fxn5c_jinwen_source.blend",
+      "sha256": "7389a1bdcbd716cf8a30aa1cdad2f09977dd614bf78c3c2ac245ab2af9831025",
+      "relative_packed_images": 56,
+      "absolute_paths_repaired": 0,
+      "images": [
+        {
+          "name": "black_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/black_rough.tga",
+          "sha256": "13082271817514f2c10addccf7ecdb418b34f73b16f40d2261afa9190ca04379",
+          "packed": true
+        },
+        {
+          "name": "black_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/black_surface.tga",
+          "sha256": "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83",
+          "packed": true
+        },
+        {
+          "name": "blue_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/blue_rough.tga",
+          "sha256": "9693b2b33dfa12dc46508b945277355f2d4f8b4f5a51d3e066afa405c0359c20",
+          "packed": true
+        },
+        {
+          "name": "blue_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/blue_surface.tga",
+          "sha256": "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6",
+          "packed": true
+        },
+        {
+          "name": "cab_floor_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/cab_floor_rough.tga",
+          "sha256": "1b3a91f5c12c7b8db8ac678feb1bc6b9e7b39b55af0cfc62981bba19fcf4aa4b",
+          "packed": true
+        },
+        {
+          "name": "cab_floor_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/cab_floor_surface.tga",
+          "sha256": "8208de0cafa8403ff1dbe690038e25ce46f76ad5c39da74e110cd1eee37de260",
+          "packed": true
+        },
+        {
+          "name": "cab_lining_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/cab_lining_rough.tga",
+          "sha256": "f4ccf02be1958610ea4ea23bbcb365fa34c974bc9ecf14c7d496a6ceb661f320",
+          "packed": true
+        },
+        {
+          "name": "cab_lining_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/cab_lining_surface.tga",
+          "sha256": "ef7b162b42e9c6d4c3d2ad717d5ae4efe3aaf1a0ef5fa40a2a0fa24c4d5c388c",
+          "packed": true
+        },
+        {
+          "name": "console_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/console_rough.tga",
+          "sha256": "dd9ae6580833e067eff46022f750be4ff0e67c891a9b8889ef0745a46f6411b2",
+          "packed": true
+        },
+        {
+          "name": "console_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/console_surface.tga",
+          "sha256": "0fd9dade5333c7dce20d93bcf259047b1372eb9d946c00fd0f5d84caee133717",
+          "packed": true
+        },
+        {
+          "name": "coupler_steel_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/coupler_steel_rough.tga",
+          "sha256": "cac8afac849d7335dd4d5bd876389a518bf67b87297aac8ffbbb3e2ddbd99adf",
+          "packed": true
+        },
+        {
+          "name": "coupler_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/coupler_steel_surface.tga",
+          "sha256": "cc55476ee907e394f4bfa0d846600a804b23f765a93ce6e6934899b05a113f41",
+          "packed": true
+        },
+        {
+          "name": "dark_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/dark_rough.tga",
+          "sha256": "7c2b396aa0166bae8a7ed9bcf1857d74c9c3a7759db983c517b5777226839635",
+          "packed": true
+        },
+        {
+          "name": "dark_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/dark_surface.tga",
+          "sha256": "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796",
+          "packed": true
+        },
+        {
+          "name": "exhaust_steel_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/exhaust_steel_rough.tga",
+          "sha256": "0b502cae47afb9a3392ce826a3155532edfcc334149a513e039806eeab1ecd00",
+          "packed": true
+        },
+        {
+          "name": "exhaust_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/exhaust_steel_surface.tga",
+          "sha256": "8c30adf565e154786c686dfdc31faabda542ac48d1489a44e01d55ad42af0407",
+          "packed": true
+        },
+        {
+          "name": "graphite_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/graphite_rough.tga",
+          "sha256": "42c90655fab4edf52c6e039e90cad0f8cc7d282e05cdb11bb25483741f6c89d0",
+          "packed": true
+        },
+        {
+          "name": "graphite_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/graphite_surface.tga",
+          "sha256": "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3",
+          "packed": true
+        },
+        {
+          "name": "grille_black_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/grille_black_rough.tga",
+          "sha256": "c9bf31e7706c6dced48cf2f727aa2adf6fe2daf1787d6c603f980ea0ed27c6dc",
+          "packed": true
+        },
+        {
+          "name": "grille_black_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/grille_black_surface.tga",
+          "sha256": "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db",
+          "packed": true
+        },
+        {
+          "name": "jw_blue_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/jw_blue_rough.tga",
+          "sha256": "5a4c8fed69e60489a4c0b4e1e1ee6659bdc71ed3bb4d54e6979d47a97238d649",
+          "packed": true
+        },
+        {
+          "name": "jw_blue_surface.tga",
+          "path": "fxn5c_v37_source/source_textures/jw_blue_surface_packed_e1fe619fbc31.tga",
+          "sha256": "e1fe619fbc31092ce2fa9e47da2e22fd4df19ff118c0f8bafcb87f2cbb96da07",
+          "packed": true
+        },
+        {
+          "name": "jw_frame_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/jw_frame_rough.tga",
+          "sha256": "ec5dff0acf7052de8cd8125fdd9c33bc4009173ff3397db7c11633b771d63bd1",
+          "packed": true
+        },
+        {
+          "name": "jw_frame_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/jw_frame_surface.tga",
+          "sha256": "b16aa5dc36f12f3d17717c1d1921a8ab5c3bf5b7770badc4559fc0acb4a03553",
+          "packed": true
+        },
+        {
+          "name": "jw_red_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/jw_red_rough.tga",
+          "sha256": "d22ea55a6fa8283381e175001410194a56ce126d00d8ea4f8e11bc2edd0f23f4",
+          "packed": true
+        },
+        {
+          "name": "jw_red_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/jw_red_surface.tga",
+          "sha256": "f06231ac05502f95c882969121240af731371e4477c336ef5ecfeea6a9bb1a48",
+          "packed": true
+        },
+        {
+          "name": "jw_roof_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/jw_roof_rough.tga",
+          "sha256": "a9ba4eed2e65be5d15017f1d957f72b60a5022b1d214c1b5d579917c6c22e4f1",
+          "packed": true
+        },
+        {
+          "name": "jw_roof_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/jw_roof_surface.tga",
+          "sha256": "b8fc26987a73f1579ab50853e0f5bd5ea70e51b197201856882c0797c09dc195",
+          "packed": true
+        },
+        {
+          "name": "jw_spring_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/jw_spring_rough.tga",
+          "sha256": "389be9223b61d1d87067a54e2856d4fdccf41a51c132c80cdeabb12bfdc7fe55",
+          "packed": true
+        },
+        {
+          "name": "jw_spring_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/jw_spring_surface.tga",
+          "sha256": "0f8da57d52d03306669f3ff6ac07f2a6a9bc0ca085f9bc919a8a8057d82f3167",
+          "packed": true
+        },
+        {
+          "name": "jw_white_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/jw_white_rough.tga",
+          "sha256": "3f36e230e67249e4eefde8731fd9d2da3fa334dcb95af842c89db29b31a3a1dd",
+          "packed": true
+        },
+        {
+          "name": "jw_white_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/jw_white_surface.tga",
+          "sha256": "f77540c258cd19b00969bc59c0ea99592fbc993dc600e25b210663354b277ffc",
+          "packed": true
+        },
+        {
+          "name": "light_blue_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/light_blue_rough.tga",
+          "sha256": "f2b223f939d82a6996c8aacbaa70ea3b1e00fb0b40d7d9eaf66d3f4d00f0b981",
+          "packed": true
+        },
+        {
+          "name": "light_blue_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/light_blue_surface.tga",
+          "sha256": "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a",
+          "packed": true
+        },
+        {
+          "name": "metal_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/metal_rough.tga",
+          "sha256": "efb5c04cf43a365786202c31099dbaf512d85a9ddcb36326715a01a66b251df3",
+          "packed": true
+        },
+        {
+          "name": "metal_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/metal_surface.tga",
+          "sha256": "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138",
+          "packed": true
+        },
+        {
+          "name": "ochre_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/ochre_rough.tga",
+          "sha256": "1f9b14a2bcb17b7889df2cb3634b3b337fd7c4a7b698f942e9da427997f1629e",
+          "packed": true
+        },
+        {
+          "name": "ochre_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/ochre_surface.tga",
+          "sha256": "4b4ffb51ec35cbaa9f5b34824cd295d6deecfa4d4af2a71b5381de39caa6bfe1",
+          "packed": true
+        },
+        {
+          "name": "red_paint_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/red_paint_rough.tga",
+          "sha256": "72feff47dacaf28bad4892d39ce2e8964dcd5ae31f30dc92a18ab0e8e518e03d",
+          "packed": true
+        },
+        {
+          "name": "red_paint_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/red_paint_surface.tga",
+          "sha256": "d613e79b8509f37aae094d0cc616619d8d605b8336f18f7a77691b7d4c92d4b7",
+          "packed": true
+        },
+        {
+          "name": "roof_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/roof_rough.tga",
+          "sha256": "5896b6ca359ba9566001c96346672d33f4e76d08ef833c3e724d9a659e28c5b1",
+          "packed": true
+        },
+        {
+          "name": "roof_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/roof_surface.tga",
+          "sha256": "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e",
+          "packed": true
+        },
+        {
+          "name": "screen_mark_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/screen_mark_rough.tga",
+          "sha256": "594fb1e29f924e4abcf702df0990b8407486df8fd46d096b09b9049ecb6bccbc",
+          "packed": true
+        },
+        {
+          "name": "screen_mark_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/screen_mark_surface.tga",
+          "sha256": "5db23f24dc3408b2692fa747af59b0b7162466c4a1a7a8e3481287bea01eea55",
+          "packed": true
+        },
+        {
+          "name": "screen_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/screen_rough.tga",
+          "sha256": "26504ab2aa13f56ad0a38cc0d8e7170ecd4dcd97b67ad7fa1d278de0d461b004",
+          "packed": true
+        },
+        {
+          "name": "screen_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/screen_surface.tga",
+          "sha256": "fb0acdc0a860f9f1156d8ebdecdb3e3e79c6750e7d8b6f40ab7ef8d1a03e034e",
+          "packed": true
+        },
+        {
+          "name": "seat_fabric_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/seat_fabric_rough.tga",
+          "sha256": "c94fa48a2333c7cfcedb6f01880d3b369919dbf070db3a13f41bb129e1ccc3ce",
+          "packed": true
+        },
+        {
+          "name": "seat_fabric_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/seat_fabric_surface.tga",
+          "sha256": "1cf5a56c7bc14bded6557a0122cb61dabd1cc6bb7d8f777ad0fd769ffb64cf48",
+          "packed": true
+        },
+        {
+          "name": "spring_steel_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/spring_steel_rough.tga",
+          "sha256": "dcbeb48931af697df483a6fcc8d98d6c3fe6893b8bfac74f007fd4a936a6e4af",
+          "packed": true
+        },
+        {
+          "name": "spring_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/spring_steel_surface.tga",
+          "sha256": "cc8cdab6ae479f7165b6bc88f6b74983b480ca2696e68d87d9852ed03eafc006",
+          "packed": true
+        },
+        {
+          "name": "wheel_steel_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/wheel_steel_rough.tga",
+          "sha256": "a4e1eb596ef179d79c8c988335f0c37f693b3b90f80514c252aabbd61dde9ef8",
+          "packed": true
+        },
+        {
+          "name": "wheel_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/wheel_steel_surface.tga",
+          "sha256": "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8",
+          "packed": true
+        },
+        {
+          "name": "white_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/white_rough.tga",
+          "sha256": "0fabb5d154ea38421b66a62b995892406593cffe951c78a5e62229ca15a661be",
+          "packed": true
+        },
+        {
+          "name": "white_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/white_surface.tga",
+          "sha256": "7228ba466e91dc52779649ea944a5a98669311d2c86cbc57c099a54cbb366f39",
+          "packed": true
+        },
+        {
+          "name": "yellow_rough.tga",
+          "path": "fxn5c_v37_source/source_textures/yellow_rough.tga",
+          "sha256": "9cad2c1520a65fd4ee954a51ee550be6cdba03240703796734c1bb1161c5806c",
+          "packed": true
+        },
+        {
+          "name": "yellow_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/yellow_surface.tga",
+          "sha256": "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1",
+          "packed": true
+        }
+      ]
+    },
+    {
+      "file": "runtime/final37_fxn5c_jinwen_lod1.blend",
+      "sha256": "95746b4a14e1f8adf3ec76510173b6336341e728d21bce6b4cf810906d4b1a2b",
+      "relative_packed_images": 27,
+      "absolute_paths_repaired": 0,
+      "images": [
+        {
+          "name": "black_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/black_surface.tga",
+          "sha256": "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83",
+          "packed": true
+        },
+        {
+          "name": "blue_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/blue_surface.tga",
+          "sha256": "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6",
+          "packed": true
+        },
+        {
+          "name": "cab_floor_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/cab_floor_surface.tga",
+          "sha256": "8208de0cafa8403ff1dbe690038e25ce46f76ad5c39da74e110cd1eee37de260",
+          "packed": true
+        },
+        {
+          "name": "cab_lining_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/cab_lining_surface.tga",
+          "sha256": "ef7b162b42e9c6d4c3d2ad717d5ae4efe3aaf1a0ef5fa40a2a0fa24c4d5c388c",
+          "packed": true
+        },
+        {
+          "name": "console_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/console_surface.tga",
+          "sha256": "0fd9dade5333c7dce20d93bcf259047b1372eb9d946c00fd0f5d84caee133717",
+          "packed": true
+        },
+        {
+          "name": "coupler_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/coupler_steel_surface.tga",
+          "sha256": "cc55476ee907e394f4bfa0d846600a804b23f765a93ce6e6934899b05a113f41",
+          "packed": true
+        },
+        {
+          "name": "dark_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/dark_surface.tga",
+          "sha256": "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796",
+          "packed": true
+        },
+        {
+          "name": "exhaust_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/exhaust_steel_surface.tga",
+          "sha256": "8c30adf565e154786c686dfdc31faabda542ac48d1489a44e01d55ad42af0407",
+          "packed": true
+        },
+        {
+          "name": "graphite_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/graphite_surface.tga",
+          "sha256": "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3",
+          "packed": true
+        },
+        {
+          "name": "grille_black_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/grille_black_surface.tga",
+          "sha256": "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db",
+          "packed": true
+        },
+        {
+          "name": "jw_blue_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/jw_blue_surface.tga",
+          "sha256": "a34fe667dc7ff95a1a611aacbe5468c0bff42e34d0f8a2162ac2412d5c6824b6",
+          "packed": true
+        },
+        {
+          "name": "jw_frame_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/jw_frame_surface.tga",
+          "sha256": "b16aa5dc36f12f3d17717c1d1921a8ab5c3bf5b7770badc4559fc0acb4a03553",
+          "packed": true
+        },
+        {
+          "name": "jw_red_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/jw_red_surface.tga",
+          "sha256": "f06231ac05502f95c882969121240af731371e4477c336ef5ecfeea6a9bb1a48",
+          "packed": true
+        },
+        {
+          "name": "jw_roof_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/jw_roof_surface.tga",
+          "sha256": "b8fc26987a73f1579ab50853e0f5bd5ea70e51b197201856882c0797c09dc195",
+          "packed": true
+        },
+        {
+          "name": "jw_spring_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/jw_spring_surface.tga",
+          "sha256": "0f8da57d52d03306669f3ff6ac07f2a6a9bc0ca085f9bc919a8a8057d82f3167",
+          "packed": true
+        },
+        {
+          "name": "jw_white_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/jw_white_surface.tga",
+          "sha256": "f77540c258cd19b00969bc59c0ea99592fbc993dc600e25b210663354b277ffc",
+          "packed": true
+        },
+        {
+          "name": "light_blue_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/light_blue_surface.tga",
+          "sha256": "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a",
+          "packed": true
+        },
+        {
+          "name": "metal_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/metal_surface.tga",
+          "sha256": "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138",
+          "packed": true
+        },
+        {
+          "name": "ochre_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/ochre_surface.tga",
+          "sha256": "4b4ffb51ec35cbaa9f5b34824cd295d6deecfa4d4af2a71b5381de39caa6bfe1",
+          "packed": true
+        },
+        {
+          "name": "red_paint_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/red_paint_surface.tga",
+          "sha256": "d613e79b8509f37aae094d0cc616619d8d605b8336f18f7a77691b7d4c92d4b7",
+          "packed": true
+        },
+        {
+          "name": "roof_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/roof_surface.tga",
+          "sha256": "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e",
+          "packed": true
+        },
+        {
+          "name": "screen_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/screen_surface.tga",
+          "sha256": "fb0acdc0a860f9f1156d8ebdecdb3e3e79c6750e7d8b6f40ab7ef8d1a03e034e",
+          "packed": true
+        },
+        {
+          "name": "seat_fabric_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/seat_fabric_surface.tga",
+          "sha256": "1cf5a56c7bc14bded6557a0122cb61dabd1cc6bb7d8f777ad0fd769ffb64cf48",
+          "packed": true
+        },
+        {
+          "name": "spring_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/spring_steel_surface.tga",
+          "sha256": "cc8cdab6ae479f7165b6bc88f6b74983b480ca2696e68d87d9852ed03eafc006",
+          "packed": true
+        },
+        {
+          "name": "wheel_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/wheel_steel_surface.tga",
+          "sha256": "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8",
+          "packed": true
+        },
+        {
+          "name": "white_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/white_surface.tga",
+          "sha256": "7228ba466e91dc52779649ea944a5a98669311d2c86cbc57c099a54cbb366f39",
+          "packed": true
+        },
+        {
+          "name": "yellow_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/yellow_surface.tga",
+          "sha256": "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1",
+          "packed": true
+        }
+      ]
+    },
+    {
+      "file": "runtime/final37_fxn5c_jinwen_lod2.blend",
+      "sha256": "3d5ce2c7463087f792893a1880d52dd53800dfd327ca95af090ed407eddabedd",
+      "relative_packed_images": 12,
+      "absolute_paths_repaired": 0,
+      "images": [
+        {
+          "name": "black_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/black_surface.tga",
+          "sha256": "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83",
+          "packed": true
+        },
+        {
+          "name": "blue_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/blue_surface.tga",
+          "sha256": "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6",
+          "packed": true
+        },
+        {
+          "name": "dark_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/dark_surface.tga",
+          "sha256": "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796",
+          "packed": true
+        },
+        {
+          "name": "grille_black_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/grille_black_surface.tga",
+          "sha256": "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db",
+          "packed": true
+        },
+        {
+          "name": "jw_blue_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/jw_blue_surface.tga",
+          "sha256": "a34fe667dc7ff95a1a611aacbe5468c0bff42e34d0f8a2162ac2412d5c6824b6",
+          "packed": true
+        },
+        {
+          "name": "jw_frame_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/jw_frame_surface.tga",
+          "sha256": "b16aa5dc36f12f3d17717c1d1921a8ab5c3bf5b7770badc4559fc0acb4a03553",
+          "packed": true
+        },
+        {
+          "name": "jw_roof_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/jw_roof_surface.tga",
+          "sha256": "b8fc26987a73f1579ab50853e0f5bd5ea70e51b197201856882c0797c09dc195",
+          "packed": true
+        },
+        {
+          "name": "jw_white_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/jw_white_surface.tga",
+          "sha256": "f77540c258cd19b00969bc59c0ea99592fbc993dc600e25b210663354b277ffc",
+          "packed": true
+        },
+        {
+          "name": "light_blue_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/light_blue_surface.tga",
+          "sha256": "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a",
+          "packed": true
+        },
+        {
+          "name": "metal_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/metal_surface.tga",
+          "sha256": "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138",
+          "packed": true
+        },
+        {
+          "name": "wheel_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/wheel_steel_surface.tga",
+          "sha256": "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8",
+          "packed": true
+        },
+        {
+          "name": "yellow_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/yellow_surface.tga",
+          "sha256": "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1",
+          "packed": true
+        }
+      ]
+    },
+    {
+      "file": "runtime/final37_fxn5c_lod1.blend",
+      "sha256": "af04485a6d9a51ab0bff1315e32f55cf83313f2a063ff6dbcbeb598dabf01db9",
+      "relative_packed_images": 22,
+      "absolute_paths_repaired": 0,
+      "images": [
+        {
+          "name": "black_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/black_surface.tga",
+          "sha256": "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83",
+          "packed": true
+        },
+        {
+          "name": "blue_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/blue_surface.tga",
+          "sha256": "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6",
+          "packed": true
+        },
+        {
+          "name": "cab_floor_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/cab_floor_surface.tga",
+          "sha256": "8208de0cafa8403ff1dbe690038e25ce46f76ad5c39da74e110cd1eee37de260",
+          "packed": true
+        },
+        {
+          "name": "cab_lining_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/cab_lining_surface.tga",
+          "sha256": "ef7b162b42e9c6d4c3d2ad717d5ae4efe3aaf1a0ef5fa40a2a0fa24c4d5c388c",
+          "packed": true
+        },
+        {
+          "name": "cast_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/cast_steel_surface.tga",
+          "sha256": "8eeae929441d230a42ae2b2ce8ec1a5e0f909c4062da139b20d1b7dfa1b2a508",
+          "packed": true
+        },
+        {
+          "name": "console_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/console_surface.tga",
+          "sha256": "0fd9dade5333c7dce20d93bcf259047b1372eb9d946c00fd0f5d84caee133717",
+          "packed": true
+        },
+        {
+          "name": "coupler_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/coupler_steel_surface.tga",
+          "sha256": "cc55476ee907e394f4bfa0d846600a804b23f765a93ce6e6934899b05a113f41",
+          "packed": true
+        },
+        {
+          "name": "dark_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/dark_surface.tga",
+          "sha256": "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796",
+          "packed": true
+        },
+        {
+          "name": "exhaust_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/exhaust_steel_surface.tga",
+          "sha256": "8c30adf565e154786c686dfdc31faabda542ac48d1489a44e01d55ad42af0407",
+          "packed": true
+        },
+        {
+          "name": "graphite_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/graphite_surface.tga",
+          "sha256": "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3",
+          "packed": true
+        },
+        {
+          "name": "grille_black_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/grille_black_surface.tga",
+          "sha256": "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db",
+          "packed": true
+        },
+        {
+          "name": "light_blue_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/light_blue_surface.tga",
+          "sha256": "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a",
+          "packed": true
+        },
+        {
+          "name": "metal_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/metal_surface.tga",
+          "sha256": "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138",
+          "packed": true
+        },
+        {
+          "name": "ochre_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/ochre_surface.tga",
+          "sha256": "4b4ffb51ec35cbaa9f5b34824cd295d6deecfa4d4af2a71b5381de39caa6bfe1",
+          "packed": true
+        },
+        {
+          "name": "red_paint_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/red_paint_surface.tga",
+          "sha256": "d613e79b8509f37aae094d0cc616619d8d605b8336f18f7a77691b7d4c92d4b7",
+          "packed": true
+        },
+        {
+          "name": "roof_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/roof_surface.tga",
+          "sha256": "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e",
+          "packed": true
+        },
+        {
+          "name": "screen_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/screen_surface.tga",
+          "sha256": "fb0acdc0a860f9f1156d8ebdecdb3e3e79c6750e7d8b6f40ab7ef8d1a03e034e",
+          "packed": true
+        },
+        {
+          "name": "seat_fabric_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/seat_fabric_surface.tga",
+          "sha256": "1cf5a56c7bc14bded6557a0122cb61dabd1cc6bb7d8f777ad0fd769ffb64cf48",
+          "packed": true
+        },
+        {
+          "name": "spring_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/spring_steel_surface.tga",
+          "sha256": "cc8cdab6ae479f7165b6bc88f6b74983b480ca2696e68d87d9852ed03eafc006",
+          "packed": true
+        },
+        {
+          "name": "wheel_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/wheel_steel_surface.tga",
+          "sha256": "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8",
+          "packed": true
+        },
+        {
+          "name": "white_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/white_surface.tga",
+          "sha256": "7228ba466e91dc52779649ea944a5a98669311d2c86cbc57c099a54cbb366f39",
+          "packed": true
+        },
+        {
+          "name": "yellow_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/yellow_surface.tga",
+          "sha256": "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1",
+          "packed": true
+        }
+      ]
+    },
+    {
+      "file": "runtime/final37_fxn5c_lod2.blend",
+      "sha256": "33479bc503a1a759fb19f801b19c396689112736795e3115333c3a588a4224d5",
+      "relative_packed_images": 10,
+      "absolute_paths_repaired": 0,
+      "images": [
+        {
+          "name": "black_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/black_surface.tga",
+          "sha256": "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83",
+          "packed": true
+        },
+        {
+          "name": "blue_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/blue_surface.tga",
+          "sha256": "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6",
+          "packed": true
+        },
+        {
+          "name": "dark_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/dark_surface.tga",
+          "sha256": "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796",
+          "packed": true
+        },
+        {
+          "name": "graphite_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/graphite_surface.tga",
+          "sha256": "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3",
+          "packed": true
+        },
+        {
+          "name": "grille_black_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/grille_black_surface.tga",
+          "sha256": "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db",
+          "packed": true
+        },
+        {
+          "name": "light_blue_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/light_blue_surface.tga",
+          "sha256": "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a",
+          "packed": true
+        },
+        {
+          "name": "metal_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/metal_surface.tga",
+          "sha256": "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138",
+          "packed": true
+        },
+        {
+          "name": "roof_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/roof_surface.tga",
+          "sha256": "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e",
+          "packed": true
+        },
+        {
+          "name": "wheel_steel_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/wheel_steel_surface.tga",
+          "sha256": "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8",
+          "packed": true
+        },
+        {
+          "name": "yellow_surface.tga",
+          "path": "fxn5c_v37_source/staging/codex_fxn5c_1/res/textures/models/vehicle/train/fxn5c/yellow_surface.tga",
+          "sha256": "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1",
+          "packed": true
+        }
+      ]
+    }
+  ],
+  "geometry_uv_material_transform_tags_preserved": true,
+  "baseline_v26_unchanged": true
+}

@@ -1,0 +1,118 @@
+{
+  "style": "fxn5c",
+  "frames": [
+    {
+      "file": "wave_frames/00.png",
+      "time_ms": 0,
+      "duration_ms": 50
+    },
+    {
+      "file": "wave_frames/01.png",
+      "time_ms": 50,
+      "duration_ms": 50
+    },
+    {
+      "file": "wave_frames/02.png",
+      "time_ms": 100,
+      "duration_ms": 50
+    },
+    {
+      "file": "wave_frames/03.png",
+      "time_ms": 150,
+      "duration_ms": 50
+    },
+    {
+      "file": "wave_frames/04.png",
+      "time_ms": 200,
+      "duration_ms": 50
+    },
+    {
+      "file": "wave_frames/05.png",
+      "time_ms": 250,
+      "duration_ms": 50
+    },
+    {
+      "file": "wave_frames/06.png",
+      "time_ms": 300,
+      "duration_ms": 50
+    },
+    {
+      "file": "wave_frames/07.png",
+      "time_ms": 350,
+      "duration_ms": 50
+    },
+    {
+      "file": "wave_frames/08.png",
+      "time_ms": 400,
+      "duration_ms": 50
+    },
+    {
+      "file": "wave_frames/09.png",
+      "time_ms": 450,
+      "duration_ms": 50
+    },
+    {
+      "file": "wave_frames/10.png",
+      "time_ms": 500,
+      "duration_ms": 50
+    },
+    {
+      "file": "wave_frames/11.png",
+      "time_ms": 550,
+      "duration_ms": 50
+    },
+    {
+      "file": "wave_frames/12.png",
+      "time_ms": 600,
+      "duration_ms": 50
+    },
+    {
+      "file": "wave_frames/13.png",
+      "time_ms": 650,
+      "duration_ms": 50
+    },
+    {
+      "file": "wave_frames/14.png",
+      "time_ms": 700,
+      "duration_ms": 50
+    },
+    {
+      "file": "wave_frames/15.png",
+      "time_ms": 750,
+      "duration_ms": 50
+    }
+  ],
+  "native_model_sha256": "df8716c99c3cd10ecaa137e5f0b4f282e6bfbbf2a20cfef2ff092ae3559d8f8d",
+  "build_manifest_sha256": "5db3ba00e32364e69460b1e5ffc700b0df87f0c07bc0321652e34669eaef8878",
+  "backface_culling": {
+    "graphite": true,
+    "ochre": true,
+    "yellow": true,
+    "white": true,
+    "light_blue": true,
+    "spring_steel": true,
+    "black": true,
+    "metal": true,
+    "red_paint": true,
+    "dark": true,
+    "roof": true,
+    "grille_black": true,
+    "blue": true,
+    "coupler_steel": true,
+    "cab_lining": true,
+    "exhaust_steel": true,
+    "cast_steel": true,
+    "wheel_steel": true,
+    "cab_floor": true,
+    "console": true,
+    "seat_fabric": true,
+    "screen": true,
+    "screen_mark": true,
+    "lamp_glass": false,
+    "glass_transparent": false,
+    "lamp_moon_v24": true,
+    "lamp_red": true
+  },
+  "period_ms": 800,
+  "engine_playtest": false
+}

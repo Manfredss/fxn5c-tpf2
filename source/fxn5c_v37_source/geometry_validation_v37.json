@@ -1,0 +1,71 @@
+{
+  "status": "PASS",
+  "rows": [
+    {
+      "style": "fxn5c",
+      "lod": 0,
+      "unchanged_meshes": 4131,
+      "roof_blades": 36,
+      "fixed_big_blades": 312,
+      "native_source_max_error_m": 1.1246181657043053e-06,
+      "small_body_frame_samples": 5760,
+      "small_neighbor_samples": 5120,
+      "large_static_checks": 312,
+      "errors": [],
+      "source_sha256": "69e36450e87574749a7a57f8386e0cf0938face7025c8e056395e5899b1d8893"
+    },
+    {
+      "style": "fxn5c",
+      "lod": 1,
+      "unchanged_meshes": 2230,
+      "roof_blades": 16,
+      "fixed_big_blades": 168,
+      "native_source_max_error_m": 1.0115243185282452e-06,
+      "small_body_frame_samples": 2560,
+      "small_neighbor_samples": 1920,
+      "large_static_checks": 168,
+      "errors": [],
+      "source_sha256": "af04485a6d9a51ab0bff1315e32f55cf83313f2a063ff6dbcbeb598dabf01db9"
+    },
+    {
+      "style": "fxn5c",
+      "lod": 2,
+      "unchanged_meshes": 100,
+      "source_sha256": "33479bc503a1a759fb19f801b19c396689112736795e3115333c3a588a4224d5"
+    },
+    {
+      "style": "fxn5c_jinwen",
+      "lod": 0,
+      "unchanged_meshes": 4123,
+      "roof_blades": 36,
+      "fixed_big_blades": 312,
+      "native_source_max_error_m": 1.1246181657043053e-06,
+      "small_body_frame_samples": 5760,
+      "small_neighbor_samples": 5120,
+      "large_static_checks": 312,
+      "errors": [],
+      "source_sha256": "7389a1bdcbd716cf8a30aa1cdad2f09977dd614bf78c3c2ac245ab2af9831025"
+    },
+    {
+      "style": "fxn5c_jinwen",
+      "lod": 1,
+      "unchanged_meshes": 2214,
+      "roof_blades": 16,
+      "fixed_big_blades": 168,
+      "native_source_max_error_m": 9.310543305218744e-07,
+      "small_body_frame_samples": 2560,
+      "small_neighbor_samples": 1920,
+      "large_static_checks": 168,
+      "errors": [],
+      "source_sha256": "95746b4a14e1f8adf3ec76510173b6336341e728d21bce6b4cf810906d4b1a2b"
+    },
+    {
+      "style": "fxn5c_jinwen",
+      "lod": 2,
+      "unchanged_meshes": 100,
+      "source_sha256": "3d5ce2c7463087f792893a1880d52dd53800dfd327ca95af090ed407eddabedd"
+    }
+  ],
+  "hinge_design_contact_excluded": true,
+  "engine_tested": false
+}

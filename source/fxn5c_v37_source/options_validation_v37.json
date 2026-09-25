@@ -1,0 +1,751 @@
+{
+  "status": "PASS",
+  "actual_model_cases": 72,
+  "cases": [
+    {
+      "model": "fxn5c.mdl",
+      "year_policy": 0,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0035.mdl",
+      "year_policy": 0,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0057.mdl",
+      "year_policy": 0,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0066.mdl",
+      "year_policy": 0,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0081.mdl",
+      "year_policy": 0,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0096.mdl",
+      "year_policy": 0,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0102.mdl",
+      "year_policy": 0,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0115.mdl",
+      "year_policy": 0,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_jinwen.mdl",
+      "year_policy": 0,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_jinwen_7005.mdl",
+      "year_policy": 0,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_menu_cr.mdl",
+      "year_policy": 0,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_menu_jinwen.mdl",
+      "year_policy": 0,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c.mdl",
+      "year_policy": 0,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0035.mdl",
+      "year_policy": 0,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0057.mdl",
+      "year_policy": 0,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0066.mdl",
+      "year_policy": 0,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0081.mdl",
+      "year_policy": 0,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0096.mdl",
+      "year_policy": 0,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0102.mdl",
+      "year_policy": 0,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0115.mdl",
+      "year_policy": 0,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_jinwen.mdl",
+      "year_policy": 0,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_jinwen_7005.mdl",
+      "year_policy": 0,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_menu_cr.mdl",
+      "year_policy": 0,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_menu_jinwen.mdl",
+      "year_policy": 0,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c.mdl",
+      "year_policy": 0,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0035.mdl",
+      "year_policy": 0,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0057.mdl",
+      "year_policy": 0,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0066.mdl",
+      "year_policy": 0,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0081.mdl",
+      "year_policy": 0,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0096.mdl",
+      "year_policy": 0,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0102.mdl",
+      "year_policy": 0,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0115.mdl",
+      "year_policy": 0,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_jinwen.mdl",
+      "year_policy": 0,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_jinwen_7005.mdl",
+      "year_policy": 0,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_menu_cr.mdl",
+      "year_policy": 0,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_menu_jinwen.mdl",
+      "year_policy": 0,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c.mdl",
+      "year_policy": 1,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0035.mdl",
+      "year_policy": 1,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0057.mdl",
+      "year_policy": 1,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0066.mdl",
+      "year_policy": 1,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0081.mdl",
+      "year_policy": 1,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0096.mdl",
+      "year_policy": 1,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0102.mdl",
+      "year_policy": 1,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0115.mdl",
+      "year_policy": 1,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_jinwen.mdl",
+      "year_policy": 1,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_jinwen_7005.mdl",
+      "year_policy": 1,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_menu_cr.mdl",
+      "year_policy": 1,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_menu_jinwen.mdl",
+      "year_policy": 1,
+      "motion_mode": 0,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 52
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c.mdl",
+      "year_policy": 1,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0035.mdl",
+      "year_policy": 1,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0057.mdl",
+      "year_policy": 1,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0066.mdl",
+      "year_policy": 1,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0081.mdl",
+      "year_policy": 1,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0096.mdl",
+      "year_policy": 1,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0102.mdl",
+      "year_policy": 1,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0115.mdl",
+      "year_policy": 1,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_jinwen.mdl",
+      "year_policy": 1,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_jinwen_7005.mdl",
+      "year_policy": 1,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_menu_cr.mdl",
+      "year_policy": 1,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_menu_jinwen.mdl",
+      "year_policy": 1,
+      "motion_mode": 1,
+      "active_forever_nodes": {
+        "fan": 4,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c.mdl",
+      "year_policy": 1,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0035.mdl",
+      "year_policy": 1,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0057.mdl",
+      "year_policy": 1,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0066.mdl",
+      "year_policy": 1,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0081.mdl",
+      "year_policy": 1,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0096.mdl",
+      "year_policy": 1,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0102.mdl",
+      "year_policy": 1,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_0115.mdl",
+      "year_policy": 1,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_jinwen.mdl",
+      "year_policy": 1,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_jinwen_7005.mdl",
+      "year_policy": 1,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_menu_cr.mdl",
+      "year_policy": 1,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    },
+    {
+      "model": "fxn5c_menu_jinwen.mdl",
+      "year_policy": 1,
+      "motion_mode": 2,
+      "active_forever_nodes": {
+        "fan": 0,
+        "louver": 0
+      },
+      "geometry_hierarchy_other_metadata_exact": true
+    }
+  ],
+  "resource_path_alias_cases": 144,
+  "validator_sha256": "a8c8e82b40c0665250ac5822e6dbd9e66f4912f7f64d212ad534deea9e4139ad",
+  "foreign_resource_unchanged_cases": 36,
+  "nil_preferences_cases": 12,
+  "method": "Actual final mod.lua require/module and 12 final MDL tables executed by Lua; independent expected field-level comparison",
+  "inputs_sha256": {
+    "staging/codex_fxn5c_1/res/models/model/vehicle/train/fxn5c.mdl": "df8716c99c3cd10ecaa137e5f0b4f282e6bfbbf2a20cfef2ff092ae3559d8f8d",
+    "staging/codex_fxn5c_1/res/models/model/vehicle/train/fxn5c_0035.mdl": "51ce12cf6dd80ba16a02aa2b3ff37d9bb5560e8c1c20eb5114e229c81b92a345",
+    "staging/codex_fxn5c_1/res/models/model/vehicle/train/fxn5c_0057.mdl": "5a17bb10e580835dc034212c6c5869e8dc02e68be39fc172f35366bcd8568e19",
+    "staging/codex_fxn5c_1/res/models/model/vehicle/train/fxn5c_0066.mdl": "ff1863940ebb56b91e84536b2d007ba8993c30a7e34b7d37be8a70f1348a189b",
+    "staging/codex_fxn5c_1/res/models/model/vehicle/train/fxn5c_0081.mdl": "50e6a46ade5a9132218ab3cc860e90e9d19a90e673c59d4d55ecad8ddaedcfd6",
+    "staging/codex_fxn5c_1/res/models/model/vehicle/train/fxn5c_0096.mdl": "f4e8e8c24a8083baad1613d2d3ff7a4a5657247ac1ebcf4c0b9d557580424155",
+    "staging/codex_fxn5c_1/res/models/model/vehicle/train/fxn5c_0102.mdl": "1c48d131406f185e4c2b30f524105be7f78a2ee46835e79e6281e3f0e7328bb6",
+    "staging/codex_fxn5c_1/res/models/model/vehicle/train/fxn5c_0115.mdl": "b9f9280f66af44b44abd61babcda1a097495bd7f644f684ac8af5521a61c16ec",
+    "staging/codex_fxn5c_1/res/models/model/vehicle/train/fxn5c_jinwen.mdl": "a912ac6dd15871a1b26ae3a3e493e809660da1f0c515fd3efc50bd05f049cffd",
+    "staging/codex_fxn5c_1/res/models/model/vehicle/train/fxn5c_jinwen_7005.mdl": "69c633d99f1404dcb8e3e1d6f08668bb24e60508450aa53ee86c4f1ea3448b2e",
+    "staging/codex_fxn5c_1/res/models/model/vehicle/train/fxn5c_menu_cr.mdl": "5b677cd77738147d28663387fac4fb38067bca1031ff4d04014a842a73324d49",
+    "staging/codex_fxn5c_1/res/models/model/vehicle/train/fxn5c_menu_jinwen.mdl": "c0bf459ba5e2d59b51aaddf3079033fcf71ce4984cae416779190adfbc685183",
+    "staging/codex_fxn5c_1/mod.lua": "4d68952a6b829988840a3b427de13bf4f496c30d673e49bc31e1d3f53ca7d77f",
+    "staging/codex_fxn5c_1/res/scripts/fxn5c_animation_v26.lua": "97c8bbc24e66bb4d8aa69bf14cff0cc5f23ced9f84cfbe3f3b3a29f9bcc50e8c",
+    "staging/codex_fxn5c_1/strings.lua": "b1ae19e64578e974dd6bbba53eb5d899ad1bc6399551bdb7fa9a5d8f7f1a9ca4"
+  },
+  "limitations": "Load-time Lua behavior only; native animation engine, Model Editor and game not executed",
+  "model_editor_verified": false,
+  "game_verified": false
+}

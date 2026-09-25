@@ -1,0 +1,17 @@
+function data()
+return {
+ order = 10,
+ params = {
+ fade_out_range = { fadeOutEndDist = 20000, fadeOutStartDist = 10000, },
+      two_sided = { flipNormal = true, twoSided = true, },
+ 
+          albedo_scale = { albedoScale = { 1,1,1, }, },
+          alpha_scale = { alphaScale = 1, },
+          alpha_test = { alphaThreshold = .5, a2CThreshold = 0, cutout = false, sorted = true, disableDepthAndNormalWrite = true, },
+          map_albedo_opacity = { fileName = "models/vehicle/train/fxn5c/glass_transparent.tga", type = "TWOD", },
+          map_metal_gloss_ao = { fileName = "models/vehicle/train/fxn5c/glass_transparent_mga.tga", type = "TWOD", },
+          polygon_offset = { factor = 0, units = 0, forceDepthWrite = false, },
+ },
+ type = "PHYS_TRANSPARENT",
+}
+end

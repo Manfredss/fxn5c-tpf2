@@ -4,6 +4,8 @@ This is an unofficial fan project, not a release endorsed by CRRC, China Railway
 
 ## Visual references
 
+For v0.25–v0.37, additional user-specified video references informed roof, vents and shutter motion: https://www.bilibili.com/video/BV1kwRpYGEwD/ , https://www.bilibili.com/video/BV1PHhP6YEgu/ , https://www.bilibili.com/video/BV1muMA6GEov/ . No downloaded reference videos or their frames are redistributed with these packages. The published v0.37 previews are renders of the project's native resources.
+
 User-supplied locomotive photographs, game screenshots and Dreamrail front/side illustrations informed the reconstruction. Their original files and watermarks are not distributed. Reference use does not imply that the reference author coauthored, approved or licensed this project. Attribution is not a substitute for permission where permission is required. The model reconstructs observed vehicle features; it is not factory CAD.
 
 Dreamrail reference shared by the project initiator: https://www.threads.com/@dreamrail_official/post/DR3r1b9kZwb/media . Source attribution is retained without asserting a redistribution license for the illustrations or video.

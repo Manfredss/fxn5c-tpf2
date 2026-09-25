@@ -1,0 +1,8 @@
+# Preserve native-resource and validation hash bytes across platforms.
+source/fxn5c_v37_source/** -text
+*.blob binary
+*.blend binary
+*.tga binary
+*.png binary
+*.jpg binary
+*.gif binary
