@@ -1,0 +1,2391 @@
+{
+  "status": "PASS",
+  "created_utc": "2026-10-08T12:11:22.628935+00:00",
+  "icons": [
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c.tga",
+      "width": 64,
+      "height": 20,
+      "stem": "fxn5c",
+      "kind": "models_20",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c/models_20.png",
+      "canonical_sha256": "7d9b63aba51ea5edc242079104ca4711451674d755f9c7a1701c49c10b8d81f3",
+      "bounds": [
+        1,
+        5,
+        63,
+        19
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "95f22a3654a2769657621ee88f1e1e751ddd56978e1fd2e73fa798e2872dca74",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c@2x.tga",
+      "width": 128,
+      "height": 40,
+      "stem": "fxn5c",
+      "kind": "models_20",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c/models_20.png",
+      "canonical_sha256": "7d9b63aba51ea5edc242079104ca4711451674d755f9c7a1701c49c10b8d81f3",
+      "bounds": [
+        3,
+        11,
+        125,
+        38
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "789ec9cc3239bf319e3e3f8fdff9ff7f0090c64ddde188e36094ea6b5c74a2e7",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0035.tga",
+      "width": 64,
+      "height": 20,
+      "stem": "fxn5c_0035",
+      "kind": "models_20",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_0035/models_20.png",
+      "canonical_sha256": "57cf5e112d436127d7373e4acccdadd67eb5881f29b5c1306694bce6a49503ef",
+      "bounds": [
+        1,
+        5,
+        63,
+        19
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "5e561be32c0d6a267cb664b4e7c85f3a349f2860173c6ae0e52094d9b30ecb4c",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0035@2x.tga",
+      "width": 128,
+      "height": 40,
+      "stem": "fxn5c_0035",
+      "kind": "models_20",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_0035/models_20.png",
+      "canonical_sha256": "57cf5e112d436127d7373e4acccdadd67eb5881f29b5c1306694bce6a49503ef",
+      "bounds": [
+        3,
+        11,
+        125,
+        38
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "20df57c3f589a0effb4a1987b2301789bae629ea8cbc5d1d1737119451d5ab9f",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0057.tga",
+      "width": 64,
+      "height": 20,
+      "stem": "fxn5c_0057",
+      "kind": "models_20",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_0057/models_20.png",
+      "canonical_sha256": "1e296dfbdfb20f601dc6f58a3a5989ee2abd123662b49ce1d7e6c9eef0da6781",
+      "bounds": [
+        1,
+        5,
+        63,
+        19
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "10d81260f036172669a70728b6cec3856404a56c7026de7241a294cbd6d714fa",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0057@2x.tga",
+      "width": 128,
+      "height": 40,
+      "stem": "fxn5c_0057",
+      "kind": "models_20",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_0057/models_20.png",
+      "canonical_sha256": "1e296dfbdfb20f601dc6f58a3a5989ee2abd123662b49ce1d7e6c9eef0da6781",
+      "bounds": [
+        3,
+        11,
+        125,
+        38
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "dc2863b0d3af2b0aae83c8e8a9ba760ff31c3ba1abc9c009e1b6b5d98b89dd23",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0066.tga",
+      "width": 64,
+      "height": 20,
+      "stem": "fxn5c_0066",
+      "kind": "models_20",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_0066/models_20.png",
+      "canonical_sha256": "de830cb86cb45fb0ab582dc57f947165c315a9c8a27988dd613558153c6b4b81",
+      "bounds": [
+        1,
+        5,
+        63,
+        19
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "5ee938f3c7e0f451711b28568241e53495a08e8db7c5ab99118f129a209b2db4",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0066@2x.tga",
+      "width": 128,
+      "height": 40,
+      "stem": "fxn5c_0066",
+      "kind": "models_20",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_0066/models_20.png",
+      "canonical_sha256": "de830cb86cb45fb0ab582dc57f947165c315a9c8a27988dd613558153c6b4b81",
+      "bounds": [
+        3,
+        11,
+        125,
+        38
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "a3afba2c3575694d2bcb5de9c24c0f41b07babdcbf3a88311c95f72399775fc0",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0081.tga",
+      "width": 64,
+      "height": 20,
+      "stem": "fxn5c_0081",
+      "kind": "models_20",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_0081/models_20.png",
+      "canonical_sha256": "6b06c653c542621c401e1aed8028dd5b7b619d3d5dffc649a98f9ca865d6d308",
+      "bounds": [
+        1,
+        5,
+        63,
+        19
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "befd269dd05d087a8bf0c93b85f7b956a11d435096a2126e910536c063f8bc4a",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0081@2x.tga",
+      "width": 128,
+      "height": 40,
+      "stem": "fxn5c_0081",
+      "kind": "models_20",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_0081/models_20.png",
+      "canonical_sha256": "6b06c653c542621c401e1aed8028dd5b7b619d3d5dffc649a98f9ca865d6d308",
+      "bounds": [
+        3,
+        11,
+        125,
+        38
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "ef7b535ed2b6506976785ef2e21e0a7e4ea2bae6cb72740b88552518ecde8a7e",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0096.tga",
+      "width": 64,
+      "height": 20,
+      "stem": "fxn5c_0096",
+      "kind": "models_20",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_0096/models_20.png",
+      "canonical_sha256": "09369c05fe1a0d9d29bb933163d204a8d8634b1db070d5d0bdec9eea4c690cd0",
+      "bounds": [
+        1,
+        5,
+        63,
+        19
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "2f37980733819533cd58a39a379cd88395fe2a7fa98ef4cc7a74c633d3c7ef83",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0096@2x.tga",
+      "width": 128,
+      "height": 40,
+      "stem": "fxn5c_0096",
+      "kind": "models_20",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_0096/models_20.png",
+      "canonical_sha256": "09369c05fe1a0d9d29bb933163d204a8d8634b1db070d5d0bdec9eea4c690cd0",
+      "bounds": [
+        3,
+        11,
+        125,
+        38
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "f91d7c0488c0d8b64054443cd67679492fe680dcb0ac54091134b51c977db3eb",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0102.tga",
+      "width": 64,
+      "height": 20,
+      "stem": "fxn5c_0102",
+      "kind": "models_20",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_0102/models_20.png",
+      "canonical_sha256": "1e4698f61912d007f336e60285f08bf8171eccb7fe33c2869c2f7eca021d4da6",
+      "bounds": [
+        1,
+        5,
+        63,
+        19
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "00211a9f7432bd1927dcf30efbc9d666ec9ee8ccb499087e03e8ec2d9f19c7e5",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0102@2x.tga",
+      "width": 128,
+      "height": 40,
+      "stem": "fxn5c_0102",
+      "kind": "models_20",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_0102/models_20.png",
+      "canonical_sha256": "1e4698f61912d007f336e60285f08bf8171eccb7fe33c2869c2f7eca021d4da6",
+      "bounds": [
+        3,
+        11,
+        125,
+        38
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "e04f511ce0d777f90e18a4b542f616708365108248962a1c22f83d22c3d87eee",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0115.tga",
+      "width": 64,
+      "height": 20,
+      "stem": "fxn5c_0115",
+      "kind": "models_20",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_0115/models_20.png",
+      "canonical_sha256": "86f29eeadcc7cd43c82c740833cdb40a160e774657556fcc14123c3aecd4d82d",
+      "bounds": [
+        1,
+        5,
+        63,
+        19
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "1857401efc94ac1c5faf7f73a8e99ae1ba9e002ea679b68d0a13ae8784c73790",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0115@2x.tga",
+      "width": 128,
+      "height": 40,
+      "stem": "fxn5c_0115",
+      "kind": "models_20",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_0115/models_20.png",
+      "canonical_sha256": "86f29eeadcc7cd43c82c740833cdb40a160e774657556fcc14123c3aecd4d82d",
+      "bounds": [
+        3,
+        11,
+        125,
+        38
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "9ed001b74ff13ce4595e6e992df257382a5162f1108a9383dc52918544374845",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_jinwen.tga",
+      "width": 64,
+      "height": 20,
+      "stem": "fxn5c_jinwen",
+      "kind": "models_20",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_jinwen/models_20.png",
+      "canonical_sha256": "914bc7ef7b6272cef20d4c9ce9462ae67f9e612999fa1dd98f3b432c3b546bb2",
+      "bounds": [
+        1,
+        5,
+        63,
+        19
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "77cccc79a99cc0c2383a505dcfed4f8d60e9ba0f89c5670c7aa862f8a848b836",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_jinwen@2x.tga",
+      "width": 128,
+      "height": 40,
+      "stem": "fxn5c_jinwen",
+      "kind": "models_20",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_jinwen/models_20.png",
+      "canonical_sha256": "914bc7ef7b6272cef20d4c9ce9462ae67f9e612999fa1dd98f3b432c3b546bb2",
+      "bounds": [
+        3,
+        11,
+        125,
+        38
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "a187ef8673b366f28e07039bd819a41773269f6ca6039124a63d85fcd8c3a65d",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_jinwen_7005.tga",
+      "width": 64,
+      "height": 20,
+      "stem": "fxn5c_jinwen_7005",
+      "kind": "models_20",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_jinwen_7005/models_20.png",
+      "canonical_sha256": "bd7287185b76614f7adb8d0acac2ac119be9837eb1b2fa4cd8bb24e0aa1b3965",
+      "bounds": [
+        1,
+        5,
+        63,
+        19
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "ffeaf930e3682dd01ee2d94dd2f8e84ea3461ac46cfae69d297153d733d4384a",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_jinwen_7005@2x.tga",
+      "width": 128,
+      "height": 40,
+      "stem": "fxn5c_jinwen_7005",
+      "kind": "models_20",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_jinwen_7005/models_20.png",
+      "canonical_sha256": "bd7287185b76614f7adb8d0acac2ac119be9837eb1b2fa4cd8bb24e0aa1b3965",
+      "bounds": [
+        3,
+        11,
+        125,
+        38
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "a42c2a46fe068a280c75435e35b4d7d1a03bd2fdd2f99e4ee97ce05f67c2192d",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_menu_cr.tga",
+      "width": 64,
+      "height": 20,
+      "stem": "fxn5c_menu_cr",
+      "kind": "models_20",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_menu_cr/models_20.png",
+      "canonical_sha256": "5f232ba7d112388523392bddff748328293986fb6218ef6495c2541bfd30faf0",
+      "bounds": [
+        1,
+        5,
+        63,
+        19
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "95f22a3654a2769657621ee88f1e1e751ddd56978e1fd2e73fa798e2872dca74",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_menu_cr@2x.tga",
+      "width": 128,
+      "height": 40,
+      "stem": "fxn5c_menu_cr",
+      "kind": "models_20",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_menu_cr/models_20.png",
+      "canonical_sha256": "5f232ba7d112388523392bddff748328293986fb6218ef6495c2541bfd30faf0",
+      "bounds": [
+        3,
+        11,
+        125,
+        38
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "789ec9cc3239bf319e3e3f8fdff9ff7f0090c64ddde188e36094ea6b5c74a2e7",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_menu_jinwen.tga",
+      "width": 64,
+      "height": 20,
+      "stem": "fxn5c_menu_jinwen",
+      "kind": "models_20",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_menu_jinwen/models_20.png",
+      "canonical_sha256": "62690d9784c5dee2a48357c15f1b77e4d3741fd64d51c44ae20119cba9c5bd66",
+      "bounds": [
+        1,
+        5,
+        63,
+        19
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "77cccc79a99cc0c2383a505dcfed4f8d60e9ba0f89c5670c7aa862f8a848b836",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_menu_jinwen@2x.tga",
+      "width": 128,
+      "height": 40,
+      "stem": "fxn5c_menu_jinwen",
+      "kind": "models_20",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_menu_jinwen/models_20.png",
+      "canonical_sha256": "62690d9784c5dee2a48357c15f1b77e4d3741fd64d51c44ae20119cba9c5bd66",
+      "bounds": [
+        3,
+        11,
+        125,
+        38
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "a187ef8673b366f28e07039bd819a41773269f6ca6039124a63d85fcd8c3a65d",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_prototype_0001.tga",
+      "width": 64,
+      "height": 20,
+      "stem": "fxn5c_prototype_0001",
+      "kind": "models_20",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_prototype_0001/models_20.png",
+      "canonical_sha256": "f1df8897ac76dedca6c99b2e6fbbd9217ab8a721f010f85767bdbd6ae5bb6882",
+      "bounds": [
+        1,
+        5,
+        63,
+        19
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "0377b100e56827fa38e471ef23ca186150f2e89fed5a8d343cc60a8f89faa576",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_prototype_0001@2x.tga",
+      "width": 128,
+      "height": 40,
+      "stem": "fxn5c_prototype_0001",
+      "kind": "models_20",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_prototype_0001/models_20.png",
+      "canonical_sha256": "f1df8897ac76dedca6c99b2e6fbbd9217ab8a721f010f85767bdbd6ae5bb6882",
+      "bounds": [
+        3,
+        11,
+        125,
+        38
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.09999918937683105,
+          0.09999918937683105
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "3083e46d673bccc2d0406002b435eb6415dea4cffcc0f5f09fd948d06f91fc18",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c.tga",
+      "width": 178,
+      "height": 56,
+      "stem": "fxn5c",
+      "kind": "models_small",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c/models_small.png",
+      "canonical_sha256": "a992b51f087648d7a13e00a787fa7faed37c382b76d58036ef65349e9f243d81",
+      "bounds": [
+        5,
+        17,
+        173,
+        54
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "124f04e1e3a83df8cc6d461430c375facc2f91b20ccedeffd552088374a4abdb",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c@2x.tga",
+      "width": 356,
+      "height": 112,
+      "stem": "fxn5c",
+      "kind": "models_small",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c/models_small.png",
+      "canonical_sha256": "a992b51f087648d7a13e00a787fa7faed37c382b76d58036ef65349e9f243d81",
+      "bounds": [
+        10,
+        34,
+        346,
+        107
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "caf797046afcbd16007fb310cae1ab5a4e455aabb0089e55787ce457e6daec27",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0035.tga",
+      "width": 178,
+      "height": 56,
+      "stem": "fxn5c_0035",
+      "kind": "models_small",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_0035/models_small.png",
+      "canonical_sha256": "aea10f49874a8eaaff209ff069bb7e3496578af398cb6e6dd7fef5adfd1f2fd9",
+      "bounds": [
+        5,
+        17,
+        173,
+        54
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "e0dc222054d585f60d1c1bf25d41d06fcb2a8372eccec5b15aaf0f1c2717eef4",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0035@2x.tga",
+      "width": 356,
+      "height": 112,
+      "stem": "fxn5c_0035",
+      "kind": "models_small",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_0035/models_small.png",
+      "canonical_sha256": "aea10f49874a8eaaff209ff069bb7e3496578af398cb6e6dd7fef5adfd1f2fd9",
+      "bounds": [
+        10,
+        34,
+        346,
+        107
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "dd22eb9b15bcfde337726380991675886f5d8f4de6f7b85ba893653b79805aac",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0057.tga",
+      "width": 178,
+      "height": 56,
+      "stem": "fxn5c_0057",
+      "kind": "models_small",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_0057/models_small.png",
+      "canonical_sha256": "1e1e14fbeb640c5d93df1ab12f57ae9fb833825c4f72d3ccca620f8a0ac0d4c3",
+      "bounds": [
+        5,
+        17,
+        173,
+        54
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "e29bebd845ec341c0b82ad35d7e36bb2bffb77a17b17cea68e64a276b014cf4f",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0057@2x.tga",
+      "width": 356,
+      "height": 112,
+      "stem": "fxn5c_0057",
+      "kind": "models_small",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_0057/models_small.png",
+      "canonical_sha256": "1e1e14fbeb640c5d93df1ab12f57ae9fb833825c4f72d3ccca620f8a0ac0d4c3",
+      "bounds": [
+        10,
+        34,
+        346,
+        107
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "7294ff79cdb92ac6672887bb6947451c08c40867b796e320289ddbcc9fe58e99",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0066.tga",
+      "width": 178,
+      "height": 56,
+      "stem": "fxn5c_0066",
+      "kind": "models_small",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_0066/models_small.png",
+      "canonical_sha256": "4852212660903c376160da433304446a36b2ebf4d9f00bb10b064be088c6d6db",
+      "bounds": [
+        5,
+        17,
+        173,
+        54
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "ef302a4b6d1c924fe83a58ff908387335ba8da8d41551fa3df646f8abccb8e74",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0066@2x.tga",
+      "width": 356,
+      "height": 112,
+      "stem": "fxn5c_0066",
+      "kind": "models_small",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_0066/models_small.png",
+      "canonical_sha256": "4852212660903c376160da433304446a36b2ebf4d9f00bb10b064be088c6d6db",
+      "bounds": [
+        10,
+        34,
+        346,
+        107
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "f7f711bb198edc8d261a7eb671915442dc5a761724dfb817a8c5a79cf87cd2ec",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0081.tga",
+      "width": 178,
+      "height": 56,
+      "stem": "fxn5c_0081",
+      "kind": "models_small",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_0081/models_small.png",
+      "canonical_sha256": "2b9242a0a0242c71f9c5009fc38032b887ca847d0e3eda5105e40a7f23568c05",
+      "bounds": [
+        5,
+        17,
+        173,
+        54
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "eaed68690aefd47556f05e9709af4f2d937222de3bab1b3b3c6ff673de0ccdae",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0081@2x.tga",
+      "width": 356,
+      "height": 112,
+      "stem": "fxn5c_0081",
+      "kind": "models_small",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_0081/models_small.png",
+      "canonical_sha256": "2b9242a0a0242c71f9c5009fc38032b887ca847d0e3eda5105e40a7f23568c05",
+      "bounds": [
+        10,
+        34,
+        346,
+        107
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "0b8b9da8c348e3d395f8bcec59d41577f055312cb5e0a9f1dc2f0d0ae8978b3b",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0096.tga",
+      "width": 178,
+      "height": 56,
+      "stem": "fxn5c_0096",
+      "kind": "models_small",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_0096/models_small.png",
+      "canonical_sha256": "af462efe5b79ff1d32297f858943d331b61130f337a3726a7115ed6ed0c9305c",
+      "bounds": [
+        5,
+        17,
+        173,
+        54
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "074c08b3247bc64c449800fc0eb5e458eda6d83ec2b620ec7e9652387b145d66",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0096@2x.tga",
+      "width": 356,
+      "height": 112,
+      "stem": "fxn5c_0096",
+      "kind": "models_small",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_0096/models_small.png",
+      "canonical_sha256": "af462efe5b79ff1d32297f858943d331b61130f337a3726a7115ed6ed0c9305c",
+      "bounds": [
+        10,
+        34,
+        346,
+        107
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "c0fe7cc491fdecdebc724ad57c6ab5fa9d0cd882e83ef18d6c6cec9166b28be4",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0102.tga",
+      "width": 178,
+      "height": 56,
+      "stem": "fxn5c_0102",
+      "kind": "models_small",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_0102/models_small.png",
+      "canonical_sha256": "0a85ad701b9b0c60d66b34c38f01a413211791d1feceda6f7dbc5d4ab42b61ee",
+      "bounds": [
+        5,
+        17,
+        173,
+        54
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "5c3db1073a2eddb9d15b43618421318ced30f281e7bc847ca1ebe7a23b2e36de",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0102@2x.tga",
+      "width": 356,
+      "height": 112,
+      "stem": "fxn5c_0102",
+      "kind": "models_small",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_0102/models_small.png",
+      "canonical_sha256": "0a85ad701b9b0c60d66b34c38f01a413211791d1feceda6f7dbc5d4ab42b61ee",
+      "bounds": [
+        10,
+        34,
+        346,
+        107
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "26ebdada89a63ee3a7bd5750ac4625ad31287bd2f94687416a19737932f459ee",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0115.tga",
+      "width": 178,
+      "height": 56,
+      "stem": "fxn5c_0115",
+      "kind": "models_small",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_0115/models_small.png",
+      "canonical_sha256": "860ef336a14225c07b5ab74d0c74af7a1e419c66999c541ed1d5c6ea49261547",
+      "bounds": [
+        5,
+        17,
+        173,
+        54
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "ae22dca80d59f42b8a4d82d8fa130e5bb7ed3b27005c0405ed4be1d4ffc5ab17",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0115@2x.tga",
+      "width": 356,
+      "height": 112,
+      "stem": "fxn5c_0115",
+      "kind": "models_small",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_0115/models_small.png",
+      "canonical_sha256": "860ef336a14225c07b5ab74d0c74af7a1e419c66999c541ed1d5c6ea49261547",
+      "bounds": [
+        10,
+        34,
+        346,
+        107
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "463e49d1428c6907c70abd2496f65d99c64acf17c009e9cee70aac4e98329612",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_jinwen.tga",
+      "width": 178,
+      "height": 56,
+      "stem": "fxn5c_jinwen",
+      "kind": "models_small",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_jinwen/models_small.png",
+      "canonical_sha256": "97efd0131fc5d1d3cb9e902c94fc73d64d5260566281851c0f82249193ee0b34",
+      "bounds": [
+        5,
+        17,
+        173,
+        54
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "6f926a840db3591f5be0143cb0b61b0033f61331b3ec9e6eb8710bbf4b594efa",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_jinwen@2x.tga",
+      "width": 356,
+      "height": 112,
+      "stem": "fxn5c_jinwen",
+      "kind": "models_small",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_jinwen/models_small.png",
+      "canonical_sha256": "97efd0131fc5d1d3cb9e902c94fc73d64d5260566281851c0f82249193ee0b34",
+      "bounds": [
+        10,
+        34,
+        346,
+        107
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "d357964696893fc0246d3e4c2005fe635ab2b8e534d93e8ec9a0c6e0d419f27a",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_jinwen_7005.tga",
+      "width": 178,
+      "height": 56,
+      "stem": "fxn5c_jinwen_7005",
+      "kind": "models_small",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_jinwen_7005/models_small.png",
+      "canonical_sha256": "5db95042f3e9d0e2eceaee65ff806a9cdfdf386d82b85a55944a5ca5cd3fbedd",
+      "bounds": [
+        5,
+        17,
+        173,
+        54
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "2da5d54a642e85844bd09742e75b287a93f4e4aed213b00b20f1bc5f09572c88",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_jinwen_7005@2x.tga",
+      "width": 356,
+      "height": 112,
+      "stem": "fxn5c_jinwen_7005",
+      "kind": "models_small",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_jinwen_7005/models_small.png",
+      "canonical_sha256": "5db95042f3e9d0e2eceaee65ff806a9cdfdf386d82b85a55944a5ca5cd3fbedd",
+      "bounds": [
+        10,
+        34,
+        346,
+        107
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "c26c476aba5b65d956b0c938fcdfc33ffd254cd4ca98097914abe99c46c3a642",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_menu_cr.tga",
+      "width": 178,
+      "height": 56,
+      "stem": "fxn5c_menu_cr",
+      "kind": "models_small",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_menu_cr/models_small.png",
+      "canonical_sha256": "ea127e100d8343296550ade15e7c77f33c50681074657906578a312edcfa3cfa",
+      "bounds": [
+        5,
+        17,
+        173,
+        54
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "124f04e1e3a83df8cc6d461430c375facc2f91b20ccedeffd552088374a4abdb",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_menu_cr@2x.tga",
+      "width": 356,
+      "height": 112,
+      "stem": "fxn5c_menu_cr",
+      "kind": "models_small",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_menu_cr/models_small.png",
+      "canonical_sha256": "ea127e100d8343296550ade15e7c77f33c50681074657906578a312edcfa3cfa",
+      "bounds": [
+        10,
+        34,
+        346,
+        107
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "caf797046afcbd16007fb310cae1ab5a4e455aabb0089e55787ce457e6daec27",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_menu_jinwen.tga",
+      "width": 178,
+      "height": 56,
+      "stem": "fxn5c_menu_jinwen",
+      "kind": "models_small",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_menu_jinwen/models_small.png",
+      "canonical_sha256": "4a9531a5b60432f3d7f7f3d4e7af88e9942730fe7580c5623b58d2fd7486cca0",
+      "bounds": [
+        5,
+        17,
+        173,
+        54
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "6f926a840db3591f5be0143cb0b61b0033f61331b3ec9e6eb8710bbf4b594efa",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_menu_jinwen@2x.tga",
+      "width": 356,
+      "height": 112,
+      "stem": "fxn5c_menu_jinwen",
+      "kind": "models_small",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_menu_jinwen/models_small.png",
+      "canonical_sha256": "4a9531a5b60432f3d7f7f3d4e7af88e9942730fe7580c5623b58d2fd7486cca0",
+      "bounds": [
+        10,
+        34,
+        346,
+        107
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "d357964696893fc0246d3e4c2005fe635ab2b8e534d93e8ec9a0c6e0d419f27a",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_prototype_0001.tga",
+      "width": 178,
+      "height": 56,
+      "stem": "fxn5c_prototype_0001",
+      "kind": "models_small",
+      "density": 1,
+      "canonical": "ui_canonical_v44/fxn5c_prototype_0001/models_small.png",
+      "canonical_sha256": "d342f34b26cd5bf0aaf7016be2cdf50d08ab116c22fc9e25fa12932d9efeca5d",
+      "bounds": [
+        5,
+        17,
+        173,
+        54
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "b977b02c21482336d4e4f696166370eb7e5f9decf89a18ba78be213dd1dd7632",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_prototype_0001@2x.tga",
+      "width": 356,
+      "height": 112,
+      "stem": "fxn5c_prototype_0001",
+      "kind": "models_small",
+      "density": 2,
+      "canonical": "ui_canonical_v44/fxn5c_prototype_0001/models_small.png",
+      "canonical_sha256": "d342f34b26cd5bf0aaf7016be2cdf50d08ab116c22fc9e25fa12932d9efeca5d",
+      "bounds": [
+        10,
+        34,
+        346,
+        107
+      ],
+      "format": "TGA",
+      "camera_audit": {
+        "projection": "ORTHO",
+        "parallel_to_track": true,
+        "roll_degrees": 0,
+        "side": "negative_y",
+        "rail_end_screen_y": [
+          0.08653663098812103,
+          0.08653663098812103
+        ],
+        "positive_x_at_screen_right": true,
+        "model_scale_changed": false,
+        "model_pose_changed": false
+      },
+      "sha256": "a2bcb6959d8bea1b4d1d572ed1539a038f44ba384572e492084641b30e24fed8",
+      "encoding_audit": {
+        "type": 2,
+        "bits_per_pixel": 32,
+        "descriptor": 8,
+        "origin": "bottom-left",
+        "compression": "none",
+        "decoded_rgba_pixel_exact": true,
+        "first_raw_scanline_matches_bottom": true
+      }
+    }
+  ],
+  "render_reports": [
+    {
+      "file": "render_audit_v44_fxn5c_lod0_icons.json",
+      "sha256": "770b2ad2a42a5db4b438278d399a7d7cc860be9d2b7894abdbf50725c9c9f80f",
+      "stem": "fxn5c"
+    },
+    {
+      "file": "render_audit_v44_fxn5c_0035_lod0_icons.json",
+      "sha256": "86c0007ab51a5a9c624a978a2a2dbf2a48a2660a72e49dde65666a0f531719db",
+      "stem": "fxn5c_0035"
+    },
+    {
+      "file": "render_audit_v44_fxn5c_0057_lod0_icons.json",
+      "sha256": "a40c1b4f83d41cfa26e866c6957670a5fad685dab2e0eaee674e9c19c91fac1b",
+      "stem": "fxn5c_0057"
+    },
+    {
+      "file": "render_audit_v44_fxn5c_0066_lod0_icons.json",
+      "sha256": "55846a438ec1bcee0aaeff20ff9b5d30f0519420e3b6ce15823cacc1e9c7fb46",
+      "stem": "fxn5c_0066"
+    },
+    {
+      "file": "render_audit_v44_fxn5c_0081_lod0_icons.json",
+      "sha256": "19f5bee3a2424046942aeb11b226ed1591212827294dcc9481f9a175f30d277c",
+      "stem": "fxn5c_0081"
+    },
+    {
+      "file": "render_audit_v44_fxn5c_0096_lod0_icons.json",
+      "sha256": "4c0ffeb1f31841d126e0b492c5edd972eca710f7087ca69fd9aa144f340c5112",
+      "stem": "fxn5c_0096"
+    },
+    {
+      "file": "render_audit_v44_fxn5c_0102_lod0_icons.json",
+      "sha256": "9546e1500dfa46134d8b951a96b76aa7708ba5effc59b3ad00b5d0a4bbc3099a",
+      "stem": "fxn5c_0102"
+    },
+    {
+      "file": "render_audit_v44_fxn5c_0115_lod0_icons.json",
+      "sha256": "9957c9558da02d24c4a5e91f4a84846841db6e10d7f0985d740c8303d9983715",
+      "stem": "fxn5c_0115"
+    },
+    {
+      "file": "render_audit_v44_fxn5c_jinwen_lod0_icons.json",
+      "sha256": "055b79c7d5342089b9f09458964fa052b2f95c660143fdb161b130b7142823d2",
+      "stem": "fxn5c_jinwen"
+    },
+    {
+      "file": "render_audit_v44_fxn5c_jinwen_7005_lod0_icons.json",
+      "sha256": "f8fb1d6838e856ed0c67ebd09ee718edcf1c1fb4148b9757d4096ce04dfef687",
+      "stem": "fxn5c_jinwen_7005"
+    },
+    {
+      "file": "render_audit_v44_fxn5c_menu_cr_lod0_icons.json",
+      "sha256": "7ecd78f54e1f1a32ad7381087331d734f350a051423bd4eafa85f8f388043e94",
+      "stem": "fxn5c_menu_cr"
+    },
+    {
+      "file": "render_audit_v44_fxn5c_menu_jinwen_lod0_icons.json",
+      "sha256": "1200235ba1e79ed7db9b510427ab3aae0c398f61a5eeff0a7b0a87fb365570af",
+      "stem": "fxn5c_menu_jinwen"
+    },
+    {
+      "file": "render_audit_v44_fxn5c_prototype_0001_lod0_icons.json",
+      "sha256": "86a4f564d83a29115beea0750381e0bdcf6c84354bf3487185d3dd33a7a9a2ae",
+      "stem": "fxn5c_prototype_0001"
+    }
+  ],
+  "script_sha256": "3901a52ccd27558c319a8a45227d78bd4e25ef4e3a3ee45ec5e3a2dbc7dac4ec",
+  "previous_icons": [
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c.tga",
+      "sha256": "124f04e1e3a83df8cc6d461430c375facc2f91b20ccedeffd552088374a4abdb"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c@2x.tga",
+      "sha256": "caf797046afcbd16007fb310cae1ab5a4e455aabb0089e55787ce457e6daec27"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c.tga",
+      "sha256": "95f22a3654a2769657621ee88f1e1e751ddd56978e1fd2e73fa798e2872dca74"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c@2x.tga",
+      "sha256": "789ec9cc3239bf319e3e3f8fdff9ff7f0090c64ddde188e36094ea6b5c74a2e7"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0035.tga",
+      "sha256": "e00e22ed75d3099ae4f08bf22194da1385e1c3a5e26ba72bd187f89fe1381307"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0035@2x.tga",
+      "sha256": "0af8e3d525ed8dcf47c87e7ec899c8526d0e0c910c8f97c42fe739d4139df986"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0035.tga",
+      "sha256": "5e561be32c0d6a267cb664b4e7c85f3a349f2860173c6ae0e52094d9b30ecb4c"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0035@2x.tga",
+      "sha256": "20df57c3f589a0effb4a1987b2301789bae629ea8cbc5d1d1737119451d5ab9f"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0057.tga",
+      "sha256": "e29bebd845ec341c0b82ad35d7e36bb2bffb77a17b17cea68e64a276b014cf4f"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0057@2x.tga",
+      "sha256": "7294ff79cdb92ac6672887bb6947451c08c40867b796e320289ddbcc9fe58e99"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0057.tga",
+      "sha256": "10d81260f036172669a70728b6cec3856404a56c7026de7241a294cbd6d714fa"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0057@2x.tga",
+      "sha256": "dc2863b0d3af2b0aae83c8e8a9ba760ff31c3ba1abc9c009e1b6b5d98b89dd23"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0066.tga",
+      "sha256": "ef302a4b6d1c924fe83a58ff908387335ba8da8d41551fa3df646f8abccb8e74"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0066@2x.tga",
+      "sha256": "f7f711bb198edc8d261a7eb671915442dc5a761724dfb817a8c5a79cf87cd2ec"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0066.tga",
+      "sha256": "5ee938f3c7e0f451711b28568241e53495a08e8db7c5ab99118f129a209b2db4"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0066@2x.tga",
+      "sha256": "a3afba2c3575694d2bcb5de9c24c0f41b07babdcbf3a88311c95f72399775fc0"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0081.tga",
+      "sha256": "eaed68690aefd47556f05e9709af4f2d937222de3bab1b3b3c6ff673de0ccdae"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0081@2x.tga",
+      "sha256": "0b8b9da8c348e3d395f8bcec59d41577f055312cb5e0a9f1dc2f0d0ae8978b3b"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0081.tga",
+      "sha256": "befd269dd05d087a8bf0c93b85f7b956a11d435096a2126e910536c063f8bc4a"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0081@2x.tga",
+      "sha256": "ef7b535ed2b6506976785ef2e21e0a7e4ea2bae6cb72740b88552518ecde8a7e"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0096.tga",
+      "sha256": "6d05ddbb8db1fce16bfb6ea9d8d5d7c02f50040b9011e628a918ea1c5ee8dc9e"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0096@2x.tga",
+      "sha256": "10ae8a994ce87d14ec6696dca3db509ff9ed48ad9633a9196e4dcbeb1d0229a6"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0096.tga",
+      "sha256": "2f37980733819533cd58a39a379cd88395fe2a7fa98ef4cc7a74c633d3c7ef83"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0096@2x.tga",
+      "sha256": "f91d7c0488c0d8b64054443cd67679492fe680dcb0ac54091134b51c977db3eb"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0102.tga",
+      "sha256": "d1fa6fd009db08a2d814fcfe4cb7cf3d689681dd9d37440422556dc0f90ff133"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0102@2x.tga",
+      "sha256": "283917eb38a20f0b253c0716e3452bad9d8720b0a96ea08e9587cee9e094b39a"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0102.tga",
+      "sha256": "00211a9f7432bd1927dcf30efbc9d666ec9ee8ccb499087e03e8ec2d9f19c7e5"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0102@2x.tga",
+      "sha256": "e04f511ce0d777f90e18a4b542f616708365108248962a1c22f83d22c3d87eee"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0115.tga",
+      "sha256": "ae22dca80d59f42b8a4d82d8fa130e5bb7ed3b27005c0405ed4be1d4ffc5ab17"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_0115@2x.tga",
+      "sha256": "463e49d1428c6907c70abd2496f65d99c64acf17c009e9cee70aac4e98329612"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0115.tga",
+      "sha256": "1857401efc94ac1c5faf7f73a8e99ae1ba9e002ea679b68d0a13ae8784c73790"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_0115@2x.tga",
+      "sha256": "9ed001b74ff13ce4595e6e992df257382a5162f1108a9383dc52918544374845"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_jinwen.tga",
+      "sha256": "6f926a840db3591f5be0143cb0b61b0033f61331b3ec9e6eb8710bbf4b594efa"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_jinwen@2x.tga",
+      "sha256": "d357964696893fc0246d3e4c2005fe635ab2b8e534d93e8ec9a0c6e0d419f27a"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_jinwen.tga",
+      "sha256": "77cccc79a99cc0c2383a505dcfed4f8d60e9ba0f89c5670c7aa862f8a848b836"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_jinwen@2x.tga",
+      "sha256": "a187ef8673b366f28e07039bd819a41773269f6ca6039124a63d85fcd8c3a65d"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_jinwen_7005.tga",
+      "sha256": "2da5d54a642e85844bd09742e75b287a93f4e4aed213b00b20f1bc5f09572c88"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_jinwen_7005@2x.tga",
+      "sha256": "c26c476aba5b65d956b0c938fcdfc33ffd254cd4ca98097914abe99c46c3a642"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_jinwen_7005.tga",
+      "sha256": "ffeaf930e3682dd01ee2d94dd2f8e84ea3461ac46cfae69d297153d733d4384a"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_jinwen_7005@2x.tga",
+      "sha256": "a42c2a46fe068a280c75435e35b4d7d1a03bd2fdd2f99e4ee97ce05f67c2192d"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_menu_cr.tga",
+      "sha256": "124f04e1e3a83df8cc6d461430c375facc2f91b20ccedeffd552088374a4abdb"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_menu_cr@2x.tga",
+      "sha256": "caf797046afcbd16007fb310cae1ab5a4e455aabb0089e55787ce457e6daec27"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_menu_cr.tga",
+      "sha256": "95f22a3654a2769657621ee88f1e1e751ddd56978e1fd2e73fa798e2872dca74"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_menu_cr@2x.tga",
+      "sha256": "789ec9cc3239bf319e3e3f8fdff9ff7f0090c64ddde188e36094ea6b5c74a2e7"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_menu_jinwen.tga",
+      "sha256": "6f926a840db3591f5be0143cb0b61b0033f61331b3ec9e6eb8710bbf4b594efa"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_menu_jinwen@2x.tga",
+      "sha256": "d357964696893fc0246d3e4c2005fe635ab2b8e534d93e8ec9a0c6e0d419f27a"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_menu_jinwen.tga",
+      "sha256": "77cccc79a99cc0c2383a505dcfed4f8d60e9ba0f89c5670c7aa862f8a848b836"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_menu_jinwen@2x.tga",
+      "sha256": "a187ef8673b366f28e07039bd819a41773269f6ca6039124a63d85fcd8c3a65d"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_prototype_0001.tga",
+      "sha256": "b977b02c21482336d4e4f696166370eb7e5f9decf89a18ba78be213dd1dd7632"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_prototype_0001@2x.tga",
+      "sha256": "a2bcb6959d8bea1b4d1d572ed1539a038f44ba384572e492084641b30e24fed8"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_prototype_0001.tga",
+      "sha256": "0377b100e56827fa38e471ef23ca186150f2e89fed5a8d343cc60a8f89faa576"
+    },
+    {
+      "file": "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_prototype_0001@2x.tga",
+      "sha256": "3083e46d673bccc2d0406002b435eb6415dea4cffcc0f5f09fd948d06f91fc18"
+    }
+  ],
+  "ui_inventory_changes": {
+    "added": [
+      "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_prototype_0001.tga",
+      "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_prototype_0001@2x.tga",
+      "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_prototype_0001.tga",
+      "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_prototype_0001@2x.tga"
+    ],
+    "removed": [
+      "staging/codex_fxn5c_1/res/textures/ui/models_20/vehicle/train/fxn5c_prototype_0001.png",
+      "staging/codex_fxn5c_1/res/textures/ui/models_small/vehicle/train/fxn5c_prototype_0001.png"
+    ]
+  },
+  "deleted_files": [],
+  "engine_playtest": false,
+  "model_editor": false,
+  "orientation": "Level side-profile native reconstruction; every TGA decodes pixel-exactly upright from explicit bottom-origin BGRA32 scanlines.",
+  "geometry_stage": "Original procedural rail display exists only in icon pixels, never game geometry.",
+  "canonical_sizes": {
+    "models_small": [
+      356,
+      112
+    ],
+    "models_20": [
+      128,
+      40
+    ]
+  }
+}

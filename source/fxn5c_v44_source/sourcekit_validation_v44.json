@@ -1,0 +1,4015 @@
+{
+  "status": "PASS",
+  "scope": "three v43 prototype baselines and three v44 final sources",
+  "scene_count": 6,
+  "scenes": [
+    {
+      "file": "fxn5c_v43_source/fxn5c_prototype_0001_source.blend",
+      "sha256_before": "a8e4ebd4c6ff0621666cf642cdaa90cdadf9fc2d0ec0cb753d5fb0a61687ae98",
+      "sha256_after": "a8e4ebd4c6ff0621666cf642cdaa90cdadf9fc2d0ec0cb753d5fb0a61687ae98",
+      "manifest_sha256_expected": "a8e4ebd4c6ff0621666cf642cdaa90cdadf9fc2d0ec0cb753d5fb0a61687ae98",
+      "unchanged": true,
+      "images": [
+        {
+          "name": "black_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\black_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "13082271817514f2c10addccf7ecdb418b34f73b16f40d2261afa9190ca04379"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/black_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "13082271817514f2c10addccf7ecdb418b34f73b16f40d2261afa9190ca04379",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "black_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\black_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/black_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "blue_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\blue_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "9693b2b33dfa12dc46508b945277355f2d4f8b4f5a51d3e066afa405c0359c20"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/blue_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "9693b2b33dfa12dc46508b945277355f2d4f8b4f5a51d3e066afa405c0359c20",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "blue_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\blue_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/blue_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cab_floor_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\cab_floor_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "1b3a91f5c12c7b8db8ac678feb1bc6b9e7b39b55af0cfc62981bba19fcf4aa4b"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/cab_floor_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "1b3a91f5c12c7b8db8ac678feb1bc6b9e7b39b55af0cfc62981bba19fcf4aa4b",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cab_floor_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\cab_floor_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "8208de0cafa8403ff1dbe690038e25ce46f76ad5c39da74e110cd1eee37de260"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/cab_floor_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "8208de0cafa8403ff1dbe690038e25ce46f76ad5c39da74e110cd1eee37de260",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cab_lining_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\cab_lining_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "f4ccf02be1958610ea4ea23bbcb365fa34c974bc9ecf14c7d496a6ceb661f320"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/cab_lining_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f4ccf02be1958610ea4ea23bbcb365fa34c974bc9ecf14c7d496a6ceb661f320",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cab_lining_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\cab_lining_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "ef7b162b42e9c6d4c3d2ad717d5ae4efe3aaf1a0ef5fa40a2a0fa24c4d5c388c"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/cab_lining_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "ef7b162b42e9c6d4c3d2ad717d5ae4efe3aaf1a0ef5fa40a2a0fa24c4d5c388c",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cast_steel_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\cast_steel_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "f1679f2267234850e9f8629b87755d4b613509c8d007ed5e72216c063bdb88c0"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/cast_steel_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f1679f2267234850e9f8629b87755d4b613509c8d007ed5e72216c063bdb88c0",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cast_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\cast_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "8eeae929441d230a42ae2b2ce8ec1a5e0f909c4062da139b20d1b7dfa1b2a508"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/cast_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "8eeae929441d230a42ae2b2ce8ec1a5e0f909c4062da139b20d1b7dfa1b2a508",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "console_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\console_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "dd9ae6580833e067eff46022f750be4ff0e67c891a9b8889ef0745a46f6411b2"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/console_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "dd9ae6580833e067eff46022f750be4ff0e67c891a9b8889ef0745a46f6411b2",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "console_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\console_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "0fd9dade5333c7dce20d93bcf259047b1372eb9d946c00fd0f5d84caee133717"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/console_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "0fd9dade5333c7dce20d93bcf259047b1372eb9d946c00fd0f5d84caee133717",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "coupler_steel_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\coupler_steel_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "cac8afac849d7335dd4d5bd876389a518bf67b87297aac8ffbbb3e2ddbd99adf"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/coupler_steel_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "cac8afac849d7335dd4d5bd876389a518bf67b87297aac8ffbbb3e2ddbd99adf",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "coupler_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\coupler_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "cc55476ee907e394f4bfa0d846600a804b23f765a93ce6e6934899b05a113f41"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/coupler_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "cc55476ee907e394f4bfa0d846600a804b23f765a93ce6e6934899b05a113f41",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "dark_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\dark_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "7c2b396aa0166bae8a7ed9bcf1857d74c9c3a7759db983c517b5777226839635"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/dark_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "7c2b396aa0166bae8a7ed9bcf1857d74c9c3a7759db983c517b5777226839635",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "dark_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\dark_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/dark_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "exhaust_steel_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\exhaust_steel_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "0b502cae47afb9a3392ce826a3155532edfcc334149a513e039806eeab1ecd00"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/exhaust_steel_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "0b502cae47afb9a3392ce826a3155532edfcc334149a513e039806eeab1ecd00",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "exhaust_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\exhaust_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "8c30adf565e154786c686dfdc31faabda542ac48d1489a44e01d55ad42af0407"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/exhaust_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "8c30adf565e154786c686dfdc31faabda542ac48d1489a44e01d55ad42af0407",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "graphite_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\graphite_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "42c90655fab4edf52c6e039e90cad0f8cc7d282e05cdb11bb25483741f6c89d0"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/graphite_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "42c90655fab4edf52c6e039e90cad0f8cc7d282e05cdb11bb25483741f6c89d0",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "graphite_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\graphite_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/graphite_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "grille_black_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\grille_black_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "c9bf31e7706c6dced48cf2f727aa2adf6fe2daf1787d6c603f980ea0ed27c6dc"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/grille_black_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "c9bf31e7706c6dced48cf2f727aa2adf6fe2daf1787d6c603f980ea0ed27c6dc",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "grille_black_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\grille_black_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/grille_black_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "light_blue_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\light_blue_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "f2b223f939d82a6996c8aacbaa70ea3b1e00fb0b40d7d9eaf66d3f4d00f0b981"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/light_blue_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f2b223f939d82a6996c8aacbaa70ea3b1e00fb0b40d7d9eaf66d3f4d00f0b981",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "light_blue_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\light_blue_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/light_blue_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "metal_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\metal_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "efb5c04cf43a365786202c31099dbaf512d85a9ddcb36326715a01a66b251df3"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/metal_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "efb5c04cf43a365786202c31099dbaf512d85a9ddcb36326715a01a66b251df3",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "metal_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\metal_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/metal_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "ochre_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\ochre_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "1f9b14a2bcb17b7889df2cb3634b3b337fd7c4a7b698f942e9da427997f1629e"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/ochre_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "1f9b14a2bcb17b7889df2cb3634b3b337fd7c4a7b698f942e9da427997f1629e",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "ochre_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\ochre_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "4b4ffb51ec35cbaa9f5b34824cd295d6deecfa4d4af2a71b5381de39caa6bfe1"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/ochre_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "4b4ffb51ec35cbaa9f5b34824cd295d6deecfa4d4af2a71b5381de39caa6bfe1",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "proto_gold_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_gold_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_gold_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "6df622b1e87941909b56ac08185eb790b8525fd2348ba0fe416ef072fb1b3c0d",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_gold_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_gold_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_gold_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f3053e71c9a00d16642717d505507c86475a9f4313be2168a683fe224feae451",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_red_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_red_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_red_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "eb071effd1898f00e46b4aec4abede50ec437e39be6a1557cb1563bce404fe38",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_red_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_red_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_red_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "ccc13b1535ae197370fb7ed7d10c5209307cb48606b91a9ebb96eeb29a59b93a",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_roof_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_roof_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_roof_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "19fb413adc85e6235dc65ddeee988ac790d9ebe64455c09a1821846b6eee34bb",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_roof_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_roof_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_roof_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "433e86f2b404c9b4e5de45dd1666d61cabc299c3b25aefc00131a3af77117472",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_yellow_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_yellow_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_yellow_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f900c3104bbab265057faa10b447e214052599959a76d9576d1c61f44f56f54b",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_yellow_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_yellow_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_yellow_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "31857181eea364cd2c174bf3a442451e3ab297c13ea53ade6332a754ee5c1a8c",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "red_paint_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\red_paint_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "72feff47dacaf28bad4892d39ce2e8964dcd5ae31f30dc92a18ab0e8e518e03d"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/red_paint_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "72feff47dacaf28bad4892d39ce2e8964dcd5ae31f30dc92a18ab0e8e518e03d",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "red_paint_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\red_paint_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "d613e79b8509f37aae094d0cc616619d8d605b8336f18f7a77691b7d4c92d4b7"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/red_paint_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "d613e79b8509f37aae094d0cc616619d8d605b8336f18f7a77691b7d4c92d4b7",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "Render Result",
+          "users": 1,
+          "source": "VIEWER",
+          "filepath": "",
+          "relative": false,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": null,
+          "resolved_exists": false,
+          "resolved_in_own_source_textures": false,
+          "resolved_sha256": null,
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "roof_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\roof_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "5896b6ca359ba9566001c96346672d33f4e76d08ef833c3e724d9a659e28c5b1"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/roof_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "5896b6ca359ba9566001c96346672d33f4e76d08ef833c3e724d9a659e28c5b1",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "roof_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\roof_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/roof_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "screen_mark_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\screen_mark_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "594fb1e29f924e4abcf702df0990b8407486df8fd46d096b09b9049ecb6bccbc"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/screen_mark_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "594fb1e29f924e4abcf702df0990b8407486df8fd46d096b09b9049ecb6bccbc",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "screen_mark_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\screen_mark_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "5db23f24dc3408b2692fa747af59b0b7162466c4a1a7a8e3481287bea01eea55"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/screen_mark_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "5db23f24dc3408b2692fa747af59b0b7162466c4a1a7a8e3481287bea01eea55",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "screen_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\screen_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "26504ab2aa13f56ad0a38cc0d8e7170ecd4dcd97b67ad7fa1d278de0d461b004"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/screen_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "26504ab2aa13f56ad0a38cc0d8e7170ecd4dcd97b67ad7fa1d278de0d461b004",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "screen_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\screen_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "fb0acdc0a860f9f1156d8ebdecdb3e3e79c6750e7d8b6f40ab7ef8d1a03e034e"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/screen_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "fb0acdc0a860f9f1156d8ebdecdb3e3e79c6750e7d8b6f40ab7ef8d1a03e034e",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "seat_fabric_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\seat_fabric_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "c94fa48a2333c7cfcedb6f01880d3b369919dbf070db3a13f41bb129e1ccc3ce"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/seat_fabric_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "c94fa48a2333c7cfcedb6f01880d3b369919dbf070db3a13f41bb129e1ccc3ce",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "seat_fabric_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\seat_fabric_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "1cf5a56c7bc14bded6557a0122cb61dabd1cc6bb7d8f777ad0fd769ffb64cf48"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/seat_fabric_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "1cf5a56c7bc14bded6557a0122cb61dabd1cc6bb7d8f777ad0fd769ffb64cf48",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "spring_steel_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\spring_steel_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "dcbeb48931af697df483a6fcc8d98d6c3fe6893b8bfac74f007fd4a936a6e4af"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/spring_steel_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "dcbeb48931af697df483a6fcc8d98d6c3fe6893b8bfac74f007fd4a936a6e4af",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "spring_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\spring_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "cc8cdab6ae479f7165b6bc88f6b74983b480ca2696e68d87d9852ed03eafc006"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/spring_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "cc8cdab6ae479f7165b6bc88f6b74983b480ca2696e68d87d9852ed03eafc006",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "Viewer Node",
+          "users": 1,
+          "source": "VIEWER",
+          "filepath": "",
+          "relative": false,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": null,
+          "resolved_exists": false,
+          "resolved_in_own_source_textures": false,
+          "resolved_sha256": null,
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "waist42_amber_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\waist42_amber_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/waist42_amber_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f900c3104bbab265057faa10b447e214052599959a76d9576d1c61f44f56f54b",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "waist42_amber_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\waist42_amber_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/waist42_amber_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "3ce3ebbdf52ad030b5a01f340b70272c266143bc2856ec44ae4a6e44d5287485",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "wheel_steel_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\wheel_steel_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "a4e1eb596ef179d79c8c988335f0c37f693b3b90f80514c252aabbd61dde9ef8"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/wheel_steel_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "a4e1eb596ef179d79c8c988335f0c37f693b3b90f80514c252aabbd61dde9ef8",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "wheel_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\wheel_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/wheel_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "white_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\white_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "0fabb5d154ea38421b66a62b995892406593cffe951c78a5e62229ca15a661be"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/white_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "0fabb5d154ea38421b66a62b995892406593cffe951c78a5e62229ca15a661be",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "white_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\white_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "7228ba466e91dc52779649ea944a5a98669311d2c86cbc57c099a54cbb366f39"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/white_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "7228ba466e91dc52779649ea944a5a98669311d2c86cbc57c099a54cbb366f39",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "yellow_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\yellow_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "9cad2c1520a65fd4ee954a51ee550be6cdba03240703796734c1bb1161c5806c"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/yellow_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "9cad2c1520a65fd4ee954a51ee550be6cdba03240703796734c1bb1161c5806c",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "yellow_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\yellow_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/yellow_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1",
+          "matching_packed_and_external_bytes": true
+        }
+      ],
+      "fonts": [],
+      "font_objects": [],
+      "linked_libraries": [],
+      "other_external_dependencies": [],
+      "text_blocks": [],
+      "blender_unpacked_dependency_enumeration": [
+        {
+          "filepath": "//source_textures\\proto_gold_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_gold_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\proto_gold_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_gold_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\proto_red_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_red_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\proto_red_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_red_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\proto_roof_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_roof_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\proto_roof_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_roof_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\proto_yellow_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_yellow_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\proto_yellow_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_yellow_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\waist42_amber_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/waist42_amber_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\waist42_amber_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/waist42_amber_surface.tga",
+          "resolved_in_own_source_textures": true
+        }
+      ],
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "file": "fxn5c_v44_source/fxn5c_prototype_0001_source.blend",
+      "sha256_before": "c1c0bd746d7476723fb2596bcdaf57e8aba1d47693877b5507defb23367c79d1",
+      "sha256_after": "c1c0bd746d7476723fb2596bcdaf57e8aba1d47693877b5507defb23367c79d1",
+      "manifest_sha256_expected": "c1c0bd746d7476723fb2596bcdaf57e8aba1d47693877b5507defb23367c79d1",
+      "unchanged": true,
+      "images": [
+        {
+          "name": "black_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\black_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "13082271817514f2c10addccf7ecdb418b34f73b16f40d2261afa9190ca04379"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/black_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "13082271817514f2c10addccf7ecdb418b34f73b16f40d2261afa9190ca04379",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "black_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\black_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/black_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "blue_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\blue_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "9693b2b33dfa12dc46508b945277355f2d4f8b4f5a51d3e066afa405c0359c20"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/blue_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "9693b2b33dfa12dc46508b945277355f2d4f8b4f5a51d3e066afa405c0359c20",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "blue_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\blue_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/blue_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cab_floor_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\cab_floor_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "1b3a91f5c12c7b8db8ac678feb1bc6b9e7b39b55af0cfc62981bba19fcf4aa4b"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/cab_floor_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "1b3a91f5c12c7b8db8ac678feb1bc6b9e7b39b55af0cfc62981bba19fcf4aa4b",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cab_floor_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\cab_floor_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "8208de0cafa8403ff1dbe690038e25ce46f76ad5c39da74e110cd1eee37de260"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/cab_floor_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "8208de0cafa8403ff1dbe690038e25ce46f76ad5c39da74e110cd1eee37de260",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cab_lining_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\cab_lining_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "f4ccf02be1958610ea4ea23bbcb365fa34c974bc9ecf14c7d496a6ceb661f320"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/cab_lining_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f4ccf02be1958610ea4ea23bbcb365fa34c974bc9ecf14c7d496a6ceb661f320",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cab_lining_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\cab_lining_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "ef7b162b42e9c6d4c3d2ad717d5ae4efe3aaf1a0ef5fa40a2a0fa24c4d5c388c"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/cab_lining_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "ef7b162b42e9c6d4c3d2ad717d5ae4efe3aaf1a0ef5fa40a2a0fa24c4d5c388c",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cast_steel_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\cast_steel_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "f1679f2267234850e9f8629b87755d4b613509c8d007ed5e72216c063bdb88c0"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/cast_steel_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f1679f2267234850e9f8629b87755d4b613509c8d007ed5e72216c063bdb88c0",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cast_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\cast_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "8eeae929441d230a42ae2b2ce8ec1a5e0f909c4062da139b20d1b7dfa1b2a508"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/cast_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "8eeae929441d230a42ae2b2ce8ec1a5e0f909c4062da139b20d1b7dfa1b2a508",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "console_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\console_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "dd9ae6580833e067eff46022f750be4ff0e67c891a9b8889ef0745a46f6411b2"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/console_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "dd9ae6580833e067eff46022f750be4ff0e67c891a9b8889ef0745a46f6411b2",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "console_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\console_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "0fd9dade5333c7dce20d93bcf259047b1372eb9d946c00fd0f5d84caee133717"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/console_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "0fd9dade5333c7dce20d93bcf259047b1372eb9d946c00fd0f5d84caee133717",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "coupler_steel_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\coupler_steel_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "cac8afac849d7335dd4d5bd876389a518bf67b87297aac8ffbbb3e2ddbd99adf"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/coupler_steel_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "cac8afac849d7335dd4d5bd876389a518bf67b87297aac8ffbbb3e2ddbd99adf",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "coupler_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\coupler_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "cc55476ee907e394f4bfa0d846600a804b23f765a93ce6e6934899b05a113f41"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/coupler_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "cc55476ee907e394f4bfa0d846600a804b23f765a93ce6e6934899b05a113f41",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "dark_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\dark_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "7c2b396aa0166bae8a7ed9bcf1857d74c9c3a7759db983c517b5777226839635"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/dark_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "7c2b396aa0166bae8a7ed9bcf1857d74c9c3a7759db983c517b5777226839635",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "dark_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\dark_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/dark_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "exhaust_steel_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\exhaust_steel_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "0b502cae47afb9a3392ce826a3155532edfcc334149a513e039806eeab1ecd00"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/exhaust_steel_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "0b502cae47afb9a3392ce826a3155532edfcc334149a513e039806eeab1ecd00",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "exhaust_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\exhaust_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "8c30adf565e154786c686dfdc31faabda542ac48d1489a44e01d55ad42af0407"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/exhaust_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "8c30adf565e154786c686dfdc31faabda542ac48d1489a44e01d55ad42af0407",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "graphite_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\graphite_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "42c90655fab4edf52c6e039e90cad0f8cc7d282e05cdb11bb25483741f6c89d0"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/graphite_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "42c90655fab4edf52c6e039e90cad0f8cc7d282e05cdb11bb25483741f6c89d0",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "graphite_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\graphite_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/graphite_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "grille_black_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\grille_black_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "c9bf31e7706c6dced48cf2f727aa2adf6fe2daf1787d6c603f980ea0ed27c6dc"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/grille_black_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "c9bf31e7706c6dced48cf2f727aa2adf6fe2daf1787d6c603f980ea0ed27c6dc",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "grille_black_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\grille_black_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/grille_black_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "light_blue_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\light_blue_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "f2b223f939d82a6996c8aacbaa70ea3b1e00fb0b40d7d9eaf66d3f4d00f0b981"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/light_blue_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f2b223f939d82a6996c8aacbaa70ea3b1e00fb0b40d7d9eaf66d3f4d00f0b981",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "light_blue_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\light_blue_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/light_blue_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "metal_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\metal_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "efb5c04cf43a365786202c31099dbaf512d85a9ddcb36326715a01a66b251df3"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/metal_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "efb5c04cf43a365786202c31099dbaf512d85a9ddcb36326715a01a66b251df3",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "metal_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\metal_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/metal_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "ochre_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\ochre_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "1f9b14a2bcb17b7889df2cb3634b3b337fd7c4a7b698f942e9da427997f1629e"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/ochre_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "1f9b14a2bcb17b7889df2cb3634b3b337fd7c4a7b698f942e9da427997f1629e",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "ochre_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\ochre_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "4b4ffb51ec35cbaa9f5b34824cd295d6deecfa4d4af2a71b5381de39caa6bfe1"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/ochre_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "4b4ffb51ec35cbaa9f5b34824cd295d6deecfa4d4af2a71b5381de39caa6bfe1",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "proto_gold_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_gold_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_gold_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "6df622b1e87941909b56ac08185eb790b8525fd2348ba0fe416ef072fb1b3c0d",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_gold_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_gold_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_gold_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f3053e71c9a00d16642717d505507c86475a9f4313be2168a683fe224feae451",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_red_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_red_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_red_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "eb071effd1898f00e46b4aec4abede50ec437e39be6a1557cb1563bce404fe38",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_red_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_red_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_red_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "ccc13b1535ae197370fb7ed7d10c5209307cb48606b91a9ebb96eeb29a59b93a",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_roof_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_roof_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_roof_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "19fb413adc85e6235dc65ddeee988ac790d9ebe64455c09a1821846b6eee34bb",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_roof_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_roof_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_roof_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "433e86f2b404c9b4e5de45dd1666d61cabc299c3b25aefc00131a3af77117472",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_yellow_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_yellow_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_yellow_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f900c3104bbab265057faa10b447e214052599959a76d9576d1c61f44f56f54b",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_yellow_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\proto_yellow_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_yellow_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "31857181eea364cd2c174bf3a442451e3ab297c13ea53ade6332a754ee5c1a8c",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "red_paint_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\red_paint_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "72feff47dacaf28bad4892d39ce2e8964dcd5ae31f30dc92a18ab0e8e518e03d"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/red_paint_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "72feff47dacaf28bad4892d39ce2e8964dcd5ae31f30dc92a18ab0e8e518e03d",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "red_paint_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\red_paint_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "d613e79b8509f37aae094d0cc616619d8d605b8336f18f7a77691b7d4c92d4b7"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/red_paint_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "d613e79b8509f37aae094d0cc616619d8d605b8336f18f7a77691b7d4c92d4b7",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "Render Result",
+          "users": 1,
+          "source": "VIEWER",
+          "filepath": "",
+          "relative": false,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": null,
+          "resolved_exists": false,
+          "resolved_in_own_source_textures": false,
+          "resolved_sha256": null,
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "roof_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\roof_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "5896b6ca359ba9566001c96346672d33f4e76d08ef833c3e724d9a659e28c5b1"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/roof_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "5896b6ca359ba9566001c96346672d33f4e76d08ef833c3e724d9a659e28c5b1",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "roof_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\roof_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/roof_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "screen_mark_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\screen_mark_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "594fb1e29f924e4abcf702df0990b8407486df8fd46d096b09b9049ecb6bccbc"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/screen_mark_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "594fb1e29f924e4abcf702df0990b8407486df8fd46d096b09b9049ecb6bccbc",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "screen_mark_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\screen_mark_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "5db23f24dc3408b2692fa747af59b0b7162466c4a1a7a8e3481287bea01eea55"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/screen_mark_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "5db23f24dc3408b2692fa747af59b0b7162466c4a1a7a8e3481287bea01eea55",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "screen_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\screen_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "26504ab2aa13f56ad0a38cc0d8e7170ecd4dcd97b67ad7fa1d278de0d461b004"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/screen_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "26504ab2aa13f56ad0a38cc0d8e7170ecd4dcd97b67ad7fa1d278de0d461b004",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "screen_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\screen_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "fb0acdc0a860f9f1156d8ebdecdb3e3e79c6750e7d8b6f40ab7ef8d1a03e034e"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/screen_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "fb0acdc0a860f9f1156d8ebdecdb3e3e79c6750e7d8b6f40ab7ef8d1a03e034e",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "seat_fabric_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\seat_fabric_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "c94fa48a2333c7cfcedb6f01880d3b369919dbf070db3a13f41bb129e1ccc3ce"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/seat_fabric_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "c94fa48a2333c7cfcedb6f01880d3b369919dbf070db3a13f41bb129e1ccc3ce",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "seat_fabric_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\seat_fabric_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "1cf5a56c7bc14bded6557a0122cb61dabd1cc6bb7d8f777ad0fd769ffb64cf48"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/seat_fabric_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "1cf5a56c7bc14bded6557a0122cb61dabd1cc6bb7d8f777ad0fd769ffb64cf48",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "spring_steel_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\spring_steel_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "dcbeb48931af697df483a6fcc8d98d6c3fe6893b8bfac74f007fd4a936a6e4af"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/spring_steel_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "dcbeb48931af697df483a6fcc8d98d6c3fe6893b8bfac74f007fd4a936a6e4af",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "spring_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\spring_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "cc8cdab6ae479f7165b6bc88f6b74983b480ca2696e68d87d9852ed03eafc006"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/spring_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "cc8cdab6ae479f7165b6bc88f6b74983b480ca2696e68d87d9852ed03eafc006",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "Viewer Node",
+          "users": 1,
+          "source": "VIEWER",
+          "filepath": "",
+          "relative": false,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": null,
+          "resolved_exists": false,
+          "resolved_in_own_source_textures": false,
+          "resolved_sha256": null,
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "waist42_amber_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\waist42_amber_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/waist42_amber_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f900c3104bbab265057faa10b447e214052599959a76d9576d1c61f44f56f54b",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "waist42_amber_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\waist42_amber_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/waist42_amber_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "3ce3ebbdf52ad030b5a01f340b70272c266143bc2856ec44ae4a6e44d5287485",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "wheel_steel_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\wheel_steel_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "a4e1eb596ef179d79c8c988335f0c37f693b3b90f80514c252aabbd61dde9ef8"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/wheel_steel_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "a4e1eb596ef179d79c8c988335f0c37f693b3b90f80514c252aabbd61dde9ef8",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "wheel_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\wheel_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/wheel_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "white_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\white_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "0fabb5d154ea38421b66a62b995892406593cffe951c78a5e62229ca15a661be"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/white_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "0fabb5d154ea38421b66a62b995892406593cffe951c78a5e62229ca15a661be",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "white_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\white_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "7228ba466e91dc52779649ea944a5a98669311d2c86cbc57c099a54cbb366f39"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/white_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "7228ba466e91dc52779649ea944a5a98669311d2c86cbc57c099a54cbb366f39",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "yellow_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\yellow_rough.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "9cad2c1520a65fd4ee954a51ee550be6cdba03240703796734c1bb1161c5806c"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/yellow_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "9cad2c1520a65fd4ee954a51ee550be6cdba03240703796734c1bb1161c5806c",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "yellow_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//source_textures\\yellow_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/yellow_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1",
+          "matching_packed_and_external_bytes": true
+        }
+      ],
+      "fonts": [],
+      "font_objects": [],
+      "linked_libraries": [],
+      "other_external_dependencies": [],
+      "text_blocks": [],
+      "blender_unpacked_dependency_enumeration": [
+        {
+          "filepath": "//source_textures\\proto_gold_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_gold_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\proto_gold_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_gold_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\proto_red_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_red_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\proto_red_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_red_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\proto_roof_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_roof_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\proto_roof_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_roof_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\proto_yellow_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_yellow_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\proto_yellow_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_yellow_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\waist42_amber_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/waist42_amber_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//source_textures\\waist42_amber_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/waist42_amber_surface.tga",
+          "resolved_in_own_source_textures": true
+        }
+      ],
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "file": "fxn5c_v43_source/runtime/final43_fxn5c_prototype_0001_lod1.blend",
+      "sha256_before": "57f9ad2b5a5710372c42d5c2631233443cd5c2b479bd28780e689b090bf3d130",
+      "sha256_after": "57f9ad2b5a5710372c42d5c2631233443cd5c2b479bd28780e689b090bf3d130",
+      "manifest_sha256_expected": "57f9ad2b5a5710372c42d5c2631233443cd5c2b479bd28780e689b090bf3d130",
+      "unchanged": true,
+      "images": [
+        {
+          "name": "black_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\black_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/black_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "blue_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\blue_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/blue_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cab_floor_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\cab_floor_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "8208de0cafa8403ff1dbe690038e25ce46f76ad5c39da74e110cd1eee37de260"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/cab_floor_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "8208de0cafa8403ff1dbe690038e25ce46f76ad5c39da74e110cd1eee37de260",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cab_lining_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\cab_lining_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "ef7b162b42e9c6d4c3d2ad717d5ae4efe3aaf1a0ef5fa40a2a0fa24c4d5c388c"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/cab_lining_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "ef7b162b42e9c6d4c3d2ad717d5ae4efe3aaf1a0ef5fa40a2a0fa24c4d5c388c",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cast_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\cast_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "8eeae929441d230a42ae2b2ce8ec1a5e0f909c4062da139b20d1b7dfa1b2a508"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/cast_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "8eeae929441d230a42ae2b2ce8ec1a5e0f909c4062da139b20d1b7dfa1b2a508",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "console_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\console_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "0fd9dade5333c7dce20d93bcf259047b1372eb9d946c00fd0f5d84caee133717"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/console_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "0fd9dade5333c7dce20d93bcf259047b1372eb9d946c00fd0f5d84caee133717",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "coupler_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\coupler_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "cc55476ee907e394f4bfa0d846600a804b23f765a93ce6e6934899b05a113f41"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/coupler_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "cc55476ee907e394f4bfa0d846600a804b23f765a93ce6e6934899b05a113f41",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "dark_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\dark_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/dark_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "exhaust_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\exhaust_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "8c30adf565e154786c686dfdc31faabda542ac48d1489a44e01d55ad42af0407"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/exhaust_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "8c30adf565e154786c686dfdc31faabda542ac48d1489a44e01d55ad42af0407",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "graphite_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\graphite_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/graphite_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "grille_black_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\grille_black_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/grille_black_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "light_blue_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\light_blue_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/light_blue_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "metal_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\metal_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/metal_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "ochre_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\ochre_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "4b4ffb51ec35cbaa9f5b34824cd295d6deecfa4d4af2a71b5381de39caa6bfe1"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/ochre_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "4b4ffb51ec35cbaa9f5b34824cd295d6deecfa4d4af2a71b5381de39caa6bfe1",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "proto_gold_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_gold_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_gold_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "6df622b1e87941909b56ac08185eb790b8525fd2348ba0fe416ef072fb1b3c0d",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_gold_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_gold_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_gold_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f3053e71c9a00d16642717d505507c86475a9f4313be2168a683fe224feae451",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_red_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_red_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_red_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "eb071effd1898f00e46b4aec4abede50ec437e39be6a1557cb1563bce404fe38",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_red_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_red_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_red_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "ccc13b1535ae197370fb7ed7d10c5209307cb48606b91a9ebb96eeb29a59b93a",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_roof_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_roof_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_roof_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "19fb413adc85e6235dc65ddeee988ac790d9ebe64455c09a1821846b6eee34bb",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_roof_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_roof_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_roof_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "433e86f2b404c9b4e5de45dd1666d61cabc299c3b25aefc00131a3af77117472",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_yellow_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_yellow_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_yellow_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f900c3104bbab265057faa10b447e214052599959a76d9576d1c61f44f56f54b",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_yellow_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_yellow_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_yellow_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "31857181eea364cd2c174bf3a442451e3ab297c13ea53ade6332a754ee5c1a8c",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "red_paint_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\red_paint_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "d613e79b8509f37aae094d0cc616619d8d605b8336f18f7a77691b7d4c92d4b7"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/red_paint_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "d613e79b8509f37aae094d0cc616619d8d605b8336f18f7a77691b7d4c92d4b7",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "Render Result",
+          "users": 1,
+          "source": "VIEWER",
+          "filepath": "",
+          "relative": false,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": null,
+          "resolved_exists": false,
+          "resolved_in_own_source_textures": false,
+          "resolved_sha256": null,
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "roof_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\roof_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/roof_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "screen_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\screen_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "fb0acdc0a860f9f1156d8ebdecdb3e3e79c6750e7d8b6f40ab7ef8d1a03e034e"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/screen_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "fb0acdc0a860f9f1156d8ebdecdb3e3e79c6750e7d8b6f40ab7ef8d1a03e034e",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "seat_fabric_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\seat_fabric_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "1cf5a56c7bc14bded6557a0122cb61dabd1cc6bb7d8f777ad0fd769ffb64cf48"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/seat_fabric_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "1cf5a56c7bc14bded6557a0122cb61dabd1cc6bb7d8f777ad0fd769ffb64cf48",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "spring_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\spring_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "cc8cdab6ae479f7165b6bc88f6b74983b480ca2696e68d87d9852ed03eafc006"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/spring_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "cc8cdab6ae479f7165b6bc88f6b74983b480ca2696e68d87d9852ed03eafc006",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "Viewer Node",
+          "users": 1,
+          "source": "VIEWER",
+          "filepath": "",
+          "relative": false,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": null,
+          "resolved_exists": false,
+          "resolved_in_own_source_textures": false,
+          "resolved_sha256": null,
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "waist42_amber_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\waist42_amber_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/waist42_amber_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f900c3104bbab265057faa10b447e214052599959a76d9576d1c61f44f56f54b",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "waist42_amber_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\waist42_amber_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/waist42_amber_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "3ce3ebbdf52ad030b5a01f340b70272c266143bc2856ec44ae4a6e44d5287485",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "wheel_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\wheel_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/wheel_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "white_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\white_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "7228ba466e91dc52779649ea944a5a98669311d2c86cbc57c099a54cbb366f39"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/white_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "7228ba466e91dc52779649ea944a5a98669311d2c86cbc57c099a54cbb366f39",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "yellow_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\yellow_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/yellow_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1",
+          "matching_packed_and_external_bytes": true
+        }
+      ],
+      "fonts": [],
+      "font_objects": [],
+      "linked_libraries": [],
+      "other_external_dependencies": [],
+      "text_blocks": [],
+      "blender_unpacked_dependency_enumeration": [
+        {
+          "filepath": "//..\\source_textures\\proto_gold_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_gold_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_gold_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_gold_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_red_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_red_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_red_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_red_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_roof_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_roof_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_roof_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_roof_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_yellow_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_yellow_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_yellow_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_yellow_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\waist42_amber_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/waist42_amber_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\waist42_amber_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/waist42_amber_surface.tga",
+          "resolved_in_own_source_textures": true
+        }
+      ],
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "file": "fxn5c_v44_source/runtime/final44_fxn5c_prototype_0001_lod1.blend",
+      "sha256_before": "17bc3e7c1d806537222be201e6d406ac155dd5e5e62dc9f75c49ac7dc2da65fd",
+      "sha256_after": "17bc3e7c1d806537222be201e6d406ac155dd5e5e62dc9f75c49ac7dc2da65fd",
+      "manifest_sha256_expected": "17bc3e7c1d806537222be201e6d406ac155dd5e5e62dc9f75c49ac7dc2da65fd",
+      "unchanged": true,
+      "images": [
+        {
+          "name": "black_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\black_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/black_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "blue_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\blue_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/blue_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cab_floor_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\cab_floor_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "8208de0cafa8403ff1dbe690038e25ce46f76ad5c39da74e110cd1eee37de260"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/cab_floor_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "8208de0cafa8403ff1dbe690038e25ce46f76ad5c39da74e110cd1eee37de260",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cab_lining_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\cab_lining_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "ef7b162b42e9c6d4c3d2ad717d5ae4efe3aaf1a0ef5fa40a2a0fa24c4d5c388c"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/cab_lining_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "ef7b162b42e9c6d4c3d2ad717d5ae4efe3aaf1a0ef5fa40a2a0fa24c4d5c388c",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "cast_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\cast_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "8eeae929441d230a42ae2b2ce8ec1a5e0f909c4062da139b20d1b7dfa1b2a508"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/cast_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "8eeae929441d230a42ae2b2ce8ec1a5e0f909c4062da139b20d1b7dfa1b2a508",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "console_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\console_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "0fd9dade5333c7dce20d93bcf259047b1372eb9d946c00fd0f5d84caee133717"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/console_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "0fd9dade5333c7dce20d93bcf259047b1372eb9d946c00fd0f5d84caee133717",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "coupler_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\coupler_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "cc55476ee907e394f4bfa0d846600a804b23f765a93ce6e6934899b05a113f41"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/coupler_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "cc55476ee907e394f4bfa0d846600a804b23f765a93ce6e6934899b05a113f41",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "dark_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\dark_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/dark_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "exhaust_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\exhaust_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "8c30adf565e154786c686dfdc31faabda542ac48d1489a44e01d55ad42af0407"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/exhaust_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "8c30adf565e154786c686dfdc31faabda542ac48d1489a44e01d55ad42af0407",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "graphite_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\graphite_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/graphite_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "grille_black_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\grille_black_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/grille_black_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "light_blue_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\light_blue_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/light_blue_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "metal_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\metal_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/metal_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "ochre_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\ochre_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "4b4ffb51ec35cbaa9f5b34824cd295d6deecfa4d4af2a71b5381de39caa6bfe1"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/ochre_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "4b4ffb51ec35cbaa9f5b34824cd295d6deecfa4d4af2a71b5381de39caa6bfe1",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "proto_gold_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_gold_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_gold_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "6df622b1e87941909b56ac08185eb790b8525fd2348ba0fe416ef072fb1b3c0d",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_gold_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_gold_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_gold_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f3053e71c9a00d16642717d505507c86475a9f4313be2168a683fe224feae451",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_red_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_red_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_red_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "eb071effd1898f00e46b4aec4abede50ec437e39be6a1557cb1563bce404fe38",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_red_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_red_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_red_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "ccc13b1535ae197370fb7ed7d10c5209307cb48606b91a9ebb96eeb29a59b93a",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_roof_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_roof_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_roof_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "19fb413adc85e6235dc65ddeee988ac790d9ebe64455c09a1821846b6eee34bb",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_roof_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_roof_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_roof_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "433e86f2b404c9b4e5de45dd1666d61cabc299c3b25aefc00131a3af77117472",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_yellow_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_yellow_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_yellow_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f900c3104bbab265057faa10b447e214052599959a76d9576d1c61f44f56f54b",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_yellow_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_yellow_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_yellow_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "31857181eea364cd2c174bf3a442451e3ab297c13ea53ade6332a754ee5c1a8c",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "red_paint_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\red_paint_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "d613e79b8509f37aae094d0cc616619d8d605b8336f18f7a77691b7d4c92d4b7"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/red_paint_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "d613e79b8509f37aae094d0cc616619d8d605b8336f18f7a77691b7d4c92d4b7",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "Render Result",
+          "users": 1,
+          "source": "VIEWER",
+          "filepath": "",
+          "relative": false,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": null,
+          "resolved_exists": false,
+          "resolved_in_own_source_textures": false,
+          "resolved_sha256": null,
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "roof_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\roof_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/roof_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "screen_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\screen_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "fb0acdc0a860f9f1156d8ebdecdb3e3e79c6750e7d8b6f40ab7ef8d1a03e034e"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/screen_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "fb0acdc0a860f9f1156d8ebdecdb3e3e79c6750e7d8b6f40ab7ef8d1a03e034e",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "seat_fabric_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\seat_fabric_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "1cf5a56c7bc14bded6557a0122cb61dabd1cc6bb7d8f777ad0fd769ffb64cf48"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/seat_fabric_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "1cf5a56c7bc14bded6557a0122cb61dabd1cc6bb7d8f777ad0fd769ffb64cf48",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "spring_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\spring_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "cc8cdab6ae479f7165b6bc88f6b74983b480ca2696e68d87d9852ed03eafc006"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/spring_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "cc8cdab6ae479f7165b6bc88f6b74983b480ca2696e68d87d9852ed03eafc006",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "Viewer Node",
+          "users": 1,
+          "source": "VIEWER",
+          "filepath": "",
+          "relative": false,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": null,
+          "resolved_exists": false,
+          "resolved_in_own_source_textures": false,
+          "resolved_sha256": null,
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "waist42_amber_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\waist42_amber_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/waist42_amber_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f900c3104bbab265057faa10b447e214052599959a76d9576d1c61f44f56f54b",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "waist42_amber_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\waist42_amber_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/waist42_amber_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "3ce3ebbdf52ad030b5a01f340b70272c266143bc2856ec44ae4a6e44d5287485",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "wheel_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\wheel_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/wheel_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "white_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\white_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "7228ba466e91dc52779649ea944a5a98669311d2c86cbc57c099a54cbb366f39"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/white_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "7228ba466e91dc52779649ea944a5a98669311d2c86cbc57c099a54cbb366f39",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "yellow_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\yellow_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/yellow_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1",
+          "matching_packed_and_external_bytes": true
+        }
+      ],
+      "fonts": [],
+      "font_objects": [],
+      "linked_libraries": [],
+      "other_external_dependencies": [],
+      "text_blocks": [],
+      "blender_unpacked_dependency_enumeration": [
+        {
+          "filepath": "//..\\source_textures\\proto_gold_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_gold_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_gold_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_gold_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_red_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_red_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_red_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_red_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_roof_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_roof_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_roof_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_roof_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_yellow_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_yellow_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_yellow_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_yellow_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\waist42_amber_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/waist42_amber_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\waist42_amber_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/waist42_amber_surface.tga",
+          "resolved_in_own_source_textures": true
+        }
+      ],
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "file": "fxn5c_v43_source/runtime/final43_fxn5c_prototype_0001_lod2.blend",
+      "sha256_before": "3f3af0233cc43ee64ded1efb23351c8835393dd82419548dd78fa9132a1f5a72",
+      "sha256_after": "3f3af0233cc43ee64ded1efb23351c8835393dd82419548dd78fa9132a1f5a72",
+      "manifest_sha256_expected": "3f3af0233cc43ee64ded1efb23351c8835393dd82419548dd78fa9132a1f5a72",
+      "unchanged": true,
+      "images": [
+        {
+          "name": "black_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\black_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/black_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "blue_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\blue_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/blue_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "dark_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\dark_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/dark_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "graphite_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\graphite_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/graphite_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "grille_black_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\grille_black_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/grille_black_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "light_blue_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\light_blue_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/light_blue_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "metal_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\metal_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/metal_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "proto_red_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_red_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_red_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "eb071effd1898f00e46b4aec4abede50ec437e39be6a1557cb1563bce404fe38",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_red_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_red_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_red_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "ccc13b1535ae197370fb7ed7d10c5209307cb48606b91a9ebb96eeb29a59b93a",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_roof_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_roof_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_roof_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "19fb413adc85e6235dc65ddeee988ac790d9ebe64455c09a1821846b6eee34bb",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_roof_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_roof_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_roof_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "433e86f2b404c9b4e5de45dd1666d61cabc299c3b25aefc00131a3af77117472",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_yellow_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_yellow_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_yellow_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f900c3104bbab265057faa10b447e214052599959a76d9576d1c61f44f56f54b",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_yellow_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_yellow_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_yellow_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "31857181eea364cd2c174bf3a442451e3ab297c13ea53ade6332a754ee5c1a8c",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "Render Result",
+          "users": 1,
+          "source": "VIEWER",
+          "filepath": "",
+          "relative": false,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": null,
+          "resolved_exists": false,
+          "resolved_in_own_source_textures": false,
+          "resolved_sha256": null,
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "roof_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\roof_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/roof_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "spring_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\spring_steel_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/spring_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "cc8cdab6ae479f7165b6bc88f6b74983b480ca2696e68d87d9852ed03eafc006",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "Viewer Node",
+          "users": 1,
+          "source": "VIEWER",
+          "filepath": "",
+          "relative": false,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": null,
+          "resolved_exists": false,
+          "resolved_in_own_source_textures": false,
+          "resolved_sha256": null,
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "waist42_amber_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\waist42_amber_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/waist42_amber_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f900c3104bbab265057faa10b447e214052599959a76d9576d1c61f44f56f54b",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "waist42_amber_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\waist42_amber_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v43_source/source_textures/waist42_amber_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "3ce3ebbdf52ad030b5a01f340b70272c266143bc2856ec44ae4a6e44d5287485",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "wheel_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\wheel_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/wheel_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "yellow_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\yellow_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1"
+          ],
+          "resolved_target": "fxn5c_v43_source/source_textures/yellow_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1",
+          "matching_packed_and_external_bytes": true
+        }
+      ],
+      "fonts": [],
+      "font_objects": [],
+      "linked_libraries": [],
+      "other_external_dependencies": [],
+      "text_blocks": [],
+      "blender_unpacked_dependency_enumeration": [
+        {
+          "filepath": "//..\\source_textures\\proto_red_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_red_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_red_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_red_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_roof_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_roof_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_roof_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_roof_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_yellow_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_yellow_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_yellow_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/proto_yellow_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\spring_steel_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/spring_steel_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\waist42_amber_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/waist42_amber_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\waist42_amber_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v43_source/source_textures/waist42_amber_surface.tga",
+          "resolved_in_own_source_textures": true
+        }
+      ],
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "file": "fxn5c_v44_source/runtime/final44_fxn5c_prototype_0001_lod2.blend",
+      "sha256_before": "69bc86d4c2e93f4640f873e590dcd1a11ebc8504a2b15dacef00c06d9c2740a9",
+      "sha256_after": "69bc86d4c2e93f4640f873e590dcd1a11ebc8504a2b15dacef00c06d9c2740a9",
+      "manifest_sha256_expected": "69bc86d4c2e93f4640f873e590dcd1a11ebc8504a2b15dacef00c06d9c2740a9",
+      "unchanged": true,
+      "images": [
+        {
+          "name": "black_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\black_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/black_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "0e173f2882a56a29f18ee382f61bcb11b471ddc826d6c69811f5babe1c94ec83",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "blue_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\blue_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/blue_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "46b0a1be7ee9f650b9221b0bf4c931215ebf5f08a0843c5884998438319e9de6",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "dark_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\dark_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/dark_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "60a360dced72df2df96dff79269626ca93a8279955d850401ea0a1090b845796",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "graphite_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\graphite_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/graphite_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "861aca92b42e9725b65b52f616befbda475588f2e839c5d423f6fc57c9e96aa3",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "grille_black_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\grille_black_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/grille_black_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "a59ced023378e1e9aa6984cae40952bd6998e74c4900cfad260535d7a71030db",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "light_blue_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\light_blue_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/light_blue_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "6c4316f631533407431be7c04abfe7d106269242d1fee90cf8f45f4c2785f09a",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "metal_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\metal_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/metal_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "492ff9e1ba4794f45456432e7c7616c4666145100e4dbbcb8d663eb7be013138",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "proto_red_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_red_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_red_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "eb071effd1898f00e46b4aec4abede50ec437e39be6a1557cb1563bce404fe38",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_red_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_red_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_red_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "ccc13b1535ae197370fb7ed7d10c5209307cb48606b91a9ebb96eeb29a59b93a",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_roof_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_roof_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_roof_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "19fb413adc85e6235dc65ddeee988ac790d9ebe64455c09a1821846b6eee34bb",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_roof_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_roof_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_roof_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "433e86f2b404c9b4e5de45dd1666d61cabc299c3b25aefc00131a3af77117472",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_yellow_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_yellow_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_yellow_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f900c3104bbab265057faa10b447e214052599959a76d9576d1c61f44f56f54b",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "proto_yellow_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\proto_yellow_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_yellow_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "31857181eea364cd2c174bf3a442451e3ab297c13ea53ade6332a754ee5c1a8c",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "Render Result",
+          "users": 1,
+          "source": "VIEWER",
+          "filepath": "",
+          "relative": false,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": null,
+          "resolved_exists": false,
+          "resolved_in_own_source_textures": false,
+          "resolved_sha256": null,
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "roof_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\roof_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/roof_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "17e3002385ef881ac6f91ebdacf24407a869eb2d67f7e46dadc3f80d503c378e",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "spring_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\spring_steel_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/spring_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "cc8cdab6ae479f7165b6bc88f6b74983b480ca2696e68d87d9852ed03eafc006",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "Viewer Node",
+          "users": 1,
+          "source": "VIEWER",
+          "filepath": "",
+          "relative": false,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": null,
+          "resolved_exists": false,
+          "resolved_in_own_source_textures": false,
+          "resolved_sha256": null,
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "waist42_amber_rough.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\waist42_amber_rough.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/waist42_amber_rough.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "f900c3104bbab265057faa10b447e214052599959a76d9576d1c61f44f56f54b",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "waist42_amber_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\waist42_amber_surface.tga",
+          "relative": true,
+          "packed": false,
+          "packed_payload_sha256": [],
+          "resolved_target": "fxn5c_v44_source/source_textures/waist42_amber_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "3ce3ebbdf52ad030b5a01f340b70272c266143bc2856ec44ae4a6e44d5287485",
+          "matching_packed_and_external_bytes": null
+        },
+        {
+          "name": "wheel_steel_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\wheel_steel_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/wheel_steel_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "49f47e1ec54c0b9cf416c7fa8567a54453ff34f7405153b4b4f3aac0fd9881e8",
+          "matching_packed_and_external_bytes": true
+        },
+        {
+          "name": "yellow_surface.tga",
+          "users": 1,
+          "source": "FILE",
+          "filepath": "//..\\source_textures\\yellow_surface.tga",
+          "relative": true,
+          "packed": true,
+          "packed_payload_sha256": [
+            "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1"
+          ],
+          "resolved_target": "fxn5c_v44_source/source_textures/yellow_surface.tga",
+          "resolved_exists": true,
+          "resolved_in_own_source_textures": true,
+          "resolved_sha256": "13e04f63f5d14e97a489e0650bec95388d6241e892951614a3a9b2727ad720f1",
+          "matching_packed_and_external_bytes": true
+        }
+      ],
+      "fonts": [],
+      "font_objects": [],
+      "linked_libraries": [],
+      "other_external_dependencies": [],
+      "text_blocks": [],
+      "blender_unpacked_dependency_enumeration": [
+        {
+          "filepath": "//..\\source_textures\\proto_red_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_red_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_red_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_red_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_roof_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_roof_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_roof_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_roof_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_yellow_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_yellow_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\proto_yellow_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/proto_yellow_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\spring_steel_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/spring_steel_surface.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\waist42_amber_rough.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/waist42_amber_rough.tga",
+          "resolved_in_own_source_textures": true
+        },
+        {
+          "filepath": "//..\\source_textures\\waist42_amber_surface.tga",
+          "absolute": false,
+          "exists": true,
+          "resolved_target": "fxn5c_v44_source/source_textures/waist42_amber_surface.tga",
+          "resolved_in_own_source_textures": true
+        }
+      ],
+      "issues": [],
+      "warnings": []
+    }
+  ],
+  "issues": [],
+  "source_files_modified": false,
+  "clean_extract_rebuild_tested": false,
+  "warnings": [],
+  "manifest_records": [
+    {
+      "file": "../fxn5c_v43_source/manifest_v43.json",
+      "sha256": "7730357c929477babfd1e6db117a04c76cdee6198a5556d9f8f642f8eff0d06c"
+    },
+    {
+      "file": "manifest_v44.json",
+      "sha256": "c56287670110f591f0bb11269118a4f748a3d7a1e04d9c23cc5e218538dd9ff1"
+    }
+  ],
+  "required_sibling_layout": [
+    "fxn5c_v43_source",
+    "fxn5c_v44_source"
+  ]
+}

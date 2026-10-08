@@ -1,0 +1,17 @@
+function data()
+return {
+ order = 0,
+ params = {
+ fade_out_range = { fadeOutEndDist = 20000, fadeOutStartDist = 10000, },
+      two_sided = { flipNormal = false, twoSided = false, },
+ 
+      albedo_scale = { albedoScale = { 1,1,1, }, },
+      map_albedo = { fileName = "models/vehicle/train/fxn5c/ochre_surface.tga", type = "TWOD", },
+      map_metal_gloss_ao = { fileName = "models/vehicle/train/fxn5c/ochre_mga.tga", type = "TWOD", },
+      map_normal = { fileName = "models/vehicle/train/fxn5c/ochre_normal.tga", type = "TWOD", },
+      normal_scale = { normalScale = 1, },
+      polygon_offset = { factor = 0, units = 0, forceDepthWrite = false, },
+ },
+ type = "PHYSICAL_NRML_MAP",
+}
+end

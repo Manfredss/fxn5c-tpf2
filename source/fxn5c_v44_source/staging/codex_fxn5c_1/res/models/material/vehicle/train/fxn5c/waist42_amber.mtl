@@ -1,0 +1,43 @@
+function data()
+return {
+  params = {
+    fade_out_range = {
+      fadeOutStartDist = 10000,
+      fadeOutEndDist = 20000,
+    },
+    map_metal_gloss_ao = {
+      fileName = "models/vehicle/train/fxn5c/waist42_amber_mga.tga",
+      type = "TWOD",
+    },
+    albedo_scale = {
+      albedoScale = {
+        1,
+        1,
+        1,
+      },
+    },
+    normal_scale = {
+      normalScale = 1,
+    },
+    map_albedo = {
+      fileName = "models/vehicle/train/fxn5c/waist42_amber_surface.tga",
+      type = "TWOD",
+    },
+    two_sided = {
+      flipNormal = false,
+      twoSided = false,
+    },
+    polygon_offset = {
+      factor = 0,
+      units = 0,
+      forceDepthWrite = false,
+    },
+    map_normal = {
+      fileName = "models/vehicle/train/fxn5c/waist42_amber_normal.tga",
+      type = "TWOD",
+    },
+  },
+  type = "PHYSICAL_NRML_MAP",
+  order = 0,
+}
+end

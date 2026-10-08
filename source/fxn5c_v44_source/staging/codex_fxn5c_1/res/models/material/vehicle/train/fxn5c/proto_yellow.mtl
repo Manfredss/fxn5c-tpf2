@@ -1,0 +1,43 @@
+function data()
+return {
+  type = "PHYSICAL_NRML_MAP",
+  params = {
+    fade_out_range = {
+      fadeOutEndDist = 20000,
+      fadeOutStartDist = 10000,
+    },
+    map_albedo = {
+      type = "TWOD",
+      fileName = "models/vehicle/train/fxn5c/proto_yellow_surface.tga",
+    },
+    map_normal = {
+      type = "TWOD",
+      fileName = "models/vehicle/train/fxn5c/proto_yellow_normal.tga",
+    },
+    polygon_offset = {
+      units = 0,
+      forceDepthWrite = false,
+      factor = 0,
+    },
+    two_sided = {
+      twoSided = false,
+      flipNormal = false,
+    },
+    normal_scale = {
+      normalScale = 1,
+    },
+    map_metal_gloss_ao = {
+      type = "TWOD",
+      fileName = "models/vehicle/train/fxn5c/proto_yellow_mga.tga",
+    },
+    albedo_scale = {
+      albedoScale = {
+        1,
+        1,
+        1,
+      },
+    },
+  },
+  order = 0,
+}
+end

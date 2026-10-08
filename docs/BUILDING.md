@@ -1,6 +1,16 @@
 # Editing and incremental build
 
-## Current release: v0.37
+## Current release: v0.44
+
+The current Git tree adds `source/fxn5c_v44_source/`: the three editable prototype LOD scenes, scripts, textures, native resources and candidate audits. Download `FXN5C_SourceKit_v0.44_Prototype.zip` from the v0.44 Release for both the current directory and its required sibling `fxn5c_v43_source` baseline. Do not substitute the automatic GitHub source archive for this kit.
+
+For editable China Railway and Jinwen production models, download the separate `FXN5C_SourceKit_v0.42_ProductionBaseline.zip` attached to the same release. It is a historical full source kit, not the current game package. Production geometry has not changed in v0.43/v0.44; current UI resources and release metadata are in v0.44. Keep source generations separate when rebuilding.
+
+Use Blender 5.2 and the supplied Python requirements. The v0.44 authoritative entry is `build_v44.py`, with `prototype_geometry_v44.py` for the local cab changes. Run native verification, icon rendering/encoding, source audits and packaging in the order given by `source/fxn5c_v44_source/README_V44.md`. Editing the final scene does not automatically update the generator. The clean extracted end-to-end rebuild is not yet certified.
+
+Public scenes have obsolete packed-image source paths and file-browser directories cleaned through Blender RNA, then saved/reopened and checked for matching model data and packed-image payloads. Where Blender would otherwise drop an unused v0.42-baseline image on save, its save-preservation flag is explicitly enabled and recorded; pixels remain unchanged. `SOURCE_PATH_HYGIENE_V44.json` and `SOURCE_PATH_HYGIENE_V42.json` map candidate scene hashes to public hashes. Candidate manifests/audits remain historical evidence; publication checks record the separate documentation/description changes. No new geometry, animation or gameplay test is implied by cleanup. No new FBX was exported.
+
+## Historical release: v0.37
 
 Open the two editable near-LOD scenes in `source/fxn5c_v37_source/`. Blender 5.2 is used. Mid/far scenes are in its `runtime/final37_*.blend`; these selected source scenes are versioned despite the generic runtime ignore rule. Packed textures and relative source texture files are included. No new FBX is supplied for v0.37.
 

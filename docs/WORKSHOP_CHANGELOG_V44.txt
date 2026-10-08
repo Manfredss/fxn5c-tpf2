@@ -1,0 +1,3 @@
+v0.44：新增红色 FXN5C 0001 独立原型车（四顶灯、竖排下灯、专用门梯及立体复兴字）；修正窗区连续后倾、单平面过渡斜面、黑线和竖直扶手。累计细化车顶、内凹矩形窗、罩内喇叭、加厚砂箱、右下字影及橙黄腰线。全车号统一侧视轨道购买图标，补齐原型车 TGA，共52张。保留风扇和0.8秒波浪小百叶，大窗常开。原生/源码/图标检查通过；实机购买菜单和动态测试仍待确认，原型车动力暂用量产配置。更新后完整重启游戏，搜索0001。完整说明及源码：https://github.com/Manfredss/fxn5c-tpf2/releases/tag/v0.44
+
+v0.44 adds the separate red 0001 prototype, refines cab transition planes and vertical handrails, roof/glazing/horns/sandboxes/livery, and supplies 52 side-view purchase icons including the missing prototype TGAs. Native/static checks passed; in-game purchase/driving validation remains pending.

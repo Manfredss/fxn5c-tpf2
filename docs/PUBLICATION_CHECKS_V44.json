@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "version": "0.44",
+  "candidate_game_sha256": "f325c1d865aa4afa6a3e1cb7a2ae026ac1b40292828481f1820e8f264019f3c8",
+  "candidate_source_sha256": "e7dbbded6b56e1bbbc8066984bf4c8e9649ea22bfdd259d3fa5d956a71e121ac",
+  "native_resources_unchanged": 1287,
+  "all_public_game_files_identical_in_source_staging": true,
+  "source_additional_historical_resource_files": 105,
+  "game_tested": false,
+  "source_path_hygiene_reports": [
+    "SOURCE_PATH_HYGIENE_V44.json",
+    "SOURCE_PATH_HYGIENE_V42.json"
+  ],
+  "assets": [
+    {
+      "file": "FXN5C_TPF2_v0.44.zip",
+      "bytes": 66268179,
+      "sha256": "7472531eb6aa2013509642ac957354101a7e10661317785f2162af851783d732"
+    },
+    {
+      "file": "FXN5C_SourceKit_v0.44_Prototype.zip",
+      "bytes": 158488522,
+      "sha256": "7fbdd6022d7435e31d51349e215dd961dabce8a84d72d4163c4b5510dd3f22a0"
+    },
+    {
+      "file": "FXN5C_SourceKit_v0.42_ProductionBaseline.zip",
+      "bytes": 233902330,
+      "sha256": "0a50d806d708e4343fe22699e398c8358818f30e553e5ff8a1356d40021129c5"
+    }
+  ]
+}

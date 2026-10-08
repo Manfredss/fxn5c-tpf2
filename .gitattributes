@@ -1,5 +1,6 @@
 # Preserve native-resource and validation hash bytes across platforms.
 source/fxn5c_v37_source/** -text
+source/fxn5c_v44_source/** -text
 *.blob binary
 *.blend binary
 *.tga binary

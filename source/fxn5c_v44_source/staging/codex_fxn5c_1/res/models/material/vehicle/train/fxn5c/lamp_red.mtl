@@ -1,0 +1,14 @@
+function data()
+return {
+ order = 0,
+ params = {
+ fade_out_range = { fadeOutEndDist = 20000, fadeOutStartDist = 10000, },
+      two_sided = { flipNormal = false, twoSided = false, },
+ 
+      emissive_scale = { emissiveScale = { 7.0,7.0,7.0, }, },
+      map_emissive = { fileName = "models/vehicle/train/fxn5c/lamp_red.tga", type = "TWOD", },
+      polygon_offset = { factor = -1, units = -1, forceDepthWrite = false, },
+ },
+ type = "EMISSIVE",
+}
+end

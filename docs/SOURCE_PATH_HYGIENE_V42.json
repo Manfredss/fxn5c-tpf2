@@ -1,0 +1,4965 @@
+{
+  "status": "PASS",
+  "version": "0.42",
+  "candidate_zip": "FXN5C_Source_v0.42_candidate.zip",
+  "candidate_zip_sha256": "6013f0087f21073c5014f03302d9966104053e4f1633a480c93bad909e142723",
+  "scenes": [
+    {
+      "status": "PASS",
+      "file": "fxn5c_v40_source/fxn5c_jinwen_source.blend",
+      "candidate_copy_sha256": "e708ca2ed52a70e0724f2802141cba40e998756c870199cf4eff1e9442188f2c",
+      "sanitized_sha256": "a22df6ead1819e61817cd342d0a2dd94b3da98bb15c2872afda855a216bf92ca",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\black_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\blue_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_floor_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\cab_floor_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_lining_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\cab_lining_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\console_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\console_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\coupler_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\coupler_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\dark_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\exhaust_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\exhaust_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\graphite_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\grille_black_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_blue_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_blue_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_blue_surface_packed_e1fe619fbc31.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_frame_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_frame_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_frame_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\jw_frame_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_red_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_red_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_red_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\jw_red_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_roof_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_roof_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\jw_roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_spring_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_spring_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_spring_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\jw_spring_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_white_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_white_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\jw_white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\light_blue_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\metal_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\ochre_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\ochre_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\red_paint_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\red_paint_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\roof_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_mark_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_mark_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_mark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\screen_mark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\screen_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\seat_fabric_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\seat_fabric_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\spring_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\spring_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\wheel_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\white_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\yellow_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [
+        {
+          "owner": "Image",
+          "name": "cast_steel_surface.tga",
+          "field": "use_fake_user",
+          "before": false,
+          "after": true,
+          "prior_users": 0,
+          "ordinary_native_save_proved_drop": true,
+          "pixels_unchanged": true,
+          "packed_payload_sha256": []
+        }
+      ],
+      "before": {
+        "hashes": {
+          "meshes": "14f555b81ebdfc8a27c6779d6ec4685471a175e3a60d1f9b415adb116d7af410",
+          "objects": "20d3b9720efdf75d60ee19ffae4b975b20569f07b9ad5d96f6de1d678c0305d7",
+          "materials": "40e0e31d15b07f9c348c8324c177273840cb88d658952ab28e5cf560071e1a34",
+          "images_payload_and_properties": "d5e0408cfb1eaac1475274fd9584af3164bdc659bcf544f9f952e323d5d873cd",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "d0f52453afe7047534c20d655eaddf253451b2acc26925dc5c339fc56540a90f",
+          "other_datablocks": "48d585c1b4246876d3acf382a031e97eade6ff06b46b89c19416bc810fb5bfd8"
+        },
+        "counts": {
+          "objects": 3950,
+          "meshes": 3944,
+          "materials": 33,
+          "images": 59,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "14f555b81ebdfc8a27c6779d6ec4685471a175e3a60d1f9b415adb116d7af410",
+          "objects": "20d3b9720efdf75d60ee19ffae4b975b20569f07b9ad5d96f6de1d678c0305d7",
+          "materials": "40e0e31d15b07f9c348c8324c177273840cb88d658952ab28e5cf560071e1a34",
+          "images_payload_and_properties": "d5e0408cfb1eaac1475274fd9584af3164bdc659bcf544f9f952e323d5d873cd",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "d0f52453afe7047534c20d655eaddf253451b2acc26925dc5c339fc56540a90f",
+          "other_datablocks": "48d585c1b4246876d3acf382a031e97eade6ff06b46b89c19416bc810fb5bfd8"
+        },
+        "counts": {
+          "objects": 3950,
+          "meshes": 3944,
+          "materials": 33,
+          "images": 59,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 68628560,
+        "private_user_path_count": 57
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 74318670,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v40_source/fxn5c_source.blend",
+      "candidate_copy_sha256": "5a2810287d3a0819cbaba8020dcc773edfe3b91e5411b76fd5e76304b0d9e878",
+      "sanitized_sha256": "cfe5f61fe02187b0dae6e4e27b1a2fcc356e0e6df491d565e5f8678c1b669e62",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\black_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\blue_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_floor_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\cab_floor_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_lining_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\cab_lining_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cast_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cast_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cast_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\cast_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\console_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\console_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\coupler_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\coupler_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\dark_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\exhaust_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\exhaust_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\graphite_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\grille_black_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\light_blue_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\metal_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\ochre_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\ochre_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\red_paint_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\red_paint_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\roof_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_mark_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_mark_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_mark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\screen_mark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\screen_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\seat_fabric_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\seat_fabric_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\spring_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\spring_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\wheel_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\white_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\yellow_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [],
+      "before": {
+        "hashes": {
+          "meshes": "d17cdca25203e0d55ee8b9827c599ade772efaa2470d77157bc35be6ef835008",
+          "objects": "87bc95458e5c94165d04a95dc30f5a2d6333ef3aefe3f77770ed393c88f86207",
+          "materials": "840247fd8a81c7cb604bdb309ec6e9152cc08e4045e6f06b798a3ae981165319",
+          "images_payload_and_properties": "4708dc4b2f957b9757df8d0dc5c98b3293b9a59718a67ced42bde2cc6334823c",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "40bde982e2dc9dc690574e5aa7ff92fa688e274b228077c0a7d0c4331985467f",
+          "other_datablocks": "48d585c1b4246876d3acf382a031e97eade6ff06b46b89c19416bc810fb5bfd8"
+        },
+        "counts": {
+          "objects": 3954,
+          "meshes": 3948,
+          "materials": 28,
+          "images": 48,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "d17cdca25203e0d55ee8b9827c599ade772efaa2470d77157bc35be6ef835008",
+          "objects": "87bc95458e5c94165d04a95dc30f5a2d6333ef3aefe3f77770ed393c88f86207",
+          "materials": "840247fd8a81c7cb604bdb309ec6e9152cc08e4045e6f06b798a3ae981165319",
+          "images_payload_and_properties": "4708dc4b2f957b9757df8d0dc5c98b3293b9a59718a67ced42bde2cc6334823c",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "40bde982e2dc9dc690574e5aa7ff92fa688e274b228077c0a7d0c4331985467f",
+          "other_datablocks": "48d585c1b4246876d3acf382a031e97eade6ff06b46b89c19416bc810fb5bfd8"
+        },
+        "counts": {
+          "objects": 3954,
+          "meshes": 3948,
+          "materials": 28,
+          "images": 48,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 60410810,
+        "private_user_path_count": 47
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 63993450,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v40_source/runtime/final40_fxn5c_jinwen_lod1.blend",
+      "candidate_copy_sha256": "8fd7dddb74bfb729357f9f0a8e7be41d43f358f1036d5fe766290b3612696c42",
+      "sanitized_sha256": "fcfa3835e8b7276ce2b723767d8a7155c6d21908af4614ee0eae4c411bfb1f85",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\cab_floor_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\cab_lining_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\console_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\coupler_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\exhaust_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\jw_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_frame_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\jw_frame_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_red_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\jw_red_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\jw_roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_spring_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\jw_spring_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\jw_white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\ochre_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\red_paint_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\screen_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\seat_fabric_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\spring_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [
+        {
+          "owner": "Image",
+          "name": "cast_steel_surface.tga",
+          "field": "use_fake_user",
+          "before": false,
+          "after": true,
+          "prior_users": 0,
+          "ordinary_native_save_proved_drop": true,
+          "pixels_unchanged": true,
+          "packed_payload_sha256": []
+        }
+      ],
+      "before": {
+        "hashes": {
+          "meshes": "d76f23aee8375ae7c75b83019c729e06789b41345f80a6230377e0a920d9298a",
+          "objects": "f43d034b59113e261da153d6e9e7f47268403456bd529bfb45f6fdaeadf30578",
+          "materials": "1777d9c53f1b7d0b1f0c3ae7c1f9a1636e185dfc2329a12ba15e7afe9e22c928",
+          "images_payload_and_properties": "feabc33e3877b5edd3ee316607bcfbab94ab683714a22483f36d50692f187c4a",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "7fa06f3b36e9f102d652b983d3127c2f1418b642b34b99654fc3135b7e9742aa",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 2239,
+          "meshes": 2234,
+          "materials": 31,
+          "images": 30,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "d76f23aee8375ae7c75b83019c729e06789b41345f80a6230377e0a920d9298a",
+          "objects": "f43d034b59113e261da153d6e9e7f47268403456bd529bfb45f6fdaeadf30578",
+          "materials": "1777d9c53f1b7d0b1f0c3ae7c1f9a1636e185dfc2329a12ba15e7afe9e22c928",
+          "images_payload_and_properties": "feabc33e3877b5edd3ee316607bcfbab94ab683714a22483f36d50692f187c4a",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "7fa06f3b36e9f102d652b983d3127c2f1418b642b34b99654fc3135b7e9742aa",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 2239,
+          "meshes": 2234,
+          "materials": 31,
+          "images": 30,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 38768831,
+        "private_user_path_count": 28
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 43166185,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v40_source/runtime/final40_fxn5c_jinwen_lod2.blend",
+      "candidate_copy_sha256": "a4b239e35f956b7685d605856ad0b6e823d98bfc1f5e4ae6c8aa72d15f52b3b3",
+      "sanitized_sha256": "e736cc98df08de18afdf3b5533b6208092ac01cddf930ff9b216180c1efe4012",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\jw_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_frame_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\jw_frame_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\jw_roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\jw_white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [],
+      "before": {
+        "hashes": {
+          "meshes": "d5cb1f15fe59326b214a0240390d6831b6144f6f30b4a0df2de66e01d3068338",
+          "objects": "1716ef7397289f511a38bd7415e9edaf6adde7dc3c8ec056a0adaf6aabf9de79",
+          "materials": "bf438a4e471534dc0c8513d43171664ecdbd854add0859eebd804b8833649125",
+          "images_payload_and_properties": "4d57fd2dda19354d4b7fbfca7c77aae71c2f76807b976824b3e389489a2d86b8",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "0b6b8605cfabcf25b5f74fcd60d5af6e3fd6e8f3e845276f1e18c450ff44ea2e",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 105,
+          "meshes": 100,
+          "materials": 13,
+          "images": 14,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "d5cb1f15fe59326b214a0240390d6831b6144f6f30b4a0df2de66e01d3068338",
+          "objects": "1716ef7397289f511a38bd7415e9edaf6adde7dc3c8ec056a0adaf6aabf9de79",
+          "materials": "bf438a4e471534dc0c8513d43171664ecdbd854add0859eebd804b8833649125",
+          "images_payload_and_properties": "4d57fd2dda19354d4b7fbfca7c77aae71c2f76807b976824b3e389489a2d86b8",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "0b6b8605cfabcf25b5f74fcd60d5af6e3fd6e8f3e845276f1e18c450ff44ea2e",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 105,
+          "meshes": 100,
+          "materials": 13,
+          "images": 14,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 4423752,
+        "private_user_path_count": 13
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 4584726,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v40_source/runtime/final40_fxn5c_lod1.blend",
+      "candidate_copy_sha256": "bf04f8f279c308ef4837af220772f2cf11fdeaf96ee7ac046bf69eb483c2ced4",
+      "sanitized_sha256": "d99e67876a42d22d77c82e462684b2785e0b082ff6d4c2f856dc12707fae4f41",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\cab_floor_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\cab_lining_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cast_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\cast_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\console_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\coupler_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\exhaust_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\ochre_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\red_paint_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\screen_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\seat_fabric_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\spring_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [],
+      "before": {
+        "hashes": {
+          "meshes": "8f214737ad0e057f4bacd0b34aa6c0507457fc1243f9615ea927db513d253232",
+          "objects": "5c1b4a6d74d24adf971d99d0be4b07cc5eb43f330a31d16096c677cd614567a8",
+          "materials": "c2701471072fc91e6dc6f91c6a624c3dc2646872b99be7a80adad630b78242ab",
+          "images_payload_and_properties": "64ea3a534e8d063914af3c997ac10996389b3e301285bf586688dfd08d22001c",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "000bf6fca93a5e666aea232d647b3aa2fe9f177a837934415fe15ceff2fba5cc",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 2251,
+          "meshes": 2246,
+          "materials": 26,
+          "images": 24,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "8f214737ad0e057f4bacd0b34aa6c0507457fc1243f9615ea927db513d253232",
+          "objects": "5c1b4a6d74d24adf971d99d0be4b07cc5eb43f330a31d16096c677cd614567a8",
+          "materials": "c2701471072fc91e6dc6f91c6a624c3dc2646872b99be7a80adad630b78242ab",
+          "images_payload_and_properties": "64ea3a534e8d063914af3c997ac10996389b3e301285bf586688dfd08d22001c",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "000bf6fca93a5e666aea232d647b3aa2fe9f177a837934415fe15ceff2fba5cc",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 2251,
+          "meshes": 2246,
+          "materials": 26,
+          "images": 24,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 31957280,
+        "private_user_path_count": 23
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 34448996,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v40_source/runtime/final40_fxn5c_lod2.blend",
+      "candidate_copy_sha256": "83d985acb1d7bee72b42ee1f36e44b0c218df999de8e047b2ce61fec4f61feb5",
+      "sanitized_sha256": "775293d69bd7eb426f69286785fb2139242fe4b5a32aeacf3f62f77e010d0488",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\staging\\codex_fxn5c_1\\res\\textures\\models\\vehicle\\train\\fxn5c\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [],
+      "before": {
+        "hashes": {
+          "meshes": "694016279a53e0995b55466773286acdfaf4a81a9b66e65036fc5c691202ee75",
+          "objects": "f938a08b42df3df4e10476cd5eef3e4207b685ae8641e4579c9d2af0b5a1b95c",
+          "materials": "8c6948aebb78d260273102a1db8e8ed8576c1133a0c8d3c0ab4a82f66f13ba8a",
+          "images_payload_and_properties": "832002ee3594ea701e0ec5675ef467f01154247e1a3dac187fb3c8d159ffbf43",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "0b6b8605cfabcf25b5f74fcd60d5af6e3fd6e8f3e845276f1e18c450ff44ea2e",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 105,
+          "meshes": 100,
+          "materials": 11,
+          "images": 12,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "694016279a53e0995b55466773286acdfaf4a81a9b66e65036fc5c691202ee75",
+          "objects": "f938a08b42df3df4e10476cd5eef3e4207b685ae8641e4579c9d2af0b5a1b95c",
+          "materials": "8c6948aebb78d260273102a1db8e8ed8576c1133a0c8d3c0ab4a82f66f13ba8a",
+          "images_payload_and_properties": "832002ee3594ea701e0ec5675ef467f01154247e1a3dac187fb3c8d159ffbf43",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "0b6b8605cfabcf25b5f74fcd60d5af6e3fd6e8f3e845276f1e18c450ff44ea2e",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 105,
+          "meshes": 100,
+          "materials": 11,
+          "images": 12,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 3751650,
+        "private_user_path_count": 11
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 3842777,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v41_source/fxn5c_prototype_0001_source.blend",
+      "candidate_copy_sha256": "14668b6d933666e90dc34774f20a039e07cacf676484b54abede74194e96fe93",
+      "sanitized_sha256": "ce9c57aedd5bcecd7c4374b1d99e81a3bee7f6a39ca7963e098974adeb31e868",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\black_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\blue_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_floor_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_floor_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_lining_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_lining_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cast_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cast_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cast_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cast_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\console_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\console_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\coupler_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\coupler_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\dark_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\exhaust_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\exhaust_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\graphite_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\grille_black_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\light_blue_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\metal_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\ochre_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\ochre_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\red_paint_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\red_paint_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\roof_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_mark_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_mark_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_mark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_mark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\seat_fabric_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\seat_fabric_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\spring_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\spring_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\wheel_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\white_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\yellow_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [],
+      "before": {
+        "hashes": {
+          "meshes": "33b3251bbcdaa0565b40dc73241ed94c761fec40da8a6238c6110952583515a5",
+          "objects": "201c4e8b85b063df6ff1ef9923cbcbf14bd01eba3c45b8b02b56d9709b6f57b8",
+          "materials": "a684ed8fdaa6db31b5dd9195b20104b2d9e06c77c65314984686f4f9ec930e1e",
+          "images_payload_and_properties": "90e2bceadc09efe1da18355789d3096b8e46d75c1aa06031a94ceec5cf90a0b9",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "447246a4b882d7a0169d2f5e60107388227ef6b5fc69d488393d7542f58ccf62",
+          "other_datablocks": "48d585c1b4246876d3acf382a031e97eade6ff06b46b89c19416bc810fb5bfd8"
+        },
+        "counts": {
+          "objects": 3614,
+          "meshes": 3608,
+          "materials": 32,
+          "images": 56,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "33b3251bbcdaa0565b40dc73241ed94c761fec40da8a6238c6110952583515a5",
+          "objects": "201c4e8b85b063df6ff1ef9923cbcbf14bd01eba3c45b8b02b56d9709b6f57b8",
+          "materials": "a684ed8fdaa6db31b5dd9195b20104b2d9e06c77c65314984686f4f9ec930e1e",
+          "images_payload_and_properties": "90e2bceadc09efe1da18355789d3096b8e46d75c1aa06031a94ceec5cf90a0b9",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "447246a4b882d7a0169d2f5e60107388227ef6b5fc69d488393d7542f58ccf62",
+          "other_datablocks": "48d585c1b4246876d3acf382a031e97eade6ff06b46b89c19416bc810fb5bfd8"
+        },
+        "counts": {
+          "objects": 3614,
+          "meshes": 3608,
+          "materials": 32,
+          "images": 56,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 56556312,
+        "private_user_path_count": 47
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 60120004,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v41_source/runtime/final41_prototype_lod1.blend",
+      "candidate_copy_sha256": "3ceca18817bd59488356ba75cc6b7f17c9273fd9a0a0ed0cadac70d6b7eb1a56",
+      "sanitized_sha256": "572d10e9bb7a41de568ae81288320aeaa8fea7732ebe47538371f42e0f523071",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\cab_floor_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\cab_lining_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cast_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\cast_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\console_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\coupler_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\exhaust_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\ochre_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\red_paint_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\screen_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\seat_fabric_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\spring_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [],
+      "before": {
+        "hashes": {
+          "meshes": "63ea81ce50b3cadb330a951aebe43fec73e8ee6e002751239353427814bf076f",
+          "objects": "f8b9280f1e7a0ec88e4c7d541b29f895fcf48edabef2c96cd9f7920a5d6c8d5f",
+          "materials": "f61c04090401b02dbdfbbd3db63d99b754bbddebea9104b1eb1963b9b21cf4e1",
+          "images_payload_and_properties": "f294ca3dfeb5a4af5531620a4e8e1b5fc1d02d1aa2e517e74774d4f4f427ff4b",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "0cea88fcbd7ce5f65aab716d68986f75270f761a5add2ddda8be5f0e2d03ca45",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 2133,
+          "meshes": 2128,
+          "materials": 31,
+          "images": 32,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "63ea81ce50b3cadb330a951aebe43fec73e8ee6e002751239353427814bf076f",
+          "objects": "f8b9280f1e7a0ec88e4c7d541b29f895fcf48edabef2c96cd9f7920a5d6c8d5f",
+          "materials": "f61c04090401b02dbdfbbd3db63d99b754bbddebea9104b1eb1963b9b21cf4e1",
+          "images_payload_and_properties": "f294ca3dfeb5a4af5531620a4e8e1b5fc1d02d1aa2e517e74774d4f4f427ff4b",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "0cea88fcbd7ce5f65aab716d68986f75270f761a5add2ddda8be5f0e2d03ca45",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 2133,
+          "meshes": 2128,
+          "materials": 31,
+          "images": 32,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 30391039,
+        "private_user_path_count": 23
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 32810407,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v41_source/runtime/final41_prototype_lod2.blend",
+      "candidate_copy_sha256": "7c3abf0a2d1c1cc12cde831d7f1eed44391d2176cdccc4098361ed3dde627c3a",
+      "sanitized_sha256": "1e50a2a953109244ddb38df3fc293afd0a47f78421dde6a10217f43edec58c47",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [
+        {
+          "owner": "Image",
+          "name": "proto_gold_rough.tga",
+          "field": "use_fake_user",
+          "before": false,
+          "after": true,
+          "prior_users": 0,
+          "ordinary_native_save_proved_drop": true,
+          "pixels_unchanged": true,
+          "packed_payload_sha256": []
+        },
+        {
+          "owner": "Image",
+          "name": "proto_gold_surface.tga",
+          "field": "use_fake_user",
+          "before": false,
+          "after": true,
+          "prior_users": 0,
+          "ordinary_native_save_proved_drop": true,
+          "pixels_unchanged": true,
+          "packed_payload_sha256": []
+        }
+      ],
+      "before": {
+        "hashes": {
+          "meshes": "7813617bfb98f3d9d95e343ea4a4ac1e3d553723b51cb2b3a22bf342abb94228",
+          "objects": "ce06301802ffd255a8ddc46390ec4fdf531dcf5a6323c573c5fdd5ffc2c398a2",
+          "materials": "26ef0e23a4e1b16bd4af9253ffe8c751fd0e85d5ef73cda848585989ed872fb2",
+          "images_payload_and_properties": "43f55e6d6abea3d6a6338458c2a93a2de731ba3c1a8ee4741a4108f62d89bf81",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "8c351680a3d466b43cb4ab937b81e2badf625c4df47cbf1ddfbcbd75c242f135",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 237,
+          "meshes": 232,
+          "materials": 15,
+          "images": 21,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "7813617bfb98f3d9d95e343ea4a4ac1e3d553723b51cb2b3a22bf342abb94228",
+          "objects": "ce06301802ffd255a8ddc46390ec4fdf531dcf5a6323c573c5fdd5ffc2c398a2",
+          "materials": "26ef0e23a4e1b16bd4af9253ffe8c751fd0e85d5ef73cda848585989ed872fb2",
+          "images_payload_and_properties": "43f55e6d6abea3d6a6338458c2a93a2de731ba3c1a8ee4741a4108f62d89bf81",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "8c351680a3d466b43cb4ab937b81e2badf625c4df47cbf1ddfbcbd75c242f135",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 237,
+          "meshes": 232,
+          "materials": 15,
+          "images": 21,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 4746478,
+        "private_user_path_count": 11
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 4900478,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v42_source/fxn5c_jinwen_source.blend",
+      "candidate_copy_sha256": "cb2476a214cd92cb2762c61f6fd10f39ddcb8b2f8a515db4fd005dcea232d990",
+      "sanitized_sha256": "bd0bd967c9fda1b99214b46819faa15d718caaa16c8a9a202eda0727cde2eba1",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\black_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\blue_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_floor_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_floor_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_lining_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_lining_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\console_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\console_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\coupler_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\coupler_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\dark_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\exhaust_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\exhaust_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\graphite_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\grille_black_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_blue_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_blue_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_blue_surface_packed_e1fe619fbc31.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_frame_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_frame_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_frame_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_frame_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_red_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_red_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_red_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_red_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_roof_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_roof_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_spring_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_spring_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_spring_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_spring_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_white_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_white_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\jw_white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\light_blue_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\metal_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\ochre_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\ochre_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\red_paint_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\red_paint_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\roof_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_mark_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_mark_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_mark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_mark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\seat_fabric_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\seat_fabric_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\spring_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\spring_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\wheel_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\white_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\yellow_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [],
+      "before": {
+        "hashes": {
+          "meshes": "178a4321a1a21ec97e420f288c9a8f7cb922fe7ab4350bcabb5394028c63d795",
+          "objects": "120dfdef250853854662c3bd193cda7486a73c84a7a6773da70fb717050da50d",
+          "materials": "40e0e31d15b07f9c348c8324c177273840cb88d658952ab28e5cf560071e1a34",
+          "images_payload_and_properties": "bf84be1bb3fe696035144b89d04b0f3cd0b526befc8bd19dcf2e93c614d76673",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "a2529c64692c5df7177406c897a9e15f254d1eb1d93e75992e6eb79a432d7849",
+          "other_datablocks": "48d585c1b4246876d3acf382a031e97eade6ff06b46b89c19416bc810fb5bfd8"
+        },
+        "counts": {
+          "objects": 3952,
+          "meshes": 3946,
+          "materials": 33,
+          "images": 58,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "178a4321a1a21ec97e420f288c9a8f7cb922fe7ab4350bcabb5394028c63d795",
+          "objects": "120dfdef250853854662c3bd193cda7486a73c84a7a6773da70fb717050da50d",
+          "materials": "40e0e31d15b07f9c348c8324c177273840cb88d658952ab28e5cf560071e1a34",
+          "images_payload_and_properties": "bf84be1bb3fe696035144b89d04b0f3cd0b526befc8bd19dcf2e93c614d76673",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "a2529c64692c5df7177406c897a9e15f254d1eb1d93e75992e6eb79a432d7849",
+          "other_datablocks": "48d585c1b4246876d3acf382a031e97eade6ff06b46b89c19416bc810fb5bfd8"
+        },
+        "counts": {
+          "objects": 3952,
+          "meshes": 3946,
+          "materials": 33,
+          "images": 58,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 68624255,
+        "private_user_path_count": 57
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 74439365,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v42_source/fxn5c_prototype_0001_source.blend",
+      "candidate_copy_sha256": "dfd3d290009e31f02e5e631edd5b21c65c1182f8dc94a518277c7739a16d1990",
+      "sanitized_sha256": "f609ec193e3300e46e638e3faeb4aa0c7c76462e8a18bff2359e21efa4becb8e",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\black_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\blue_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_floor_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_floor_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_lining_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_lining_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cast_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cast_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cast_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cast_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\console_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\console_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\coupler_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\coupler_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\dark_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\exhaust_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\exhaust_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\graphite_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\grille_black_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\light_blue_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\metal_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\ochre_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\ochre_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\red_paint_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\red_paint_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\roof_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_mark_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_mark_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_mark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_mark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\seat_fabric_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\seat_fabric_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\spring_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\spring_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\wheel_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\white_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\yellow_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [],
+      "before": {
+        "hashes": {
+          "meshes": "2c1ab4d703d478ed2a1cf74be68adf164ad1db58b633189c2eb53d60f4590948",
+          "objects": "c36e0db0cc0f343d6eb76b5dc2361e5fac7469f83a41dc1a67670c98d5156667",
+          "materials": "03fba1810d9af1cfa068eab3df62020b39e61b3cbfa77445bfe8dc36acb4a7f9",
+          "images_payload_and_properties": "a219c40585f30a4e39ec2015ba0fd15855c94a5910bbf5e86828e241fa7d2920",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "6a9f8e57aca651b9a820b40803231d79ea9c0d2e671d0e70d021aa30eb7a7aef",
+          "other_datablocks": "48d585c1b4246876d3acf382a031e97eade6ff06b46b89c19416bc810fb5bfd8"
+        },
+        "counts": {
+          "objects": 3618,
+          "meshes": 3612,
+          "materials": 33,
+          "images": 58,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "2c1ab4d703d478ed2a1cf74be68adf164ad1db58b633189c2eb53d60f4590948",
+          "objects": "c36e0db0cc0f343d6eb76b5dc2361e5fac7469f83a41dc1a67670c98d5156667",
+          "materials": "03fba1810d9af1cfa068eab3df62020b39e61b3cbfa77445bfe8dc36acb4a7f9",
+          "images_payload_and_properties": "a219c40585f30a4e39ec2015ba0fd15855c94a5910bbf5e86828e241fa7d2920",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "6a9f8e57aca651b9a820b40803231d79ea9c0d2e671d0e70d021aa30eb7a7aef",
+          "other_datablocks": "48d585c1b4246876d3acf382a031e97eade6ff06b46b89c19416bc810fb5bfd8"
+        },
+        "counts": {
+          "objects": 3618,
+          "meshes": 3612,
+          "materials": 33,
+          "images": 58,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 56694703,
+        "private_user_path_count": 47
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 60264303,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v42_source/fxn5c_source.blend",
+      "candidate_copy_sha256": "f3bc208a7d77efc4cd1fe52ae48a879373c0779114a0e452ec284d42f14099e6",
+      "sanitized_sha256": "299a20620d407b7af01e364a9bdf54d51d78501574de572b2e92735ad3159a31",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\black_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\blue_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_floor_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_floor_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_lining_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cab_lining_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cast_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cast_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cast_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\cast_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\console_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\console_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\coupler_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\coupler_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\dark_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\exhaust_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\exhaust_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\graphite_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\grille_black_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\light_blue_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\metal_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\ochre_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\ochre_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\red_paint_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\red_paint_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\roof_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_mark_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_mark_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_mark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_mark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\screen_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\seat_fabric_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\seat_fabric_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\spring_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\spring_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\wheel_steel_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\white_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_rough.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\yellow_rough.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//source_textures\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [],
+      "before": {
+        "hashes": {
+          "meshes": "fbceabde6dbdf2c2ee7950ae871cdd32cb4557db22e30f45d3d1f09599252833",
+          "objects": "0602554551d9037a92987acfc0f5e7437c2ea661810de9b011fb84c1a48e46d9",
+          "materials": "b93ae8cb868f2db0b0816ebc6e7d17fc6be8e09f8f83a01833117fa7e8fbb705",
+          "images_payload_and_properties": "a590ed2abff5b5d886af63a1ab7c520cbf0e1986f3d98c5d9075f5a7cc555e4a",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "25f1d3e4dade45fd537e7cbc9594a9aaa38cae305ad0d35c7df3fd1490533993",
+          "other_datablocks": "48d585c1b4246876d3acf382a031e97eade6ff06b46b89c19416bc810fb5bfd8"
+        },
+        "counts": {
+          "objects": 3956,
+          "meshes": 3950,
+          "materials": 29,
+          "images": 50,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "fbceabde6dbdf2c2ee7950ae871cdd32cb4557db22e30f45d3d1f09599252833",
+          "objects": "0602554551d9037a92987acfc0f5e7437c2ea661810de9b011fb84c1a48e46d9",
+          "materials": "b93ae8cb868f2db0b0816ebc6e7d17fc6be8e09f8f83a01833117fa7e8fbb705",
+          "images_payload_and_properties": "a590ed2abff5b5d886af63a1ab7c520cbf0e1986f3d98c5d9075f5a7cc555e4a",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "25f1d3e4dade45fd537e7cbc9594a9aaa38cae305ad0d35c7df3fd1490533993",
+          "other_datablocks": "48d585c1b4246876d3acf382a031e97eade6ff06b46b89c19416bc810fb5bfd8"
+        },
+        "counts": {
+          "objects": 3956,
+          "meshes": 3950,
+          "materials": 29,
+          "images": 50,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 60364191,
+        "private_user_path_count": 47
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 64012419,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v42_source/runtime/final42_fxn5c_jinwen_lod1.blend",
+      "candidate_copy_sha256": "b081747b97be964666bceb9545adc5683950936790619b4ed51912ca6b9122a8",
+      "sanitized_sha256": "c851ce28c63bdf8fe7c71fa47a133ff3e62784f19207fd4e6ec26f618ab48eb4",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\cab_floor_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\cab_lining_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\console_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\coupler_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\exhaust_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\jw_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_frame_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\jw_frame_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_red_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\jw_red_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\jw_roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_spring_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\jw_spring_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\jw_white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\ochre_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\red_paint_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\screen_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\seat_fabric_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\spring_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [],
+      "before": {
+        "hashes": {
+          "meshes": "3758a66df204ee587880ed0ca1e6425be1ba295c6964ca7ab6e67f8efebbfedc",
+          "objects": "79a12bc479b801a3350666232b7c1c88536ac2c69179f504d1014c45afa6fe67",
+          "materials": "1777d9c53f1b7d0b1f0c3ae7c1f9a1636e185dfc2329a12ba15e7afe9e22c928",
+          "images_payload_and_properties": "9e52627544a801d67ede8ded56c35d168a3921bb9c979fd655e005d59d77773e",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "8cf0d7726483e7f72f7489539d8ad9707e14a0dda25ef18d2432e3af30f0a6f6",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 2241,
+          "meshes": 2236,
+          "materials": 31,
+          "images": 29,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "3758a66df204ee587880ed0ca1e6425be1ba295c6964ca7ab6e67f8efebbfedc",
+          "objects": "79a12bc479b801a3350666232b7c1c88536ac2c69179f504d1014c45afa6fe67",
+          "materials": "1777d9c53f1b7d0b1f0c3ae7c1f9a1636e185dfc2329a12ba15e7afe9e22c928",
+          "images_payload_and_properties": "9e52627544a801d67ede8ded56c35d168a3921bb9c979fd655e005d59d77773e",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "8cf0d7726483e7f72f7489539d8ad9707e14a0dda25ef18d2432e3af30f0a6f6",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 2241,
+          "meshes": 2236,
+          "materials": 31,
+          "images": 29,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 38913320,
+        "private_user_path_count": 28
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 43444558,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v42_source/runtime/final42_fxn5c_jinwen_lod2.blend",
+      "candidate_copy_sha256": "e12adfd95d884a769488d5a2aa00f30292a45f703da339b248230d8a2e140abb",
+      "sanitized_sha256": "6f0ba9e0d81b962d4bfa6324878899be5e03220641e854a54325120ad6be2dbd",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\jw_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_frame_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\jw_frame_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\jw_roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "jw_white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\jw_white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [],
+      "before": {
+        "hashes": {
+          "meshes": "be7671902234c1eb634c53c409d0a78b9b50cf7b8ca5f6ab0e489eb4d44251bf",
+          "objects": "0fc63b3fccb9588ab543fbde975c8b212aa68a991d58a988268492ba5ba74702",
+          "materials": "bf438a4e471534dc0c8513d43171664ecdbd854add0859eebd804b8833649125",
+          "images_payload_and_properties": "c1ecd3c569691d51bdcf21fef56714dde2037c1727a8729c69ba982a82bd6e5c",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "f1c697f36edb937b2fa5c35feb2427959fa1ef1dcda1e9fac3b9de340a845116",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 107,
+          "meshes": 102,
+          "materials": 13,
+          "images": 14,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "be7671902234c1eb634c53c409d0a78b9b50cf7b8ca5f6ab0e489eb4d44251bf",
+          "objects": "0fc63b3fccb9588ab543fbde975c8b212aa68a991d58a988268492ba5ba74702",
+          "materials": "bf438a4e471534dc0c8513d43171664ecdbd854add0859eebd804b8833649125",
+          "images_payload_and_properties": "c1ecd3c569691d51bdcf21fef56714dde2037c1727a8729c69ba982a82bd6e5c",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "f1c697f36edb937b2fa5c35feb2427959fa1ef1dcda1e9fac3b9de340a845116",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 107,
+          "meshes": 102,
+          "materials": 13,
+          "images": 14,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 4436272,
+        "private_user_path_count": 13
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 4597944,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v42_source/runtime/final42_fxn5c_lod1.blend",
+      "candidate_copy_sha256": "c6a353609686943bbca73b0b11d301538c3c8b17ca10258bb8ad7f7730d137f3",
+      "sanitized_sha256": "6584aacca0993bd365913ee2ae0070e18c553c669194c51d5cff27cac21f27cb",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\cab_floor_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\cab_lining_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cast_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\cast_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\console_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\coupler_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\exhaust_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\ochre_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\red_paint_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\screen_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\seat_fabric_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\spring_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [],
+      "before": {
+        "hashes": {
+          "meshes": "2b7922e294ee11a73d5e343aa76669bbb756f403117f0aa07fe798f641e521bb",
+          "objects": "ecda94aa75c79cab46f8b6dbd4a6f14e9a4b645e017aabb0178bdf552c8c9232",
+          "materials": "ecc9d6cb008da94d7a88ba747fad72584d5c443a97ce60a005f9fee9f8453c2f",
+          "images_payload_and_properties": "39ba1894bb8270fb06ffbd0fbac2a125ea00dd6294d78c7739f6cc94e87583ea",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "d06893679b1dace1b4a90bc5177fca86029e221bde27423b4af5882171092a8b",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 2253,
+          "meshes": 2248,
+          "materials": 27,
+          "images": 26,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "2b7922e294ee11a73d5e343aa76669bbb756f403117f0aa07fe798f641e521bb",
+          "objects": "ecda94aa75c79cab46f8b6dbd4a6f14e9a4b645e017aabb0178bdf552c8c9232",
+          "materials": "ecc9d6cb008da94d7a88ba747fad72584d5c443a97ce60a005f9fee9f8453c2f",
+          "images_payload_and_properties": "39ba1894bb8270fb06ffbd0fbac2a125ea00dd6294d78c7739f6cc94e87583ea",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "d06893679b1dace1b4a90bc5177fca86029e221bde27423b4af5882171092a8b",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 2253,
+          "meshes": 2248,
+          "materials": 27,
+          "images": 26,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 32063751,
+        "private_user_path_count": 23
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 34636717,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v42_source/runtime/final42_fxn5c_lod2.blend",
+      "candidate_copy_sha256": "033a477fd5de733b81ca0af9cb8920fb0f4ae630bb736997c9c447c434e80107",
+      "sanitized_sha256": "aad63566344e44a5517344782635845baa02526da4afee698ea5379c7e4ee061",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [],
+      "before": {
+        "hashes": {
+          "meshes": "089c81100625e4b711b853f3cb1527a0e2536f708c58b7401d7dc5e20db4f36c",
+          "objects": "64e66b0d8a0c55e70cf4eed48b0d025a8132795d16fa93c0ed8da6b43a8f432e",
+          "materials": "addfe58b34b8ead725faf5da3ca520d95df098d28c63bd08690f7cd8fbbf1dda",
+          "images_payload_and_properties": "31c631521d320894af463df4ab68be2550c583a5d665c9d5273fec920affc48f",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "f1c697f36edb937b2fa5c35feb2427959fa1ef1dcda1e9fac3b9de340a845116",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 107,
+          "meshes": 102,
+          "materials": 12,
+          "images": 14,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "089c81100625e4b711b853f3cb1527a0e2536f708c58b7401d7dc5e20db4f36c",
+          "objects": "64e66b0d8a0c55e70cf4eed48b0d025a8132795d16fa93c0ed8da6b43a8f432e",
+          "materials": "addfe58b34b8ead725faf5da3ca520d95df098d28c63bd08690f7cd8fbbf1dda",
+          "images_payload_and_properties": "31c631521d320894af463df4ab68be2550c583a5d665c9d5273fec920affc48f",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "f1c697f36edb937b2fa5c35feb2427959fa1ef1dcda1e9fac3b9de340a845116",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 107,
+          "meshes": 102,
+          "materials": 12,
+          "images": 14,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 3796515,
+        "private_user_path_count": 11
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 3888262,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v42_source/runtime/final42_fxn5c_prototype_0001_lod1.blend",
+      "candidate_copy_sha256": "4074cc954ab194571b7c75d0553993457f38659877c4bc5d8cc7007059c80268",
+      "sanitized_sha256": "a15e343f10bf3e4c420b3e48491958c45cffb3af484dd6803440d85ede32a78c",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_floor_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\cab_floor_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cab_lining_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\cab_lining_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "cast_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\cast_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "console_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\console_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "coupler_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\coupler_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "exhaust_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\exhaust_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "ochre_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\ochre_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "red_paint_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\red_paint_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "screen_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\screen_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "seat_fabric_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\seat_fabric_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "spring_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\spring_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "white_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\white_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [],
+      "before": {
+        "hashes": {
+          "meshes": "87c38cd5402e53d604c5c5ff135ab8f4f94efaddffa08a59340e09ee40fb690c",
+          "objects": "59bf1deb3c9e3b7e2929a9693bad67d0d906a6d96e6ba85557737c1f807f274d",
+          "materials": "6d8d55abc9587e6eabe9a186893934d4edae4baf1b17569411735c606c08a18d",
+          "images_payload_and_properties": "3bac086a0af88cb90f880aee7d8872c7e82264cddde60a13a5e80b86ebceaab6",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "ba5fb17d38f6cd3613f9057a3e040e9b626d8e19bfce46ed1fd8187f397d43e7",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 2137,
+          "meshes": 2132,
+          "materials": 32,
+          "images": 34,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "87c38cd5402e53d604c5c5ff135ab8f4f94efaddffa08a59340e09ee40fb690c",
+          "objects": "59bf1deb3c9e3b7e2929a9693bad67d0d906a6d96e6ba85557737c1f807f274d",
+          "materials": "6d8d55abc9587e6eabe9a186893934d4edae4baf1b17569411735c606c08a18d",
+          "images_payload_and_properties": "3bac086a0af88cb90f880aee7d8872c7e82264cddde60a13a5e80b86ebceaab6",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "ba5fb17d38f6cd3613f9057a3e040e9b626d8e19bfce46ed1fd8187f397d43e7",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 2137,
+          "meshes": 2132,
+          "materials": 32,
+          "images": 34,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 30515136,
+        "private_user_path_count": 23
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 32940412,
+        "private_user_path_count": 0
+      }
+    },
+    {
+      "status": "PASS",
+      "file": "fxn5c_v42_source/runtime/final42_fxn5c_prototype_0001_lod2.blend",
+      "candidate_copy_sha256": "fb2f7543a80e19cdea100ef56d4ee1e728f403355f4fc9df9e1e3912d3f6deb7",
+      "sanitized_sha256": "116f381f7bd7e1f2cc7f353fb606206bc34444c0d8fa2c4c67d2a6c92d32eb51",
+      "changes": [
+        {
+          "owner": "ImagePackedFile",
+          "name": "black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "dark_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\dark_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "graphite_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\graphite_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "grille_black_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\grille_black_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "light_blue_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\light_blue_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "metal_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\metal_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "roof_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\roof_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "wheel_steel_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\wheel_steel_surface.tga"
+        },
+        {
+          "owner": "ImagePackedFile",
+          "name": "yellow_surface.tga",
+          "index": 0,
+          "field": "filepath",
+          "replacement": "//..\\source_textures\\yellow_surface.tga"
+        },
+        {
+          "owner": "FileSelectParams",
+          "name": "Shading",
+          "area": 4,
+          "space": 0,
+          "field": "directory",
+          "replacement": "//"
+        }
+      ],
+      "orphan_image_retention_flags": [],
+      "before": {
+        "hashes": {
+          "meshes": "b05dbdb947fdbf8f8b07e6a06115b5d4f9051c6adee0960568d1bfdb53550b54",
+          "objects": "4a886dc0ee7939b614cb2357d72467c3d72001372d3927083756d1f2127e1ac0",
+          "materials": "db092a9324c57b19e10245b442ae73136317ed2f0c56fece9ccb5c442647c124",
+          "images_payload_and_properties": "168fb2a479e44b09c4c48abffbf59f42b4727bc8286b0b113dc330c0408bebca",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "9c3cc34f4777ee6df8cd0c2b8ed8af7663a9d96a33555465f186c283a2f3576a",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 241,
+          "meshes": 236,
+          "materials": 16,
+          "images": 21,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "after": {
+        "hashes": {
+          "meshes": "b05dbdb947fdbf8f8b07e6a06115b5d4f9051c6adee0960568d1bfdb53550b54",
+          "objects": "4a886dc0ee7939b614cb2357d72467c3d72001372d3927083756d1f2127e1ac0",
+          "materials": "db092a9324c57b19e10245b442ae73136317ed2f0c56fece9ccb5c442647c124",
+          "images_payload_and_properties": "168fb2a479e44b09c4c48abffbf59f42b4727bc8286b0b113dc330c0408bebca",
+          "actions": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "texts": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+          "collections": "9c3cc34f4777ee6df8cd0c2b8ed8af7663a9d96a33555465f186c283a2f3576a",
+          "other_datablocks": "4d9c70566a2d326d0a8328f97e3ce6126514f0135fbc10d30a56caba8224f072"
+        },
+        "counts": {
+          "objects": 241,
+          "meshes": 236,
+          "materials": 16,
+          "images": 21,
+          "actions": 0,
+          "texts": 0,
+          "collections": 1,
+          "armatures": 0,
+          "curves": 0
+        }
+      },
+      "exact_nonpath_fingerprints_except_declared_retention_flags": true,
+      "all_geometry_objects_transforms_material_nodes_actions_text_exact": true,
+      "packed_image_payload_unchanged": true,
+      "original_candidate_modified": false,
+      "game_geometry_modified": false,
+      "method": "Blender RNA path cleanup; proven dropped zero-user images only gain explicit reversible fake-user retention; native save and readback",
+      "before_binary_scan": {
+        "decompressed_bytes": 4803005,
+        "private_user_path_count": 11
+      },
+      "after_binary_scan": {
+        "decompressed_bytes": 4958409,
+        "private_user_path_count": 0
+      }
+    }
+  ],
+  "scene_count": 18,
+  "non_blend_files_byte_exact": 3324,
+  "binary_user_path_matches_after": 0,
+  "original_candidate_immutable": true,
+  "native_resources_unchanged": true,
+  "historical_audits": "Original candidate manifests/reports retained verbatim. Scene path metadata hashes changed in this publication copy; use this explicit original-to-public mapping. No new geometry or game test is claimed.",
+  "cleaner_sha256": "2bb23a10d8d96c77dc550b5a912f26e939fb5b636c61ae6f332da9c635609737",
+  "core_fingerprint_script_sha256": "c4a590cf465aa96bee70d7e8104ceb29848755a88a380fb1998c0da0e0a10f99",
+  "orphan_image_retention_flag_changes": 4,
+  "manager_sha256": "f0a5959f5d2dc3a378eac81d77b5dafe4f17b0957cf91aaa221bfc37853662da"
+}

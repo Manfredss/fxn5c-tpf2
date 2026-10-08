@@ -1,16 +1,16 @@
 # 复兴5C / FXN5C for Transport Fever 2
 
-国铁蓝与金温铁路涂装，10 个车号。由 Manfredss 发起，使用 AI 辅助建模与脚本开发，持续依据参考资料和游戏反馈修正。
+国铁蓝、金温铁路与红色原型车，11 个车号。由 Manfredss 发起，使用 AI 辅助建模与脚本开发，持续依据参考资料和游戏反馈修正。
 
 **希望这不只是一个可下载的模组，也是一份能被接着完善的模型。** 欢迎补充实车资料、修正结构、细化转向架，或提交自己的改进。
 
-![FXN5C v0.37 模型预览（原生资源回读渲染，不是游戏截图）](docs/images/v0.37_wave_review.jpg)
+![FXN5C v0.44 红色原型车（原生资源离线回读预览）](docs/images/v0.44_prototype.png)
 
 ## 下载与使用
 
 - [版本下载](https://github.com/Manfredss/fxn5c-tpf2/releases)：游戏包及可编辑源文件包，以实际附件为准。
 - [创意工坊条目](https://steamcommunity.com/sharedfiles/filedetails/?id=3804171278)：现有公开条目，版本与更新时间以工坊页面为准。
-- 当前版本：**v0.37**。游戏使用目录：`source/fxn5c_v37_source/staging/codex_fxn5c_1`，也可直接使用游戏发布 ZIP。
+- 当前版本：**[v0.44](https://github.com/Manfredss/fxn5c-tpf2/releases/tag/v0.44)**。游戏使用目录：`source/fxn5c_v44_source/staging/codex_fxn5c_1`，也可直接使用游戏发布 ZIP。
 - 请先备份存档，不要同时启用同一模组的本地版和工坊版。
 
 ## 内容与游戏参数
@@ -22,26 +22,31 @@
 | 国铁蓝 · 上局杭段 | 0057、0081 |
 | 国铁蓝 · 上局徐段 | 0035、0115 |
 | 金温铁路 · 金温温段 | 7005、7006 |
+| 红色原型车 · 独立购买项 | 0001 |
 
-当前游戏配置：3530 kW、580 kN、120 km/h、150 t。默认各年份可购买；可选国铁 2024 年起、金温 2025 年起。配属、年份和参数是本模组设置，不作为实车履历或厂家数据证明。
+当前游戏配置：3530 kW、580 kN、120 km/h、150 t。默认各年份可购买；可选国铁 2024 年起、金温 2025 年起。原型车当前不限年代，动力暂沿用量产配置。配属、年份和参数是本模组设置，不作为实车履历或厂家数据证明。
 
-v0.37 累计细化了车顶截面与设备、双格风扇护网、两侧散热窗布局、国铁/金温涂装衔接和腔体内壁。风扇旋转；大散热窗固定打开 55°；小百叶 9 片、最大 40°、0.8 秒波浪循环。详见[完整版本说明](docs/RELEASE_V37.md)。这些角度和速度是展示配置，不是实车温控模拟。
+v0.44 新增红色 0001 原型车，使用专用四顶灯车头、竖排下灯、门梯及实体“复兴”凸字；修正车头单平面过渡与竖直扶手，统一侧视轨道购买图标并补齐原型 TGA。量产车型累计细化车顶、内凹矩形窗、罩内喇叭、加厚砂箱、右下字影和橙黄腰线。详见[完整版本说明](docs/RELEASE_V44.md)。
+
+风扇旋转；大散热窗固定打开 55°；小百叶 9 片、最大 40°、0.8 秒波浪循环。这些角度和速度是展示配置，不是实车温控模拟。
+
+![三涂装侧视购买图标](docs/images/v0.44_purchase_icons.png)
 
 ![小百叶波浪动画（离线原生资源预览）](docs/images/v0.37_roof_wave.gif)
 
 ## 从模型源文件开始
 
-在 `source/fxn5c_v37_source/` 中打开 `fxn5c_source.blend` 或 `fxn5c_jinwen_source.blend`。两者是可编辑 LOD0 场景，使用 Blender 5.2 保存。贴图另在 `source_textures/`，并已打包入场景。
+原型车在 `source/fxn5c_v44_source/` 中打开 `fxn5c_prototype_0001_source.blend`。量产国铁/金温的可编辑场景位于 v0.44 Release 另附的 `FXN5C_SourceKit_v0.42_ProductionBaseline.zip`。使用 Blender 5.2，贴图已打包并提供相对路径副本。
 
-本版没有新导出的 FBX。保留的 `source/fxn5c_v24_source/fbx_import/` 仅代表历史 v0.24 静态模型，不含完整动画绑定；请勿当作 v0.37。游戏读取 MDL／MSH，不直接加载 FBX。
+本版没有新导出的 FBX。保留的 `source/fxn5c_v24_source/fbx_import/` 仅代表历史 v0.24 静态模型，不含完整动画绑定。游戏读取 MDL／MSH，不直接加载 FBX。
 
-脚本是历史增量管线，**不是从最终场景一键导出的通用插件，也还不是已验证的独立可复现构建**。v0.37 构建依赖相邻 v0.36 基线，已随 SourceKit 附件提供；GitHub 自动 Source code ZIP 不含该完整基线。具体见 [构建说明](docs/BUILDING.md)。
+脚本是历史增量管线，尚未验证干净环境的一键全量重建。v0.44 原型构建所需的相邻 v0.43 基线已随 `FXN5C_SourceKit_v0.44_Prototype.zip` 提供；GitHub 自动 Source code ZIP 不含该完整基线。任意修改最终 `.blend` 不会自动回写生成器。具体见 [构建说明](docs/BUILDING.md)。
 
 ## 已知不足
 
 - 连接杆仍是双端蒙皮近似，可能弯曲／伸缩，不是精确刚性铰接；极端曲线姿态需要继续检查。
 - 隐藏机构、安装关系、轮对与轴箱、管路和转向净空仍欢迎校正；不是厂家 CAD。
-- v0.37 原生资源、源模型一致性、动画矩阵、运动间隙及动画选项通过离线检查；尚缺本版系统游戏/Model Editor 实测记录。渲染预览不能证明游戏灯光分类或编组行为。
+- v0.44 原生资源、源模型一致性、局部连接/灯口及 52 张图标通过离线检查；系统游戏/Model Editor 实测仍待完成。原型购买菜单需完整重启后确认；门梯在更大转向角下有干涉风险。
 - 前端内侧灯按车号固定分配红／白，不宣称对应实车接线。
 
 见 [贡献指南](CONTRIBUTING.md) 和 [更新记录](CHANGELOG.md)。
@@ -59,6 +64,6 @@ v0.37 累计细化了车顶截面与设备、双格风扇护网、两侧散热�
 
 ## English
 
-An editable FXN5C locomotive project for Transport Fever 2: China Railway blue and Jinwen Railway liveries, ten numbered variants. Contributions to geometry, bogies, linkage motion and in-game testing are welcome. This is an approximate reconstruction, not manufacturer CAD. The incremental build has historical dependencies; see BUILDING.md before running it.
+An editable FXN5C locomotive project for Transport Fever 2: China Railway, Jinwen and red prototype liveries, eleven numbered locomotives. v0.44 refines prototype cab transitions and handrails, and supplies side-view TGA purchase icons. Contributions to geometry, bogies, linkage motion and in-game testing are welcome. This is an approximate reconstruction, not manufacturer CAD. The incremental build has historical dependencies; see BUILDING.md before running it.
 
 Original code is MIT licensed. Original models, textures and asset data are CC BY-NC-SA 4.0 (noncommercial, attribution, share alike). Third-party marks and materials are excluded from this grant. Preview renders are not in-game screenshots.
